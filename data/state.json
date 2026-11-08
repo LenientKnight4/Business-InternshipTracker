@@ -1,0 +1,2297 @@
+{
+ "fit": {
+  "ashby:notion:27090d0f-07d3-419b-adaa-837b5e22f947": {
+   "ok": false,
+   "source": "Notion",
+   "why": "for class of 2028"
+  },
+  "ashby:notion:43ffba97-b64a-4c6a-ac13-c803253c9413": {
+   "ok": false,
+   "source": "Notion",
+   "why": "for class of 2028"
+  },
+  "ashby:ramp:a13ae586-f4cb-4385-8822-c42b9b54ed74": {
+   "ok": false,
+   "source": "Ramp",
+   "why": "for class of 2027"
+  },
+  "ashby:ramp:acf6b28d-767f-483f-8ff2-114620cd7e04": {
+   "ok": false,
+   "source": "Ramp",
+   "why": "for class of 2027"
+  },
+  "ashby:ramp:b39ceb08-a0a7-4f8b-a760-2fb88e209956": {
+   "ok": true,
+   "source": "Ramp",
+   "why": "open to class of 2029"
+  },
+  "ashby:ramp:b66be397-240b-41a6-9b05-493299b270a9": {
+   "ok": false,
+   "source": "Ramp",
+   "why": "for class of 2027"
+  },
+  "ashby:ramp:fcf118cc-521a-4a62-9d13-945e5b6e3cb8": {
+   "ok": false,
+   "source": "Ramp",
+   "why": "for class of 2027"
+  },
+  "ef:bcg.com:790318711565": {
+   "ok": false,
+   "source": "BCG",
+   "why": "for class of 2027/2028"
+  },
+  "ef:bcg.com:790318711566": {
+   "ok": false,
+   "source": "BCG",
+   "why": "for class of 2027/2028"
+  },
+  "gh:braze:8301086": {
+   "ok": true,
+   "source": "Braze",
+   "why": "no class year listed; check eligibility"
+  },
+  "gh:coinbase:8173991": {
+   "ok": true,
+   "source": "Coinbase",
+   "why": "no class year listed; check eligibility"
+  },
+  "gh:coinbase:8175363": {
+   "ok": true,
+   "source": "Coinbase",
+   "why": "no class year listed; check eligibility"
+  },
+  "gh:coinbase:8175366": {
+   "ok": true,
+   "source": "Coinbase",
+   "why": "no class year listed; check eligibility"
+  },
+  "gh:coinbase:8175369": {
+   "ok": false,
+   "source": "Coinbase",
+   "why": "for class of 2027"
+  },
+  "gh:coinbase:8175429": {
+   "ok": true,
+   "source": "Coinbase",
+   "why": "no class year listed; check eligibility"
+  },
+  "gh:coinbase:8175432": {
+   "ok": true,
+   "source": "Coinbase",
+   "why": "no class year listed; check eligibility"
+  },
+  "gh:coinbase:8175435": {
+   "ok": false,
+   "source": "Coinbase",
+   "why": "for class of 2027/2028"
+  },
+  "gh:coinbase:8175447": {
+   "ok": true,
+   "source": "Coinbase",
+   "why": "no class year listed; check eligibility"
+  },
+  "gh:coinbase:8175453": {
+   "ok": true,
+   "source": "Coinbase",
+   "why": "no class year listed; check eligibility"
+  },
+  "gh:coinbase:8175462": {
+   "ok": true,
+   "source": "Coinbase",
+   "why": "no class year listed; check eligibility"
+  },
+  "gh:coinbase:8175471": {
+   "ok": true,
+   "source": "Coinbase",
+   "why": "no class year listed; check eligibility"
+  },
+  "gh:coinbase:8175507": {
+   "ok": true,
+   "source": "Coinbase",
+   "why": "no class year listed; check eligibility"
+  },
+  "gh:coinbase:8175510": {
+   "ok": true,
+   "source": "Coinbase",
+   "why": "no class year listed; check eligibility"
+  },
+  "gh:coinbase:8175514": {
+   "ok": true,
+   "source": "Coinbase",
+   "why": "no class year listed; check eligibility"
+  },
+  "gh:coinbase:8175517": {
+   "ok": true,
+   "source": "Coinbase",
+   "why": "no class year listed; check eligibility"
+  },
+  "gh:coinbase:8175556": {
+   "ok": true,
+   "source": "Coinbase",
+   "why": "no class year listed; check eligibility"
+  },
+  "gh:coinbase:8175569": {
+   "ok": true,
+   "source": "Coinbase",
+   "why": "no class year listed; check eligibility"
+  },
+  "gh:coinbase:8187551": {
+   "ok": false,
+   "source": "Coinbase",
+   "why": "for class of 2027"
+  },
+  "gh:coinbase:8221238": {
+   "ok": true,
+   "source": "Coinbase",
+   "why": "no class year listed; check eligibility"
+  },
+  "gh:coinbase:8221241": {
+   "ok": true,
+   "source": "Coinbase",
+   "why": "no class year listed; check eligibility"
+  },
+  "gh:datadog:8052118": {
+   "ok": true,
+   "source": "Datadog",
+   "why": "no class year listed; check eligibility"
+  },
+  "gh:duolingo:8888721002": {
+   "ok": false,
+   "source": "Duolingo",
+   "why": "for class of 2027/2028"
+  },
+  "gh:figma:6143238004": {
+   "ok": false,
+   "source": "Figma",
+   "why": "summer 2027, no sign sophomores can apply"
+  },
+  "gh:figma:6178851004": {
+   "ok": false,
+   "source": "Figma",
+   "why": "summer 2027, no sign sophomores can apply"
+  },
+  "gh:figma:6180005004": {
+   "ok": false,
+   "source": "Figma",
+   "why": "summer 2027, no sign sophomores can apply"
+  },
+  "gh:hasbro:4424981009": {
+   "ok": false,
+   "source": "Hasbro",
+   "why": "summer 2027, no sign sophomores can apply"
+  },
+  "gh:hasbro:4456744009": {
+   "ok": false,
+   "source": "Hasbro",
+   "why": "summer 2027, no sign sophomores can apply"
+  },
+  "gh:hasbro:4468121009": {
+   "ok": false,
+   "source": "Hasbro",
+   "why": "summer 2027, no sign sophomores can apply"
+  },
+  "gh:hasbro:4470038009": {
+   "ok": false,
+   "source": "Hasbro",
+   "why": "summer 2027, no sign sophomores can apply"
+  },
+  "gh:hasbro:4472128009": {
+   "ok": false,
+   "source": "Hasbro",
+   "why": "summer 2027, no sign sophomores can apply"
+  },
+  "gh:hasbro:4472758009": {
+   "ok": false,
+   "source": "Hasbro",
+   "why": "summer 2027, no sign sophomores can apply"
+  },
+  "gh:mongodb:8209134": {
+   "ok": true,
+   "source": "MongoDB",
+   "why": "open to class of 2029"
+  },
+  "gh:pinterest:7838577": {
+   "ok": false,
+   "source": "Pinterest",
+   "why": "not in NYC / Boston"
+  },
+  "gh:pinterest:8140217": {
+   "ok": true,
+   "source": "Pinterest",
+   "why": "no class year listed; check eligibility"
+  },
+  "gh:pinterest:8214788": {
+   "ok": false,
+   "source": "Pinterest",
+   "why": "summer 2027, no sign sophomores can apply"
+  },
+  "gh:pinterest:8334878": {
+   "ok": false,
+   "source": "Pinterest",
+   "why": "summer 2027, no sign sophomores can apply"
+  },
+  "gh:pinterest:8334884": {
+   "ok": false,
+   "source": "Pinterest",
+   "why": "summer 2027, no sign sophomores can apply"
+  },
+  "gh:seatgeek:8227553": {
+   "ok": false,
+   "source": "SeatGeek",
+   "why": "for class of 2028"
+  },
+  "gh:seatgeek:8247554": {
+   "ok": false,
+   "source": "SeatGeek",
+   "why": "for class of 2028"
+  },
+  "gh:seatgeek:8248125": {
+   "ok": false,
+   "source": "SeatGeek",
+   "why": "for class of 2027"
+  },
+  "gh:seatgeek:8248151": {
+   "ok": false,
+   "source": "SeatGeek",
+   "why": "for class of 2028"
+  },
+  "gh:stripe:8194291": {
+   "ok": false,
+   "source": "Stripe",
+   "why": "for class of 2027/2028"
+  },
+  "gh:thenewyorktimes:4748228005": {
+   "ok": true,
+   "source": "The New York Times",
+   "why": "no class year listed; check eligibility"
+  },
+  "gh:thenewyorktimes:4748241005": {
+   "ok": true,
+   "source": "The New York Times",
+   "why": "no class year listed; check eligibility"
+  },
+  "gh:thenewyorktimes:4748297005": {
+   "ok": true,
+   "source": "The New York Times",
+   "why": "no class year listed; check eligibility"
+  },
+  "gh:thenewyorktimes:4748461005": {
+   "ok": true,
+   "source": "The New York Times",
+   "why": "no class year listed; check eligibility"
+  },
+  "gh:thenewyorktimes:4748483005": {
+   "ok": true,
+   "source": "The New York Times",
+   "why": "no class year listed; check eligibility"
+  },
+  "gh:thenewyorktimes:4748485005": {
+   "ok": true,
+   "source": "The New York Times",
+   "why": "no class year listed; check eligibility"
+  },
+  "gh:thenewyorktimes:4748487005": {
+   "ok": true,
+   "source": "The New York Times",
+   "why": "no class year listed; check eligibility"
+  },
+  "gh:thenewyorktimes:4748489005": {
+   "ok": true,
+   "source": "The New York Times",
+   "why": "no class year listed; check eligibility"
+  },
+  "gh:thenewyorktimes:4748499005": {
+   "ok": true,
+   "source": "The New York Times",
+   "why": "no class year listed; check eligibility"
+  },
+  "gh:thenewyorktimes:4748501005": {
+   "ok": true,
+   "source": "The New York Times",
+   "why": "no class year listed; check eligibility"
+  },
+  "gh:thenewyorktimes:4748503005": {
+   "ok": true,
+   "source": "The New York Times",
+   "why": "no class year listed; check eligibility"
+  },
+  "gh:thenewyorktimes:4748518005": {
+   "ok": true,
+   "source": "The New York Times",
+   "why": "no class year listed; check eligibility"
+  },
+  "gh:thenewyorktimes:4749836005": {
+   "ok": true,
+   "source": "The New York Times",
+   "why": "no class year listed; check eligibility"
+  },
+  "gh:thenewyorktimes:4750496005": {
+   "ok": true,
+   "source": "The New York Times",
+   "why": "no class year listed; check eligibility"
+  },
+  "gh:thenewyorktimes:4750498005": {
+   "ok": true,
+   "source": "The New York Times",
+   "why": "no class year listed; check eligibility"
+  },
+  "gh:thenewyorktimes:4750883005": {
+   "ok": true,
+   "source": "The New York Times",
+   "why": "no class year listed; check eligibility"
+  },
+  "gh:thenewyorktimes:4750885005": {
+   "ok": true,
+   "source": "The New York Times",
+   "why": "no class year listed; check eligibility"
+  },
+  "gh:thenewyorktimes:4751089005": {
+   "ok": true,
+   "source": "The New York Times",
+   "why": "open to sophomores"
+  },
+  "gh:thenewyorktimes:4751091005": {
+   "ok": true,
+   "source": "The New York Times",
+   "why": "no class year listed; check eligibility"
+  },
+  "gh:thenewyorktimes:4751790005": {
+   "ok": true,
+   "source": "The New York Times",
+   "why": "no class year listed; check eligibility"
+  },
+  "gh:thenewyorktimes:4751907005": {
+   "ok": true,
+   "source": "The New York Times",
+   "why": "no class year listed; check eligibility"
+  },
+  "gh:thenewyorktimes:4751909005": {
+   "ok": true,
+   "source": "The New York Times",
+   "why": "no class year listed; check eligibility"
+  },
+  "gh:thenewyorktimes:4751917005": {
+   "ok": true,
+   "source": "The New York Times",
+   "why": "no class year listed; check eligibility"
+  },
+  "gh:thenewyorktimes:4751919005": {
+   "ok": true,
+   "source": "The New York Times",
+   "why": "no class year listed; check eligibility"
+  },
+  "gh:thenewyorktimes:4751973005": {
+   "ok": true,
+   "source": "The New York Times",
+   "why": "no class year listed; check eligibility"
+  },
+  "oracle:eeho.fa.us2.oraclecloud.com:334366": {
+   "ok": false,
+   "source": "Oracle",
+   "why": "not in NYC / Boston"
+  },
+  "oracle:eeho.fa.us2.oraclecloud.com:334371": {
+   "ok": false,
+   "source": "Oracle",
+   "why": "not in NYC / Boston"
+  },
+  "oracle:eeho.fa.us2.oraclecloud.com:334388": {
+   "ok": false,
+   "source": "Oracle",
+   "why": "not in NYC / Boston"
+  },
+  "oracle:hcrb.fa.us2.oraclecloud.com:17397": {
+   "ok": true,
+   "source": "Boston Beer",
+   "why": "no class year listed; check eligibility"
+  },
+  "oracle:hcrb.fa.us2.oraclecloud.com:17398": {
+   "ok": true,
+   "source": "Boston Beer",
+   "why": "no class year listed; check eligibility"
+  },
+  "oracle:hcrb.fa.us2.oraclecloud.com:17402": {
+   "ok": true,
+   "source": "Boston Beer",
+   "why": "no class year listed; check eligibility"
+  },
+  "oracle:hcrb.fa.us2.oraclecloud.com:17404": {
+   "ok": true,
+   "source": "Boston Beer",
+   "why": "no class year listed; check eligibility"
+  },
+  "oracle:hcrb.fa.us2.oraclecloud.com:17406": {
+   "ok": true,
+   "source": "Boston Beer",
+   "why": "no class year listed; check eligibility"
+  },
+  "phenom:https://careers.adobe.com/us/en:R171696": {
+   "ok": false,
+   "source": "Adobe",
+   "why": "for class of 2027/2028"
+  },
+  "phenom:https://careers.adobe.com/us/en:R171828": {
+   "ok": false,
+   "source": "Adobe",
+   "why": "for class of 2027/2028"
+  },
+  "phenom:https://careers.adobe.com/us/en:R171856": {
+   "ok": false,
+   "source": "Adobe",
+   "why": "for class of 2027/2028"
+  },
+  "phenom:https://careers.adobe.com/us/en:R171869": {
+   "ok": false,
+   "source": "Adobe",
+   "why": "for class of 2027/2028"
+  },
+  "phenom:https://careers.marshmclennan.com/global/en:R_370715": {
+   "ok": false,
+   "source": "Oliver Wyman / Marsh McLennan",
+   "why": "for class of 2028"
+  },
+  "phenom:https://www.pgcareers.com/global/en:R000157841": {
+   "ok": true,
+   "source": "P&G",
+   "why": "open to class of 2029"
+  },
+  "tal:L.E.K. Consulting:4139": {
+   "ok": false,
+   "source": "L.E.K. Consulting",
+   "why": "summer 2027, no sign sophomores can apply"
+  },
+  "tal:L.E.K. Consulting:4152": {
+   "ok": false,
+   "source": "L.E.K. Consulting",
+   "why": "summer 2027, no sign sophomores can apply"
+  },
+  "wd:accenture:13727121": {
+   "ok": false,
+   "source": "Accenture",
+   "why": "not in NYC / Boston"
+  },
+  "wd:accenture:14642542": {
+   "ok": false,
+   "source": "Accenture",
+   "why": "not in NYC / Boston"
+  },
+  "wd:accenture:14642545": {
+   "ok": false,
+   "source": "Accenture",
+   "why": "not in NYC / Boston"
+  },
+  "wd:accenture:14642554": {
+   "ok": false,
+   "source": "Accenture",
+   "why": "not in NYC / Boston"
+  },
+  "wd:accenture:14642567": {
+   "ok": false,
+   "source": "Accenture",
+   "why": "not in NYC / Boston"
+  },
+  "wd:accenture:14642572": {
+   "ok": false,
+   "source": "Accenture",
+   "why": "not in NYC / Boston"
+  },
+  "wd:accenture:14642576": {
+   "ok": false,
+   "source": "Accenture",
+   "why": "not in NYC / Boston"
+  },
+  "wd:accenture:14797564": {
+   "ok": false,
+   "source": "Accenture",
+   "why": "not in NYC / Boston"
+  },
+  "wd:accenture:14811480": {
+   "ok": false,
+   "source": "Accenture",
+   "why": "not in NYC / Boston"
+  },
+  "wd:accenture:14818045": {
+   "ok": false,
+   "source": "Accenture",
+   "why": "not in NYC / Boston"
+  },
+  "wd:accenture:14881816": {
+   "ok": false,
+   "source": "Accenture",
+   "why": "summer 2027, no sign sophomores can apply"
+  },
+  "wd:accenture:R00271343": {
+   "ok": false,
+   "source": "Accenture",
+   "why": "not in NYC / Boston"
+  },
+  "wd:accenture:R00279839": {
+   "ok": false,
+   "source": "Accenture",
+   "why": "not in NYC / Boston"
+  },
+  "wd:accenture:R00284645": {
+   "ok": false,
+   "source": "Accenture",
+   "why": "not in NYC / Boston"
+  },
+  "wd:accenture:R00284676": {
+   "ok": false,
+   "source": "Accenture",
+   "why": "not in NYC / Boston"
+  },
+  "wd:accenture:R00288639": {
+   "ok": false,
+   "source": "Accenture",
+   "why": "not in NYC / Boston"
+  },
+  "wd:accenture:R00290978": {
+   "ok": false,
+   "source": "Accenture",
+   "why": "not in NYC / Boston"
+  },
+  "wd:accenture:R00292740": {
+   "ok": false,
+   "source": "Accenture",
+   "why": "not in NYC / Boston"
+  },
+  "wd:accenture:R00315414": {
+   "ok": false,
+   "source": "Accenture",
+   "why": "for rising seniors"
+  },
+  "wd:accenture:R00327505": {
+   "ok": false,
+   "source": "Accenture",
+   "why": "not in NYC / Boston"
+  },
+  "wd:accenture:R00329471": {
+   "ok": false,
+   "source": "Accenture",
+   "why": "not in NYC / Boston"
+  },
+  "wd:accenture:R00333373": {
+   "ok": false,
+   "source": "Accenture",
+   "why": "not in NYC / Boston"
+  },
+  "wd:accenture:R00335993": {
+   "ok": false,
+   "source": "Accenture",
+   "why": "not in NYC / Boston"
+  },
+  "wd:accenture:R00336967": {
+   "ok": false,
+   "source": "Accenture",
+   "why": "not in NYC / Boston"
+  },
+  "wd:accenture:R00338294": {
+   "ok": false,
+   "source": "Accenture",
+   "why": "not in NYC / Boston"
+  },
+  "wd:accenture:R00338300": {
+   "ok": false,
+   "source": "Accenture",
+   "why": "not in NYC / Boston"
+  },
+  "wd:accenture:R00342490": {
+   "ok": false,
+   "source": "Accenture",
+   "why": "not in NYC / Boston"
+  },
+  "wd:accenture:R00342806": {
+   "ok": false,
+   "source": "Accenture",
+   "why": "summer 2027, no sign sophomores can apply"
+  },
+  "wd:accenture:R00343384": {
+   "ok": false,
+   "source": "Accenture",
+   "why": "not in NYC / Boston"
+  },
+  "wd:accenture:R00346801": {
+   "ok": false,
+   "source": "Accenture",
+   "why": "not in NYC / Boston"
+  },
+  "wd:accenture:R00350274": {
+   "ok": false,
+   "source": "Accenture",
+   "why": "not in NYC / Boston"
+  },
+  "wd:accenture:R00350278": {
+   "ok": false,
+   "source": "Accenture",
+   "why": "not in NYC / Boston"
+  },
+  "wd:accenture:R00352434": {
+   "ok": false,
+   "source": "Accenture",
+   "why": "not in NYC / Boston"
+  },
+  "wd:accenture:R00353592": {
+   "ok": false,
+   "source": "Accenture",
+   "why": "summer 2027, no sign sophomores can apply"
+  },
+  "wd:accenture:R00355473": {
+   "ok": false,
+   "source": "Accenture",
+   "why": "not in NYC / Boston"
+  },
+  "wd:accenture:R00355578": {
+   "ok": false,
+   "source": "Accenture",
+   "why": "summer 2027, no sign sophomores can apply"
+  },
+  "wd:accenture:R00355590": {
+   "ok": false,
+   "source": "Accenture",
+   "why": "summer 2027, no sign sophomores can apply"
+  },
+  "wd:accenture:R00355667": {
+   "ok": false,
+   "source": "Accenture",
+   "why": "summer 2027, no sign sophomores can apply"
+  },
+  "wd:accenture:R00355938": {
+   "ok": false,
+   "source": "Accenture",
+   "why": "summer 2027, no sign sophomores can apply"
+  },
+  "wd:accenture:R00356105": {
+   "ok": false,
+   "source": "Accenture",
+   "why": "for class of 2027/2028"
+  },
+  "wd:accenture:R00357681": {
+   "ok": false,
+   "source": "Accenture",
+   "why": "summer 2027, no sign sophomores can apply"
+  },
+  "wd:accenture:R00357935": {
+   "ok": false,
+   "source": "Accenture",
+   "why": "for class of 2027/2028"
+  },
+  "wd:accenture:R00357960": {
+   "ok": false,
+   "source": "Accenture",
+   "why": "for class of 2027/2028"
+  },
+  "wd:accenture:R00357961": {
+   "ok": false,
+   "source": "Accenture",
+   "why": "for class of 2027/2028"
+  },
+  "wd:accenture:R00358078": {
+   "ok": false,
+   "source": "Accenture",
+   "why": "not in NYC / Boston"
+  },
+  "wd:accenture:R00358081": {
+   "ok": false,
+   "source": "Accenture",
+   "why": "not in NYC / Boston"
+  },
+  "wd:accenture:R00358088": {
+   "ok": false,
+   "source": "Accenture",
+   "why": "not in NYC / Boston"
+  },
+  "wd:accenture:R00358098": {
+   "ok": false,
+   "source": "Accenture",
+   "why": "not in NYC / Boston"
+  },
+  "wd:accenture:R00358147": {
+   "ok": false,
+   "source": "Accenture",
+   "why": "summer 2027, no sign sophomores can apply"
+  },
+  "wd:accenture:R00359291": {
+   "ok": false,
+   "source": "Accenture",
+   "why": "not in NYC / Boston"
+  },
+  "wd:accenture:R00360725": {
+   "ok": false,
+   "source": "Accenture",
+   "why": "not in NYC / Boston"
+  },
+  "wd:accenture:R00360949": {
+   "ok": false,
+   "source": "Accenture",
+   "why": "summer 2027, no sign sophomores can apply"
+  },
+  "wd:accenture:R00362198": {
+   "ok": false,
+   "source": "Accenture",
+   "why": "for class of 2028"
+  },
+  "wd:accenture:R00362744": {
+   "ok": false,
+   "source": "Accenture",
+   "why": "not in NYC / Boston"
+  },
+  "wd:accenture:R00363654": {
+   "ok": false,
+   "source": "Accenture",
+   "why": "for class of 2027/2028"
+  },
+  "wd:accenture:R00364487": {
+   "ok": false,
+   "source": "Accenture",
+   "why": "for class of 2027/2028"
+  },
+  "wd:accenture:R00364604": {
+   "ok": false,
+   "source": "Accenture",
+   "why": "not in NYC / Boston"
+  },
+  "wd:accenture:R00364910": {
+   "ok": false,
+   "source": "Accenture",
+   "why": "not in NYC / Boston"
+  },
+  "wd:accenture:R00364984": {
+   "ok": false,
+   "source": "Accenture",
+   "why": "not in NYC / Boston"
+  },
+  "wd:accenture:R00365041": {
+   "ok": false,
+   "source": "Accenture",
+   "why": "not in NYC / Boston"
+  },
+  "wd:accenture:R00365078": {
+   "ok": false,
+   "source": "Accenture",
+   "why": "for class of 2027"
+  },
+  "wd:accenture:R00365279": {
+   "ok": false,
+   "source": "Accenture",
+   "why": "not in NYC / Boston"
+  },
+  "wd:accenture:R00365377": {
+   "ok": false,
+   "source": "Accenture",
+   "why": "not in NYC / Boston"
+  },
+  "wd:accenture:R00365381": {
+   "ok": false,
+   "source": "Accenture",
+   "why": "not in NYC / Boston"
+  },
+  "wd:accenture:R00365382": {
+   "ok": false,
+   "source": "Accenture",
+   "why": "not in NYC / Boston"
+  },
+  "wd:accenture:R00365384": {
+   "ok": false,
+   "source": "Accenture",
+   "why": "not in NYC / Boston"
+  },
+  "wd:accenture:R00365385": {
+   "ok": false,
+   "source": "Accenture",
+   "why": "not in NYC / Boston"
+  },
+  "wd:accenture:R00365388": {
+   "ok": false,
+   "source": "Accenture",
+   "why": "not in NYC / Boston"
+  },
+  "wd:accenture:R00365389": {
+   "ok": false,
+   "source": "Accenture",
+   "why": "not in NYC / Boston"
+  },
+  "wd:accenture:R00365390": {
+   "ok": false,
+   "source": "Accenture",
+   "why": "not in NYC / Boston"
+  },
+  "wd:accenture:R00365391": {
+   "ok": false,
+   "source": "Accenture",
+   "why": "not in NYC / Boston"
+  },
+  "wd:accenture:R00365816": {
+   "ok": false,
+   "source": "Accenture",
+   "why": "not in NYC / Boston"
+  },
+  "wd:accenture:R00366257": {
+   "ok": false,
+   "source": "Accenture",
+   "why": "for class of 2027"
+  },
+  "wd:accenture:R00366281": {
+   "ok": false,
+   "source": "Accenture",
+   "why": "not in NYC / Boston"
+  },
+  "wd:accenture:R00366461": {
+   "ok": false,
+   "source": "Accenture",
+   "why": "not in NYC / Boston"
+  },
+  "wd:accenture:R00366491": {
+   "ok": false,
+   "source": "Accenture",
+   "why": "not in NYC / Boston"
+  },
+  "wd:accenture:R00366533": {
+   "ok": false,
+   "source": "Accenture",
+   "why": "summer 2027, no sign sophomores can apply"
+  },
+  "wd:accenture:R00366798": {
+   "ok": false,
+   "source": "Accenture",
+   "why": "not in NYC / Boston"
+  },
+  "wd:accenture:R00366919": {
+   "ok": false,
+   "source": "Accenture",
+   "why": "not in NYC / Boston"
+  },
+  "wd:accenture:R00366968": {
+   "ok": false,
+   "source": "Accenture",
+   "why": "summer 2027, no sign sophomores can apply"
+  },
+  "wd:accenture:R00367336": {
+   "ok": false,
+   "source": "Accenture",
+   "why": "not in NYC / Boston"
+  },
+  "wd:accenture:R00367736": {
+   "ok": false,
+   "source": "Accenture",
+   "why": "not in NYC / Boston"
+  },
+  "wd:accenture:R00368098": {
+   "ok": false,
+   "source": "Accenture",
+   "why": "summer 2027, no sign sophomores can apply"
+  },
+  "wd:accenture:R00368102": {
+   "ok": false,
+   "source": "Accenture",
+   "why": "summer 2027, no sign sophomores can apply"
+  },
+  "wd:accenture:R00368382": {
+   "ok": false,
+   "source": "Accenture",
+   "why": "not in NYC / Boston"
+  },
+  "wd:accenture:R00368478": {
+   "ok": false,
+   "source": "Accenture",
+   "why": "not in NYC / Boston"
+  },
+  "wd:accenture:R00368686": {
+   "ok": false,
+   "source": "Accenture",
+   "why": "not in NYC / Boston"
+  },
+  "wd:accenture:R00369024": {
+   "ok": false,
+   "source": "Accenture",
+   "why": "not in NYC / Boston"
+  },
+  "wd:accenture:R00369515": {
+   "ok": false,
+   "source": "Accenture",
+   "why": "not in NYC / Boston"
+  },
+  "wd:gartner:105584": {
+   "ok": false,
+   "source": "Gartner",
+   "why": "for class of 2027"
+  },
+  "wd:gartner:112992": {
+   "ok": false,
+   "source": "Gartner",
+   "why": "for class of 2027"
+  },
+  "wd:guidehouse:46421": {
+   "ok": false,
+   "source": "Guidehouse",
+   "why": "for class of 2027/2028"
+  },
+  "wd:jj:R-096476": {
+   "ok": false,
+   "source": "Johnson & Johnson",
+   "why": "not in NYC / Boston"
+  },
+  "wd:jj:R-096662": {
+   "ok": false,
+   "source": "Johnson & Johnson",
+   "why": "for class of 2028"
+  },
+  "wd:jj:R-098266": {
+   "ok": false,
+   "source": "Johnson & Johnson",
+   "why": "summer 2027, no sign sophomores can apply"
+  },
+  "wd:jj:R-098770": {
+   "ok": false,
+   "source": "Johnson & Johnson",
+   "why": "not in NYC / Boston"
+  },
+  "wd:jj:R-099364": {
+   "ok": false,
+   "source": "Johnson & Johnson",
+   "why": "not in NYC / Boston"
+  },
+  "wd:jj:R-102105": {
+   "ok": false,
+   "source": "Johnson & Johnson",
+   "why": "summer 2027, no sign sophomores can apply"
+  },
+  "wd:jj:R-102328": {
+   "ok": false,
+   "source": "Johnson & Johnson",
+   "why": "not in NYC / Boston"
+  },
+  "wd:jj:R-102616": {
+   "ok": false,
+   "source": "Johnson & Johnson",
+   "why": "not in NYC / Boston"
+  },
+  "wd:jj:R-102873": {
+   "ok": true,
+   "source": "Johnson & Johnson",
+   "why": "no class year listed; check eligibility"
+  },
+  "wd:jj:R-103411": {
+   "ok": false,
+   "source": "Johnson & Johnson",
+   "why": "summer 2027, no sign sophomores can apply"
+  },
+  "wd:jj:R-103514": {
+   "ok": false,
+   "source": "Johnson & Johnson",
+   "why": "not in NYC / Boston"
+  },
+  "wd:jj:R-103534": {
+   "ok": false,
+   "source": "Johnson & Johnson",
+   "why": "not in NYC / Boston"
+  },
+  "wd:jj:R-103760": {
+   "ok": false,
+   "source": "Johnson & Johnson",
+   "why": "not in NYC / Boston"
+  },
+  "wd:jj:R-104266": {
+   "ok": false,
+   "source": "Johnson & Johnson",
+   "why": "not in NYC / Boston"
+  },
+  "wd:jj:R-104405": {
+   "ok": false,
+   "source": "Johnson & Johnson",
+   "why": "for class of 2027/2028"
+  },
+  "wd:jj:R-104471": {
+   "ok": false,
+   "source": "Johnson & Johnson",
+   "why": "not in NYC / Boston"
+  },
+  "wd:jj:R-104473": {
+   "ok": false,
+   "source": "Johnson & Johnson",
+   "why": "not in NYC / Boston"
+  },
+  "wd:jj:R-104610": {
+   "ok": false,
+   "source": "Johnson & Johnson",
+   "why": "not in NYC / Boston"
+  },
+  "wd:jj:R-104727": {
+   "ok": false,
+   "source": "Johnson & Johnson",
+   "why": "for class of 2027"
+  },
+  "wd:jj:R-105431": {
+   "ok": false,
+   "source": "Johnson & Johnson",
+   "why": "not in NYC / Boston"
+  },
+  "wd:jj:R-108885": {
+   "ok": false,
+   "source": "Johnson & Johnson",
+   "why": "not in NYC / Boston"
+  },
+  "wd:pwc:756404WD": {
+   "ok": false,
+   "source": "PwC",
+   "why": "summer 2027, no sign sophomores can apply"
+  },
+  "wd:pwc:756415WD": {
+   "ok": false,
+   "source": "PwC",
+   "why": "summer 2027, no sign sophomores can apply"
+  },
+  "wd:pwc:756926WD": {
+   "ok": false,
+   "source": "PwC",
+   "why": "summer 2027, no sign sophomores can apply"
+  },
+  "wd:pwc:757088WD": {
+   "ok": false,
+   "source": "PwC",
+   "why": "summer 2027, no sign sophomores can apply"
+  },
+  "wd:pwc:757478WD": {
+   "ok": false,
+   "source": "PwC",
+   "why": "not in NYC / Boston"
+  },
+  "wd:pwc:757656WD": {
+   "ok": false,
+   "source": "PwC",
+   "why": "not in NYC / Boston"
+  },
+  "wd:roberthalf:JR-258793": {
+   "ok": false,
+   "source": "Protiviti",
+   "why": "summer 2027, no sign sophomores can apply"
+  },
+  "wd:salesforce:JR340771": {
+   "ok": false,
+   "source": "Salesforce",
+   "why": "summer 2027, no sign sophomores can apply"
+  },
+  "wd:salesforce:JR359638": {
+   "ok": false,
+   "source": "Salesforce",
+   "why": "summer 2027, no sign sophomores can apply"
+  },
+  "wd:salesforce:JR363252": {
+   "ok": false,
+   "source": "Salesforce",
+   "why": "summer 2027, no sign sophomores can apply"
+  },
+  "wd:salesforce:JR364911": {
+   "ok": false,
+   "source": "Salesforce",
+   "why": "summer 2027, no sign sophomores can apply"
+  },
+  "wd:salesforce:JR366248": {
+   "ok": false,
+   "source": "Salesforce",
+   "why": "for class of 2027/2028"
+  },
+  "wd:salesforce:JR367659": {
+   "ok": false,
+   "source": "Salesforce",
+   "why": "summer 2027, no sign sophomores can apply"
+  },
+  "wd:trinitylifesciences:JR100879": {
+   "ok": false,
+   "source": "Trinity Life Sciences",
+   "why": "for rising seniors"
+  },
+  "wd:trinitylifesciences:JR100881": {
+   "ok": false,
+   "source": "Trinity Life Sciences",
+   "why": "for rising seniors"
+  }
+ },
+ "fit_grad": "2029",
+ "initialized": true,
+ "jobs": {
+  "ashby:ramp:b39ceb08-a0a7-4f8b-a760-2fb88e209956": {
+   "closed": null,
+   "firm": "Ramp",
+   "fit": "open to class of 2029",
+   "found": "2026-11-08T09:26:28+00:00",
+   "location": "New York, NY (HQ)",
+   "open": true,
+   "posted": "2026-09-15",
+   "priority": "low",
+   "source": "Ramp",
+   "title": "Applied Scientist Intern",
+   "url": "https://jobs.ashbyhq.com/ramp/b39ceb08-a0a7-4f8b-a760-2fb88e209956"
+  },
+  "gh:braze:8301086": {
+   "closed": null,
+   "firm": "Braze",
+   "fit": "no class year listed; check eligibility",
+   "found": "2026-11-08T09:26:28+00:00",
+   "location": "New York City",
+   "open": true,
+   "posted": "2026-10-19",
+   "priority": "low",
+   "source": "Braze",
+   "title": "Intern, Software Engineering",
+   "url": "https://job-boards.greenhouse.io/braze/jobs/8301086"
+  },
+  "gh:coinbase:8173991": {
+   "closed": null,
+   "firm": "Coinbase",
+   "fit": "no class year listed; check eligibility",
+   "found": "2026-11-08T09:26:28+00:00",
+   "location": "Hybrid - New York, NY",
+   "open": true,
+   "posted": "2026-09-08",
+   "priority": "low",
+   "source": "Coinbase",
+   "title": "Accounting Intern",
+   "url": "https://www.coinbase.com/careers/positions/8173991?gh_jid=8173991"
+  },
+  "gh:coinbase:8175363": {
+   "closed": null,
+   "firm": "Coinbase",
+   "fit": "no class year listed; check eligibility",
+   "found": "2026-11-08T09:26:28+00:00",
+   "location": "Hybrid - New York, NY",
+   "open": true,
+   "posted": "2026-09-08",
+   "priority": "low",
+   "source": "Coinbase",
+   "title": "Acceleration Programs Intern",
+   "url": "https://www.coinbase.com/careers/positions/8175363?gh_jid=8175363"
+  },
+  "gh:coinbase:8175366": {
+   "closed": null,
+   "firm": "Coinbase",
+   "fit": "no class year listed; check eligibility",
+   "found": "2026-11-08T09:26:28+00:00",
+   "location": "Hybrid - New York, NY",
+   "open": true,
+   "posted": "2026-09-08",
+   "priority": "low",
+   "source": "Coinbase",
+   "title": "Business Controller Intern",
+   "url": "https://www.coinbase.com/careers/positions/8175366?gh_jid=8175366"
+  },
+  "gh:coinbase:8175429": {
+   "closed": null,
+   "firm": "Coinbase",
+   "fit": "no class year listed; check eligibility",
+   "found": "2026-11-08T09:26:28+00:00",
+   "location": "Hybrid - New York, NY",
+   "open": true,
+   "posted": "2026-09-08",
+   "priority": "low",
+   "source": "Coinbase",
+   "title": "Employee and Workplace Experience Intern",
+   "url": "https://www.coinbase.com/careers/positions/8175429?gh_jid=8175429"
+  },
+  "gh:coinbase:8175432": {
+   "closed": null,
+   "firm": "Coinbase",
+   "fit": "no class year listed; check eligibility",
+   "found": "2026-11-08T09:26:28+00:00",
+   "location": "Hybrid - New York, NY",
+   "open": true,
+   "posted": "2026-09-08",
+   "priority": "low",
+   "source": "Coinbase",
+   "title": "Internal Audit Intern",
+   "url": "https://www.coinbase.com/careers/positions/8175432?gh_jid=8175432"
+  },
+  "gh:coinbase:8175447": {
+   "closed": null,
+   "firm": "Coinbase",
+   "fit": "no class year listed; check eligibility",
+   "found": "2026-11-08T09:26:28+00:00",
+   "location": "Hybrid - New York, NY",
+   "open": true,
+   "posted": "2026-09-08",
+   "priority": "low",
+   "source": "Coinbase",
+   "title": "Payment Risk Intern",
+   "url": "https://www.coinbase.com/careers/positions/8175447?gh_jid=8175447"
+  },
+  "gh:coinbase:8175453": {
+   "closed": null,
+   "firm": "Coinbase",
+   "fit": "no class year listed; check eligibility",
+   "found": "2026-11-08T09:26:28+00:00",
+   "location": "Hybrid - New York, NY",
+   "open": true,
+   "posted": "2026-09-08",
+   "priority": "low",
+   "source": "Coinbase",
+   "title": "Tax Operations Intern",
+   "url": "https://www.coinbase.com/careers/positions/8175453?gh_jid=8175453"
+  },
+  "gh:coinbase:8175462": {
+   "closed": null,
+   "firm": "Coinbase",
+   "fit": "no class year listed; check eligibility",
+   "found": "2026-11-08T09:26:28+00:00",
+   "location": "Hybrid - New York, NY",
+   "open": true,
+   "posted": "2026-09-08",
+   "priority": "low",
+   "source": "Coinbase",
+   "title": "Data Science Intern",
+   "url": "https://www.coinbase.com/careers/positions/8175462?gh_jid=8175462"
+  },
+  "gh:coinbase:8175471": {
+   "closed": null,
+   "firm": "Coinbase",
+   "fit": "no class year listed; check eligibility",
+   "found": "2026-11-08T09:26:28+00:00",
+   "location": "Hybrid - New York, NY",
+   "open": true,
+   "posted": "2026-09-08",
+   "priority": "low",
+   "source": "Coinbase",
+   "title": "Analytics Engineer Intern",
+   "url": "https://www.coinbase.com/careers/positions/8175471?gh_jid=8175471"
+  },
+  "gh:coinbase:8175507": {
+   "closed": null,
+   "firm": "Coinbase",
+   "fit": "no class year listed; check eligibility",
+   "found": "2026-11-08T09:26:28+00:00",
+   "location": "Hybrid - New York, NY",
+   "open": true,
+   "posted": "2026-09-08",
+   "priority": "low",
+   "source": "Coinbase",
+   "title": "Real Estate & Builds Intern",
+   "url": "https://www.coinbase.com/careers/positions/8175507?gh_jid=8175507"
+  },
+  "gh:coinbase:8175510": {
+   "closed": null,
+   "firm": "Coinbase",
+   "fit": "no class year listed; check eligibility",
+   "found": "2026-11-08T09:26:28+00:00",
+   "location": "Hybrid - New York, NY",
+   "open": true,
+   "posted": "2026-10-09",
+   "priority": "low",
+   "source": "Coinbase",
+   "title": "Forward Deployed Engineer Intern (HR Technology)",
+   "url": "https://www.coinbase.com/careers/positions/8175510?gh_jid=8175510"
+  },
+  "gh:coinbase:8175514": {
+   "closed": null,
+   "firm": "Coinbase",
+   "fit": "no class year listed; check eligibility",
+   "found": "2026-11-08T09:26:28+00:00",
+   "location": "Hybrid - New York, NY",
+   "open": true,
+   "posted": "2026-09-08",
+   "priority": "low",
+   "source": "Coinbase",
+   "title": "Learning & Development Intern",
+   "url": "https://www.coinbase.com/careers/positions/8175514?gh_jid=8175514"
+  },
+  "gh:coinbase:8175517": {
+   "closed": null,
+   "firm": "Coinbase",
+   "fit": "no class year listed; check eligibility",
+   "found": "2026-11-08T09:26:28+00:00",
+   "location": "Hybrid - New York, NY",
+   "open": true,
+   "posted": "2026-09-08",
+   "priority": "low",
+   "source": "Coinbase",
+   "title": "People Analytics Intern",
+   "url": "https://www.coinbase.com/careers/positions/8175517?gh_jid=8175517"
+  },
+  "gh:coinbase:8175556": {
+   "closed": null,
+   "firm": "Coinbase",
+   "fit": "no class year listed; check eligibility",
+   "found": "2026-11-08T09:26:28+00:00",
+   "location": "Hybrid - New York, NY",
+   "open": true,
+   "posted": "2026-09-08",
+   "priority": "low",
+   "source": "Coinbase",
+   "title": "Policy Intern",
+   "url": "https://www.coinbase.com/careers/positions/8175556?gh_jid=8175556"
+  },
+  "gh:coinbase:8175569": {
+   "closed": null,
+   "firm": "Coinbase",
+   "fit": "no class year listed; check eligibility",
+   "found": "2026-11-08T09:26:28+00:00",
+   "location": "Hybrid - New York, NY",
+   "open": true,
+   "posted": "2026-09-08",
+   "priority": "low",
+   "source": "Coinbase",
+   "title": "Institutional Operations Intern",
+   "url": "https://www.coinbase.com/careers/positions/8175569?gh_jid=8175569"
+  },
+  "gh:coinbase:8221238": {
+   "closed": null,
+   "firm": "Coinbase",
+   "fit": "no class year listed; check eligibility",
+   "found": "2026-11-08T09:26:28+00:00",
+   "location": "Hybrid - New York, NY",
+   "open": true,
+   "posted": "2026-09-21",
+   "priority": "low",
+   "source": "Coinbase",
+   "title": "Internal Audit Analytics Intern",
+   "url": "https://www.coinbase.com/careers/positions/8221238?gh_jid=8221238"
+  },
+  "gh:coinbase:8221241": {
+   "closed": null,
+   "firm": "Coinbase",
+   "fit": "no class year listed; check eligibility",
+   "found": "2026-11-08T09:26:28+00:00",
+   "location": "Hybrid - New York, NY",
+   "open": true,
+   "posted": "2026-09-21",
+   "priority": "low",
+   "source": "Coinbase",
+   "title": "Tax Information Reporting Intern",
+   "url": "https://www.coinbase.com/careers/positions/8221241?gh_jid=8221241"
+  },
+  "gh:datadog:8052118": {
+   "closed": null,
+   "firm": "Datadog",
+   "fit": "no class year listed; check eligibility",
+   "found": "2026-11-08T09:26:28+00:00",
+   "location": "Boston, Massachusetts, USA; New York, New York, USA",
+   "open": true,
+   "posted": "2026-09-08",
+   "priority": "low",
+   "source": "Datadog",
+   "title": "Software Engineering Intern (Summer)",
+   "url": "https://careers.datadoghq.com/detail/8052118/?gh_jid=8052118"
+  },
+  "gh:mongodb:8209134": {
+   "closed": null,
+   "firm": "MongoDB",
+   "fit": "open to class of 2029",
+   "found": "2026-11-08T09:26:28+00:00",
+   "location": "Austin; New York City; San Francisco",
+   "open": true,
+   "posted": "2026-10-23",
+   "priority": "low",
+   "source": "MongoDB",
+   "title": "2027 - Software Engineering Intern, AMER",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8209134"
+  },
+  "gh:pinterest:8140217": {
+   "closed": null,
+   "firm": "Pinterest",
+   "fit": "no class year listed; check eligibility",
+   "found": "2026-11-08T09:26:28+00:00",
+   "location": "Remote, US; San Francisco, CA, US; Seattle, WA, US; New York, NY, US",
+   "open": true,
+   "posted": "2026-10-01",
+   "priority": "low",
+   "source": "Pinterest",
+   "title": "UX Quantitative Research Intern (USA)",
+   "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140217"
+  },
+  "gh:thenewyorktimes:4748228005": {
+   "closed": null,
+   "firm": "The New York Times",
+   "fit": "no class year listed; check eligibility",
+   "found": "2026-11-08T09:26:28+00:00",
+   "location": "New York, NY",
+   "open": true,
+   "posted": "2026-10-30",
+   "priority": "medium",
+   "source": "The New York Times",
+   "title": "Communications Intern",
+   "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748228005"
+  },
+  "gh:thenewyorktimes:4748241005": {
+   "closed": null,
+   "firm": "The New York Times",
+   "fit": "no class year listed; check eligibility",
+   "found": "2026-11-08T09:26:28+00:00",
+   "location": "New York, NY",
+   "open": true,
+   "posted": "2026-10-30",
+   "priority": "low",
+   "source": "The New York Times",
+   "title": "Product Design Intern",
+   "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748241005"
+  },
+  "gh:thenewyorktimes:4748297005": {
+   "closed": null,
+   "firm": "The New York Times",
+   "fit": "no class year listed; check eligibility",
+   "found": "2026-11-08T09:26:28+00:00",
+   "location": "New York, NY",
+   "open": true,
+   "posted": "2026-10-30",
+   "priority": "medium",
+   "source": "The New York Times",
+   "title": "Creative Development Intern, Wirecutter",
+   "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748297005"
+  },
+  "gh:thenewyorktimes:4748461005": {
+   "closed": null,
+   "firm": "The New York Times",
+   "fit": "no class year listed; check eligibility",
+   "found": "2026-11-08T09:26:28+00:00",
+   "location": "New York, NY",
+   "open": true,
+   "posted": "2026-10-30",
+   "priority": "low",
+   "source": "The New York Times",
+   "title": "Product Management Intern, Wirecutter",
+   "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748461005"
+  },
+  "gh:thenewyorktimes:4748483005": {
+   "closed": null,
+   "firm": "The New York Times",
+   "fit": "no class year listed; check eligibility",
+   "found": "2026-11-08T09:26:28+00:00",
+   "location": "New York, NY",
+   "open": true,
+   "posted": "2026-10-30",
+   "priority": "low",
+   "source": "The New York Times",
+   "title": "Backend Engineering Intern, Wirecutter",
+   "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748483005"
+  },
+  "gh:thenewyorktimes:4748485005": {
+   "closed": null,
+   "firm": "The New York Times",
+   "fit": "no class year listed; check eligibility",
+   "found": "2026-11-08T09:26:28+00:00",
+   "location": "New York, NY",
+   "open": true,
+   "posted": "2026-10-30",
+   "priority": "high",
+   "source": "The New York Times",
+   "title": "Marketing Intern, Wirecutter",
+   "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748485005"
+  },
+  "gh:thenewyorktimes:4748487005": {
+   "closed": null,
+   "firm": "The New York Times",
+   "fit": "no class year listed; check eligibility",
+   "found": "2026-11-08T09:26:28+00:00",
+   "location": "New York, NY",
+   "open": true,
+   "posted": "2026-10-30",
+   "priority": "high",
+   "source": "The New York Times",
+   "title": "Advertising Business Operations & Enablement Operations Intern",
+   "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748487005"
+  },
+  "gh:thenewyorktimes:4748489005": {
+   "closed": null,
+   "firm": "The New York Times",
+   "fit": "no class year listed; check eligibility",
+   "found": "2026-11-08T09:26:28+00:00",
+   "location": "New York, NY",
+   "open": true,
+   "posted": "2026-10-30",
+   "priority": "high",
+   "source": "The New York Times",
+   "title": "Advertising Revenue Operations Intern",
+   "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748489005"
+  },
+  "gh:thenewyorktimes:4748499005": {
+   "closed": null,
+   "firm": "The New York Times",
+   "fit": "no class year listed; check eligibility",
+   "found": "2026-11-08T09:26:28+00:00",
+   "location": "New York, NY",
+   "open": true,
+   "posted": "2026-10-30",
+   "priority": "medium",
+   "source": "The New York Times",
+   "title": "Editorial Projects Intern, Wirecutter",
+   "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748499005"
+  },
+  "gh:thenewyorktimes:4748501005": {
+   "closed": null,
+   "firm": "The New York Times",
+   "fit": "no class year listed; check eligibility",
+   "found": "2026-11-08T09:26:28+00:00",
+   "location": "New York, NY",
+   "open": true,
+   "posted": "2026-10-30",
+   "priority": "medium",
+   "source": "The New York Times",
+   "title": "Audience Team Intern, Wirecutter",
+   "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748501005"
+  },
+  "gh:thenewyorktimes:4748503005": {
+   "closed": null,
+   "firm": "The New York Times",
+   "fit": "no class year listed; check eligibility",
+   "found": "2026-11-08T09:26:28+00:00",
+   "location": "New York, NY",
+   "open": true,
+   "posted": "2026-10-30",
+   "priority": "low",
+   "source": "The New York Times",
+   "title": "Kitchen Team Intern, Wirecutter",
+   "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748503005"
+  },
+  "gh:thenewyorktimes:4748518005": {
+   "closed": null,
+   "firm": "The New York Times",
+   "fit": "no class year listed; check eligibility",
+   "found": "2026-11-08T09:26:28+00:00",
+   "location": "New York, NY",
+   "open": true,
+   "posted": "2026-10-30",
+   "priority": "low",
+   "source": "The New York Times",
+   "title": "Editorial Design Intern, Wirecutter",
+   "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748518005"
+  },
+  "gh:thenewyorktimes:4749836005": {
+   "closed": null,
+   "firm": "The New York Times",
+   "fit": "no class year listed; check eligibility",
+   "found": "2026-11-08T09:26:28+00:00",
+   "location": "New York, NY",
+   "open": true,
+   "posted": "2026-11-02",
+   "priority": "high",
+   "source": "The New York Times",
+   "title": "Marketing Intern, Games",
+   "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4749836005"
+  },
+  "gh:thenewyorktimes:4750496005": {
+   "closed": null,
+   "firm": "The New York Times",
+   "fit": "no class year listed; check eligibility",
+   "found": "2026-11-08T09:26:28+00:00",
+   "location": "New York, NY",
+   "open": true,
+   "posted": "2026-11-03",
+   "priority": "high",
+   "source": "The New York Times",
+   "title": "Advertising Business Data Analyst Intern",
+   "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4750496005"
+  },
+  "gh:thenewyorktimes:4750498005": {
+   "closed": null,
+   "firm": "The New York Times",
+   "fit": "no class year listed; check eligibility",
+   "found": "2026-11-08T09:26:28+00:00",
+   "location": "New York, NY",
+   "open": true,
+   "posted": "2026-11-03",
+   "priority": "high",
+   "source": "The New York Times",
+   "title": "Advertising Marketing Measurement Intern",
+   "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4750498005"
+  },
+  "gh:thenewyorktimes:4750883005": {
+   "closed": null,
+   "firm": "The New York Times",
+   "fit": "no class year listed; check eligibility",
+   "found": "2026-11-08T09:26:28+00:00",
+   "location": "New York, NY",
+   "open": true,
+   "posted": "2026-11-04",
+   "priority": "high",
+   "source": "The New York Times",
+   "title": "Copywriter, TBrand Intern",
+   "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4750883005"
+  },
+  "gh:thenewyorktimes:4750885005": {
+   "closed": null,
+   "firm": "The New York Times",
+   "fit": "no class year listed; check eligibility",
+   "found": "2026-11-08T09:26:28+00:00",
+   "location": "New York, NY",
+   "open": true,
+   "posted": "2026-11-04",
+   "priority": "medium",
+   "source": "The New York Times",
+   "title": "Creative Production, TBrand Intern",
+   "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4750885005"
+  },
+  "gh:thenewyorktimes:4751089005": {
+   "closed": null,
+   "firm": "The New York Times",
+   "fit": "open to sophomores",
+   "found": "2026-11-08T09:26:28+00:00",
+   "location": "New York, NY",
+   "open": true,
+   "posted": "2026-11-04",
+   "priority": "high",
+   "source": "The New York Times",
+   "title": "Advertising Marketing Design Intern",
+   "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751089005"
+  },
+  "gh:thenewyorktimes:4751091005": {
+   "closed": null,
+   "firm": "The New York Times",
+   "fit": "no class year listed; check eligibility",
+   "found": "2026-11-08T09:26:28+00:00",
+   "location": "New York, NY",
+   "open": true,
+   "posted": "2026-11-04",
+   "priority": "high",
+   "source": "The New York Times",
+   "title": "Advertising Events & Socials Intern",
+   "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751091005"
+  },
+  "gh:thenewyorktimes:4751790005": {
+   "closed": null,
+   "firm": "The New York Times",
+   "fit": "no class year listed; check eligibility",
+   "found": "2026-11-08T09:26:28+00:00",
+   "location": "New York, NY",
+   "open": true,
+   "posted": "2026-11-06",
+   "priority": "low",
+   "source": "The New York Times",
+   "title": "Interactive News Engineering Intern",
+   "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751790005"
+  },
+  "gh:thenewyorktimes:4751907005": {
+   "closed": null,
+   "firm": "The New York Times",
+   "fit": "no class year listed; check eligibility",
+   "found": "2026-11-08T09:26:28+00:00",
+   "location": "New York, NY",
+   "open": true,
+   "posted": "2026-11-06",
+   "priority": "low",
+   "source": "The New York Times",
+   "title": "Full-Stack Engineering Intern",
+   "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751907005"
+  },
+  "gh:thenewyorktimes:4751909005": {
+   "closed": null,
+   "firm": "The New York Times",
+   "fit": "no class year listed; check eligibility",
+   "found": "2026-11-08T09:26:28+00:00",
+   "location": "New York, NY",
+   "open": true,
+   "posted": "2026-11-06",
+   "priority": "low",
+   "source": "The New York Times",
+   "title": "Frontend Engineering Intern",
+   "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751909005"
+  },
+  "gh:thenewyorktimes:4751917005": {
+   "closed": null,
+   "firm": "The New York Times",
+   "fit": "no class year listed; check eligibility",
+   "found": "2026-11-08T09:26:28+00:00",
+   "location": "New York, NY",
+   "open": true,
+   "posted": "2026-11-06",
+   "priority": "low",
+   "source": "The New York Times",
+   "title": "Android Engineering Intern",
+   "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751917005"
+  },
+  "gh:thenewyorktimes:4751919005": {
+   "closed": null,
+   "firm": "The New York Times",
+   "fit": "no class year listed; check eligibility",
+   "found": "2026-11-08T09:26:28+00:00",
+   "location": "New York, NY",
+   "open": true,
+   "posted": "2026-11-06",
+   "priority": "low",
+   "source": "The New York Times",
+   "title": "iOS Engineering Intern",
+   "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751919005"
+  },
+  "gh:thenewyorktimes:4751973005": {
+   "closed": null,
+   "firm": "The New York Times",
+   "fit": "no class year listed; check eligibility",
+   "found": "2026-11-08T09:26:28+00:00",
+   "location": "New York, NY",
+   "open": true,
+   "posted": "2026-11-06",
+   "priority": "low",
+   "source": "The New York Times",
+   "title": "Backend Engineering Intern",
+   "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751973005"
+  },
+  "oracle:hcrb.fa.us2.oraclecloud.com:17397": {
+   "closed": null,
+   "firm": "Boston Beer",
+   "fit": "no class year listed; check eligibility",
+   "found": "2026-11-08T09:26:28+00:00",
+   "location": "Boston, MA, United States",
+   "open": true,
+   "posted": "2026-10-08",
+   "priority": "low",
+   "source": "Boston Beer",
+   "title": "Quality Assurance R&D Co-op",
+   "url": "https://hcrb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/17397"
+  },
+  "oracle:hcrb.fa.us2.oraclecloud.com:17398": {
+   "closed": null,
+   "firm": "Boston Beer",
+   "fit": "no class year listed; check eligibility",
+   "found": "2026-11-08T09:26:28+00:00",
+   "location": "Boston, MA, United States",
+   "open": true,
+   "posted": "2026-10-08",
+   "priority": "low",
+   "source": "Boston Beer",
+   "title": "R&D Quality and Brewing Co-op",
+   "url": "https://hcrb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/17398"
+  },
+  "oracle:hcrb.fa.us2.oraclecloud.com:17402": {
+   "closed": null,
+   "firm": "Boston Beer",
+   "fit": "no class year listed; check eligibility",
+   "found": "2026-11-08T09:26:28+00:00",
+   "location": "Boston, MA, United States",
+   "open": true,
+   "posted": "2026-11-02",
+   "priority": "low",
+   "source": "Boston Beer",
+   "title": "R&D Brewing Co-op at Sam Adams Boston Brewery",
+   "url": "https://hcrb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/17402"
+  },
+  "oracle:hcrb.fa.us2.oraclecloud.com:17404": {
+   "closed": null,
+   "firm": "Boston Beer",
+   "fit": "no class year listed; check eligibility",
+   "found": "2026-11-08T09:26:28+00:00",
+   "location": "Boston, MA, United States",
+   "open": true,
+   "posted": "2026-11-02",
+   "priority": "low",
+   "source": "Boston Beer",
+   "title": "Sensory R&D Co-op",
+   "url": "https://hcrb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/17404"
+  },
+  "oracle:hcrb.fa.us2.oraclecloud.com:17406": {
+   "closed": null,
+   "firm": "Boston Beer",
+   "fit": "no class year listed; check eligibility",
+   "found": "2026-11-08T09:26:28+00:00",
+   "location": "Boston, MA, United States",
+   "open": true,
+   "posted": "2026-10-08",
+   "priority": "low",
+   "source": "Boston Beer",
+   "title": "Internal Audit Co-op",
+   "url": "https://hcrb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/17406"
+  },
+  "phenom:https://www.pgcareers.com/global/en:R000157841": {
+   "closed": null,
+   "firm": "P&G",
+   "fit": "open to class of 2029",
+   "found": "2026-11-08T09:26:28+00:00",
+   "location": "BOSTON, Massachusetts, United States of America",
+   "open": true,
+   "posted": "2026-11-05",
+   "priority": "low",
+   "source": "P&G",
+   "title": "Engineering Internship, Summer 2027",
+   "url": "https://www.pgcareers.com/global/en/job/R000157841"
+  },
+  "wd:jj:R-102873": {
+   "closed": null,
+   "firm": "Johnson & Johnson",
+   "fit": "no class year listed; check eligibility",
+   "found": "2026-11-08T09:26:28+00:00",
+   "location": "Cambridge, Massachusetts, United States of America",
+   "open": true,
+   "posted": "Posted 26 Days Ago",
+   "priority": "low",
+   "source": "Johnson & Johnson",
+   "title": "Onco Drug-Device Combo Products Intern",
+   "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cambridge-Massachusetts-United-States-of-America/Onco-Drug-Device-Combo-Products-Intern_R-102873"
+  }
+ },
+ "last_heartbeat": "2026-11-08T09:26:28+00:00",
+ "sources": {
+  "Accenture": {
+   "alerted": false,
+   "error": "",
+   "failures": 0,
+   "seeded": true
+  },
+  "Adobe": {
+   "alerted": false,
+   "error": "",
+   "failures": 0,
+   "seeded": true
+  },
+  "Affirm": {
+   "alerted": false,
+   "error": "",
+   "failures": 0,
+   "seeded": true
+  },
+  "Airbnb": {
+   "alerted": false,
+   "error": "",
+   "failures": 0,
+   "seeded": true
+  },
+  "Amazon": {
+   "alerted": false,
+   "error": "",
+   "failures": 0,
+   "seeded": true
+  },
+  "Analysis Group": {
+   "alerted": false,
+   "error": "",
+   "failures": 0,
+   "seeded": true
+  },
+  "Asana": {
+   "alerted": false,
+   "error": "",
+   "failures": 0,
+   "seeded": true
+  },
+  "Away": {
+   "alerted": false,
+   "error": "",
+   "failures": 0,
+   "seeded": true
+  },
+  "BCG": {
+   "alerted": false,
+   "error": "",
+   "failures": 0,
+   "seeded": true
+  },
+  "Betterment": {
+   "alerted": false,
+   "error": "",
+   "failures": 0,
+   "seeded": true
+  },
+  "Block (Square / Cash App)": {
+   "alerted": false,
+   "error": "",
+   "failures": 0,
+   "seeded": true
+  },
+  "Booz Allen": {
+   "alerted": false,
+   "error": "",
+   "failures": 0,
+   "seeded": true
+  },
+  "Boston Beer": {
+   "alerted": false,
+   "error": "",
+   "failures": 0,
+   "seeded": true
+  },
+  "Braze": {
+   "alerted": false,
+   "error": "",
+   "failures": 0,
+   "seeded": true
+  },
+  "Brex": {
+   "alerted": false,
+   "error": "",
+   "failures": 0,
+   "seeded": true
+  },
+  "Carta": {
+   "alerted": false,
+   "error": "",
+   "failures": 0,
+   "seeded": true
+  },
+  "Chime": {
+   "alerted": false,
+   "error": "",
+   "failures": 0,
+   "seeded": true
+  },
+  "Clearview Healthcare Partners": {
+   "alerted": false,
+   "error": "",
+   "failures": 0,
+   "seeded": true
+  },
+  "Coinbase": {
+   "alerted": false,
+   "error": "",
+   "failures": 0,
+   "seeded": true
+  },
+  "Cornerstone Research": {
+   "alerted": false,
+   "error": "",
+   "failures": 0,
+   "seeded": true
+  },
+  "Datadog": {
+   "alerted": false,
+   "error": "",
+   "failures": 0,
+   "seeded": true
+  },
+  "Dentsu": {
+   "alerted": false,
+   "error": "",
+   "failures": 0,
+   "seeded": true
+  },
+  "DraftKings": {
+   "alerted": false,
+   "error": "",
+   "failures": 0,
+   "seeded": true
+  },
+  "Duolingo": {
+   "alerted": false,
+   "error": "",
+   "failures": 0,
+   "seeded": true
+  },
+  "Figma": {
+   "alerted": false,
+   "error": "",
+   "failures": 0,
+   "seeded": true
+  },
+  "Gartner": {
+   "alerted": false,
+   "error": "",
+   "failures": 0,
+   "seeded": true
+  },
+  "Glossier": {
+   "alerted": false,
+   "error": "",
+   "failures": 0,
+   "seeded": true
+  },
+  "Grant Thornton": {
+   "alerted": false,
+   "error": "",
+   "failures": 0,
+   "seeded": true
+  },
+  "Guidehouse": {
+   "alerted": false,
+   "error": "",
+   "failures": 0,
+   "seeded": true
+  },
+  "Hasbro": {
+   "alerted": false,
+   "error": "",
+   "failures": 0,
+   "seeded": true
+  },
+  "Hearst": {
+   "alerted": false,
+   "error": "",
+   "failures": 0,
+   "seeded": true
+  },
+  "HubSpot": {
+   "alerted": false,
+   "error": "",
+   "failures": 0,
+   "seeded": true
+  },
+  "Huron": {
+   "alerted": false,
+   "error": "",
+   "failures": 0,
+   "seeded": true
+  },
+  "Johnson & Johnson": {
+   "alerted": false,
+   "error": "",
+   "failures": 0,
+   "seeded": true
+  },
+  "Klaviyo": {
+   "alerted": false,
+   "error": "",
+   "failures": 0,
+   "seeded": true
+  },
+  "L.E.K. Consulting": {
+   "alerted": false,
+   "error": "",
+   "failures": 0,
+   "seeded": true
+  },
+  "MongoDB": {
+   "alerted": false,
+   "error": "",
+   "failures": 0,
+   "seeded": true
+  },
+  "NBCUniversal": {
+   "alerted": false,
+   "error": "",
+   "failures": 0,
+   "seeded": true
+  },
+  "Notion": {
+   "alerted": false,
+   "error": "",
+   "failures": 0,
+   "seeded": true
+  },
+  "Okta": {
+   "alerted": false,
+   "error": "",
+   "failures": 0,
+   "seeded": true
+  },
+  "Oliver Wyman / Marsh McLennan": {
+   "alerted": false,
+   "error": "",
+   "failures": 0,
+   "seeded": true
+  },
+  "Oracle": {
+   "alerted": false,
+   "error": "",
+   "failures": 0,
+   "seeded": true
+  },
+  "P&G": {
+   "alerted": false,
+   "error": "",
+   "failures": 0,
+   "seeded": true
+  },
+  "PVH (Calvin Klein / Tommy Hilfiger)": {
+   "alerted": false,
+   "error": "",
+   "failures": 0,
+   "seeded": true
+  },
+  "Peloton": {
+   "alerted": false,
+   "error": "",
+   "failures": 0,
+   "seeded": true
+  },
+  "Pfizer": {
+   "alerted": false,
+   "error": "",
+   "failures": 0,
+   "seeded": true
+  },
+  "Pinterest": {
+   "alerted": false,
+   "error": "",
+   "failures": 0,
+   "seeded": true
+  },
+  "Plaid": {
+   "alerted": false,
+   "error": "",
+   "failures": 0,
+   "seeded": true
+  },
+  "Protiviti": {
+   "alerted": false,
+   "error": "",
+   "failures": 0,
+   "seeded": true
+  },
+  "Putnam / Inizio": {
+   "alerted": false,
+   "error": "",
+   "failures": 0,
+   "seeded": true
+  },
+  "PwC": {
+   "alerted": false,
+   "error": "",
+   "failures": 0,
+   "seeded": true
+  },
+  "R/GA": {
+   "alerted": false,
+   "error": "",
+   "failures": 0,
+   "seeded": true
+  },
+  "Ramp": {
+   "alerted": false,
+   "error": "",
+   "failures": 0,
+   "seeded": true
+  },
+  "Rent the Runway": {
+   "alerted": false,
+   "error": "",
+   "failures": 0,
+   "seeded": true
+  },
+  "Robinhood": {
+   "alerted": false,
+   "error": "",
+   "failures": 0,
+   "seeded": true
+  },
+  "Salesforce": {
+   "alerted": false,
+   "error": "",
+   "failures": 0,
+   "seeded": true
+  },
+  "SeatGeek": {
+   "alerted": false,
+   "error": "",
+   "failures": 0,
+   "seeded": true
+  },
+  "ServiceNow": {
+   "alerted": false,
+   "error": "",
+   "failures": 0,
+   "seeded": true
+  },
+  "Snowflake": {
+   "alerted": false,
+   "error": "",
+   "failures": 0,
+   "seeded": true
+  },
+  "Spotify": {
+   "alerted": false,
+   "error": "",
+   "failures": 0,
+   "seeded": true
+  },
+  "Squarespace": {
+   "alerted": false,
+   "error": "",
+   "failures": 0,
+   "seeded": true
+  },
+  "Stripe": {
+   "alerted": false,
+   "error": "",
+   "failures": 0,
+   "seeded": true
+  },
+  "TJX": {
+   "alerted": false,
+   "error": "",
+   "failures": 0,
+   "seeded": true
+  },
+  "Taboola": {
+   "alerted": false,
+   "error": "",
+   "failures": 0,
+   "seeded": true
+  },
+  "Tapestry (Coach / Kate Spade)": {
+   "alerted": false,
+   "error": "",
+   "failures": 0,
+   "seeded": true
+  },
+  "The New York Times": {
+   "alerted": false,
+   "error": "",
+   "failures": 0,
+   "seeded": true
+  },
+  "The Trade Desk": {
+   "alerted": false,
+   "error": "",
+   "failures": 0,
+   "seeded": true
+  },
+  "Toast": {
+   "alerted": false,
+   "error": "",
+   "failures": 0,
+   "seeded": true
+  },
+  "Trinity Life Sciences": {
+   "alerted": false,
+   "error": "",
+   "failures": 0,
+   "seeded": true
+  },
+  "Twilio": {
+   "alerted": false,
+   "error": "",
+   "failures": 0,
+   "seeded": true
+  },
+  "Unilever": {
+   "alerted": false,
+   "error": "",
+   "failures": 0,
+   "seeded": true
+  },
+  "Universal Music Group": {
+   "alerted": false,
+   "error": "",
+   "failures": 0,
+   "seeded": true
+  },
+  "VaynerMedia": {
+   "alerted": false,
+   "error": "",
+   "failures": 0,
+   "seeded": true
+  },
+  "WPP": {
+   "alerted": false,
+   "error": "",
+   "failures": 0,
+   "seeded": true
+  },
+  "Warner Bros. Discovery": {
+   "alerted": false,
+   "error": "",
+   "failures": 0,
+   "seeded": true
+  },
+  "Workday": {
+   "alerted": false,
+   "error": "",
+   "failures": 0,
+   "seeded": true
+  },
+  "Yext": {
+   "alerted": false,
+   "error": "",
+   "failures": 0,
+   "seeded": true
+  },
+  "ZoomInfo": {
+   "alerted": false,
+   "error": "",
+   "failures": 0,
+   "seeded": true
+  },
+  "iHeartMedia": {
+   "alerted": false,
+   "error": "",
+   "failures": 0,
+   "seeded": true
+  }
+ },
+ "week": {
+  "high": 0,
+  "low": 0,
+  "medium": 0
+ }
+}
