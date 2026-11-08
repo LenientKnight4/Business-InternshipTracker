@@ -1,0 +1,215 @@
+# What counts as a match. All phrases are case-insensitive whole words/phrases.
+
+# Wording in phone alerts and dashboard headings.
+alert_label: marketing/sales/consulting
+dashboard:
+  title: Business internship tracker (marketing / sales / consulting / BD)
+  high: "🎯 Marketing / sales / consulting / BD internships — open now"
+  medium: "Related internships (comms, PR, media, client roles) — open now"
+  low: "Lower priority (tech, finance, ops, events) — open now"
+
+# Your graduation year (you're a sophomore now, class of 2029). The tracker then shows:
+#   - every summer 2028 internship (after your junior year)
+#   - summer 2027 internships (after sophomore year) ONLY if the posting says sophomores /
+#     the class of 2029 can apply. It reads each posting's description to check.
+#   - undated internships, unless they're limited to other class years
+# Postings for any other summer are ignored.
+graduation_year: 2029
+
+# Only postings in these places are kept. Vague locations ("2 Locations", "United States",
+# "Remote") are kept only if the posting's description mentions one of them.
+only_locations:
+  - new york
+  - new york city
+  - nyc
+  - manhattan
+  - brooklyn
+  - boston
+  - cambridge, ma
+  - cambridge, massachusetts
+only_locations_label: [NYC, Boston]
+
+# Search terms sent to each careers site. Your two summer years (2027, 2028) are added automatically.
+search_terms: [internship, summer]
+
+# A posting must contain one of these to count as an internship at all.
+# ("intern" is matched as a whole word, so "Internal Audit" doesn't count.)
+early_career:
+  - intern
+  - interns
+  - internship
+  - internships
+  - summer analyst
+  - summer analysts
+  - summer program
+  - summer programme
+  - summer internship
+  - co-op
+  - early insight
+  - early insights
+  - insight program
+  - sophomore
+  - freshman
+  - first-year
+
+# Never shown: wrong level for an undergrad.
+exclude:
+  - mba
+  - pre-mba
+  - summer associate
+  - summer associates
+  - phd
+  - ph.d
+  - doctoral
+  - postdoc
+  - masters
+  - master's
+  - full-time
+  - full time
+  - vice president
+  - director
+  - experienced
+  - jd
+  - law student
+  - apprenticeship
+
+# Shown on the dashboard only (no push): recruiting events rather than applications.
+events:
+  - info session
+  - information session
+  - coffee chat
+  - coffee chats
+  - open house
+  - roadshow
+  - webinar
+  - networking
+  - event
+  - office hours
+  - meet the
+
+# Top priority even if a "soft" off-target word appears (e.g. "Technology Sales Intern").
+strong_focus:
+  # Marketing
+  - marketing
+  - brand management
+  - brand manager
+  - brand marketing
+  - product marketing
+  - digital marketing
+  - growth marketing
+  - social media marketing
+  - advertising
+  # Sales
+  - sales
+  - account executive
+  - account manager
+  - account management
+  - sales development
+  - business development representative
+  # Consulting
+  - consulting
+  - consultant
+  - consultants
+  - management consulting
+  - strategy consulting
+  - associate consultant
+  # Business development
+  - business development
+  - partnerships
+  - corporate development
+
+# Top priority unless an off-target word also appears.
+focus:
+  - business analyst
+  - advisory
+  - strategy
+  - strategy & operations
+  - go-to-market
+  - gtm
+  - commercial
+  - brand
+  - growth
+  - media
+  - media planning
+  - creative strategy
+  - content
+  - social media
+  - copywriter
+  - copywriting
+  - account
+  - accounts
+  - client strategy
+  - bdr
+  - sdr
+
+# Medium priority (grouped push): related but not core.
+related:
+  - communications
+  - public relations
+  - pr
+  - merchandising
+  - customer success
+  - client services
+  - client service
+  - e-commerce
+  - ecommerce
+  - events
+  - editorial
+  - publishing
+  - creative
+  - audience
+
+# Always low priority: clearly not a marketing / sales / consulting role.
+off_target_hard:
+  - software
+  - engineer
+  - engineering
+  - developer
+  - data scientist
+  - data engineer
+  - machine learning
+  - cyber
+  - cybersecurity
+  - human resources
+  - hr
+  - legal
+  - audit
+  - tax
+  - accounting
+  - payroll
+  - facilities
+  - supply chain
+  - manufacturing
+  - research and development
+  - r&d
+  - scientist
+  - laboratory
+  - clinical
+  - pharmacy
+  - nursing
+  - warehouse
+  - whs
+  - actuarial
+
+# Low priority unless a strong_focus phrase also appears.
+off_target_soft:
+  - technology
+  - it
+  - finance
+  - financial
+  - investment banking
+  - investment
+  - trading
+  - risk
+  - quantitative
+  - data
+  - analytics
+  - product management
+  - product manager
+  - design
+  - ux
+  - operations
+  - insurance
+  - wealth
+  - security
+  - infrastructure

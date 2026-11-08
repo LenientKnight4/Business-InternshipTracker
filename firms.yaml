@@ -1,0 +1,145 @@
+# Every company the tracker checks. Endpoints were verified on 2026-11-05.
+#
+# kind: focus = any internship there that isn't tech/finance/ops etc. is an instant push
+#               (consulting firms and ad agencies, where most internships are client-facing).
+# kind: other = only marketing / sales / consulting / BD internships are pushed.
+#
+# To add a company, click "Apply" on any of its jobs and look at the URL:
+#   <tenant>.wd<N>.myworkdayjobs.com/<site>/...      -> type: workday
+#   boards.greenhouse.io/<board>/...                  -> type: greenhouse
+#   jobs.lever.co/<company>/...                       -> type: lever
+#   jobs.ashbyhq.com/<board>/...                      -> type: ashby
+#   jobs.smartrecruiters.com/<company>/...            -> type: smartrecruiters
+#   <host>/hcmUI/CandidateExperience/en/sites/<site>  -> type: oracle
+#   <host>.tal.net/...                                -> type: oleeo (paste the job board URL)
+#   careers-<name>.icims.com/...                      -> type: icims, base: https://careers-<name>.icims.com
+#   anything else                                     -> type: page (watches the page for new internship text)
+
+sources:
+  # --- Consulting -----------------------------------------------------------
+  - {name: BCG, kind: focus, type: eightfold, host: bcg.eightfold.ai, domain: bcg.com}
+  - {name: Accenture, kind: focus, type: workday, tenant: accenture, wd: 103, site: AccentureCareers}
+  - {name: PwC, kind: focus, type: workday, tenant: pwc, wd: 3, site: US_Entry_Level_Careers}
+  - {name: Booz Allen, kind: focus, type: workday, tenant: bah, wd: 1, site: BAH_Jobs}
+  - {name: Guidehouse, kind: focus, type: workday, tenant: guidehouse, wd: 1, site: External}
+  - {name: Huron, kind: focus, type: workday, tenant: huron, wd: 1, site: huroncareers}
+  - {name: Protiviti, kind: focus, type: workday, tenant: roberthalf, wd: 1, site: ProtivitiNA}
+  - {name: Grant Thornton, kind: focus, type: oracle, host: ehzq.fa.us2.oraclecloud.com, site: CX_1}
+  - {name: Cornerstone Research, kind: focus, type: workday, tenant: cornerstone, wd: 501, site: CornerstoneResearch_Careers}
+  - {name: Analysis Group, kind: focus, type: icims, base: "https://professionalcareers-analysisgroup.icims.com"}
+  - {name: Trinity Life Sciences, kind: focus, type: workday, tenant: trinitylifesciences, wd: 108, site: Trinity}
+  - {name: Clearview Healthcare Partners, kind: focus, type: greenhouse, board: clearviewhealthcarepartners}
+  - name: L.E.K. Consulting
+    kind: focus
+    type: oleeo
+    boards: [https://lek.tal.net/vx/lang-en-GB/mobile-0/appcentre-ext/brand-2/candidate/jobboard/vacancy/1/adv/]
+  - {name: Oliver Wyman / Marsh McLennan, kind: other, type: phenom, base: "https://careers.marshmclennan.com/global/en", keyword_search: true}
+  - {name: Putnam / Inizio, kind: other, type: greenhouse, board: inizio}
+  - {name: Gartner, kind: other, type: workday, tenant: gartner, wd: 5, site: EXT}
+
+  # --- Ad agencies ----------------------------------------------------------
+  - {name: WPP, kind: focus, type: greenhouse, board: wpp}
+  - {name: Dentsu, kind: focus, type: workday, tenant: dentsuaegis, wd: 3, site: DAN_GLOBAL}
+  - {name: VaynerMedia, kind: focus, type: greenhouse, board: vaynermedia}
+  - {name: R/GA, kind: focus, type: greenhouse, board: rga}
+
+  # --- Brands ---------------------------------------------------------------
+  - {name: P&G, kind: other, type: phenom, base: "https://www.pgcareers.com/global/en", keyword_search: true}
+  - {name: Johnson & Johnson, kind: other, type: workday, tenant: jj, wd: 5, site: JJ}
+  - {name: Pfizer, kind: other, type: workday, tenant: pfizer, wd: 1, site: PfizerCareers}
+  - {name: Unilever, kind: other, type: workday, tenant: unilever, wd: 3, site: Unilever_Early_Careers}
+  - {name: Tapestry (Coach / Kate Spade), kind: other, type: workday, tenant: tapestry, wd: 108, site: Tapestry_Careers}
+  - {name: PVH (Calvin Klein / Tommy Hilfiger), kind: other, type: phenom, base: "https://careers.pvh.com/us/en", keyword_search: true}
+  - {name: TJX, kind: other, type: phenom, base: "https://jobs.tjx.com/global/en", keyword_search: true}
+  - {name: Boston Beer, kind: other, type: oracle, host: hcrb.fa.us2.oraclecloud.com, site: CX}
+  - {name: Hasbro, kind: other, type: greenhouse, board: hasbro}
+  - {name: Peloton, kind: other, type: greenhouse, board: peloton}
+  - {name: Glossier, kind: other, type: greenhouse, board: glossier}
+  - {name: Rent the Runway, kind: other, type: greenhouse, board: renttherunway}
+  - {name: Away, kind: other, type: ashby, board: away}
+  - {name: SeatGeek, kind: other, type: greenhouse, board: seatgeek}
+
+  # --- Media & entertainment ------------------------------------------------
+  - {name: NBCUniversal, kind: other, type: smartrecruiters, company: NBCUniversal3}
+  - {name: Warner Bros. Discovery, kind: other, type: phenom, base: "https://careers.wbd.com/global/en", keyword_search: true}
+  - {name: Universal Music Group, kind: other, type: workday, tenant: umusic, wd: 5, site: UMGUS}
+  - {name: Spotify, kind: other, type: lever, company: spotify}
+  - {name: The New York Times, kind: other, type: greenhouse, board: thenewyorktimes}
+  - {name: Hearst, kind: other, type: greenhouse, board: hearst}
+  - {name: iHeartMedia, kind: other, type: smartrecruiters, company: iheartmedia}
+
+  # --- Tech -----------------------------------------------------------------
+  - {name: Salesforce, kind: other, type: workday, tenant: salesforce, wd: 12, site: External_Career_Site}
+  - {name: Oracle, kind: other, type: oracle, host: eeho.fa.us2.oraclecloud.com, site: CX_45001}
+  - {name: Adobe, kind: other, type: phenom, base: "https://careers.adobe.com/us/en", keyword_search: true}
+  - {name: Workday, kind: other, type: workday, tenant: workday, wd: 5, site: Workday}
+  - {name: ServiceNow, kind: other, type: smartrecruiters, company: ServiceNow}
+  - {name: Amazon, kind: other, type: amazon, locations: ["New York, NY", "Boston, MA"]}
+  - {name: HubSpot, kind: other, type: greenhouse, board: hubspotjobs}
+  - {name: Datadog, kind: other, type: greenhouse, board: datadog}
+  - {name: MongoDB, kind: other, type: greenhouse, board: mongodb}
+  - {name: Snowflake, kind: other, type: ashby, board: snowflake}
+  - {name: Toast, kind: other, type: greenhouse, board: toast}
+  - {name: Klaviyo, kind: other, type: greenhouse, board: klaviyo}
+  - {name: DraftKings, kind: other, type: workday, tenant: draftkings, wd: 1, site: DraftKings}
+  - {name: ZoomInfo, kind: other, type: greenhouse, board: zoominfo}
+  - {name: Squarespace, kind: other, type: greenhouse, board: squarespace}
+  - {name: Yext, kind: other, type: greenhouse, board: yext}
+  - {name: Braze, kind: other, type: greenhouse, board: braze}
+  - {name: Ramp, kind: other, type: ashby, board: ramp}
+  - {name: Pinterest, kind: other, type: greenhouse, board: pinterest}
+  - {name: Duolingo, kind: other, type: greenhouse, board: duolingo}
+  - {name: Stripe, kind: other, type: greenhouse, board: stripe}
+  - {name: Brex, kind: other, type: greenhouse, board: brex}
+  - {name: Airbnb, kind: other, type: greenhouse, board: airbnb}
+  - {name: Notion, kind: other, type: ashby, board: notion}
+  - {name: Figma, kind: other, type: greenhouse, board: figma}
+  - {name: Asana, kind: other, type: greenhouse, board: asana}
+  - {name: Okta, kind: other, type: greenhouse, board: okta}
+  - {name: Twilio, kind: other, type: greenhouse, board: twilio}
+  - {name: Block (Square / Cash App), kind: other, type: greenhouse, board: block}
+  - {name: Betterment, kind: other, type: greenhouse, board: betterment}
+  - {name: Carta, kind: other, type: greenhouse, board: carta}
+  - {name: Chime, kind: other, type: greenhouse, board: chime}
+  - {name: Robinhood, kind: other, type: greenhouse, board: robinhood}
+  - {name: Coinbase, kind: other, type: greenhouse, board: coinbase}
+  - {name: Plaid, kind: other, type: ashby, board: plaid}
+  - {name: Affirm, kind: other, type: greenhouse, board: affirm}
+  - {name: Taboola, kind: other, type: greenhouse, board: taboola}
+  - {name: The Trade Desk, kind: other, type: greenhouse, board: thetradedesk}
+
+# Companies that block automated checks or have no usable public feed. Listed on the
+# dashboard so you remember to join their campus mailing lists / check them by hand.
+manual:
+  - {name: McKinsey, url: "https://www.mckinsey.com/careers/search-jobs", note: "Business Analyst Intern"}
+  - {name: Bain, url: "https://www.bain.com/careers/find-a-role/", note: "Associate Consultant Intern"}
+  - {name: Deloitte, url: "https://apply.deloitte.com/"}
+  - {name: EY, url: "https://careers.ey.com/"}
+  - {name: KPMG, url: "https://www.kpmguscareers.com/"}
+  - {name: Kearney, url: "https://www.kearney.com/careers"}
+  - {name: Alvarez & Marsal, url: "https://www.alvarezandmarsal.com/careers"}
+  - {name: FTI Consulting, url: "https://www.fticonsulting.com/careers"}
+  - {name: ZS, url: "https://jobs.zs.com/"}
+  - {name: Simon-Kucher, url: "https://www.simon-kucher.com/en/careers"}
+  - {name: Health Advances (Boston), url: "https://healthadvances.com/careers"}
+  - {name: "L'Oréal", url: "https://careers.loreal.com/", note: "big NYC marketing internship program"}
+  - {name: PepsiCo, url: "https://www.pepsicojobs.com/main/"}
+  - {name: Estée Lauder, url: "https://careers.elcompanies.com/"}
+  - {name: Colgate-Palmolive, url: "https://jobs.colgate.com/"}
+  - {name: Ralph Lauren, url: "https://careers.ralphlauren.com/"}
+  - {name: New Balance (Boston), url: "https://www.newbalance.com/careers/"}
+  - {name: Paramount, url: "https://careers.paramount.com/"}
+  - {name: Disney, url: "https://jobs.disneycareers.com/"}
+  - {name: Condé Nast, url: "https://careers.condenast.com/"}
+  - {name: Sony Music, url: "https://www.sonymusic.com/careers/"}
+  - {name: Bloomberg, url: "https://www.bloomberg.com/company/careers/"}
+  - {name: Omnicom, url: "https://www.omnicomgroup.com/"}
+  - {name: Publicis, url: "https://careers.publicisgroupe.com/"}
+  - {name: IPG (McCann / FCB), url: "https://www.interpublic.com/careers/"}
+  - {name: Edelman, url: "https://www.edelman.com/careers"}
+  - {name: Google, url: "https://www.google.com/about/careers/applications/jobs/results?q=intern"}
+  - {name: Microsoft, url: "https://careers.microsoft.com/"}
+  - {name: Meta, url: "https://www.metacareers.com/"}
+  - {name: Wayfair (Boston), url: "https://www.aboutwayfair.com/careers"}
+  - {name: Etsy, url: "https://careers.etsy.com/"}
+  - {name: Handshake, url: "https://app.joinhandshake.com/", note: "use saved-search alerts; see README"}
