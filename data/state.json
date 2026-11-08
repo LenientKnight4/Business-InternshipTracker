@@ -635,6 +635,11 @@
    "source": "Accenture",
    "why": "summer 2027, no sign sophomores can apply"
   },
+  "wd:accenture:R00354373": {
+   "ok": false,
+   "source": "Accenture",
+   "why": "for class of 2027/2028"
+  },
   "wd:accenture:R00355473": {
    "ok": false,
    "source": "Accenture",
@@ -659,6 +664,11 @@
    "ok": false,
    "source": "Accenture",
    "why": "summer 2027, no sign sophomores can apply"
+  },
+  "wd:accenture:R00355981": {
+   "ok": false,
+   "source": "Accenture",
+   "why": "for class of 2027/2028"
   },
   "wd:accenture:R00356105": {
    "ok": false,
