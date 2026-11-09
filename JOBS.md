@@ -1,6 +1,6 @@
 # Business internship tracker (marketing / sales / consulting / BD)
 
-_Updated 2026-11-09 07:52 UTC · watching 79 sources · all sources OK_
+_Updated 2026-11-09 18:41 UTC · watching 79 sources · all sources OK_
 
 ## 🎯 Marketing / sales / consulting / BD internships — open now (9)
 
@@ -26,7 +26,7 @@ _Updated 2026-11-09 07:52 UTC · watching 79 sources · all sources OK_
 | 2026-11-08 | The New York Times | [Audience Team Intern, Wirecutter](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748501005) | New York, NY | no class year listed; check eligibility |
 | 2026-11-08 | The New York Times | [Creative Production, TBrand Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4750885005) | New York, NY | no class year listed; check eligibility |
 
-<details><summary><b>Lower priority (tech, finance, ops, events) — open now (40)</b></summary>
+<details><summary><b>Lower priority (tech, finance, ops, events) — open now (36)</b></summary>
 
 
 | Found | Firm | Role | Location | Who can apply |
@@ -55,7 +55,6 @@ _Updated 2026-11-09 07:52 UTC · watching 79 sources · all sources OK_
 | 2026-11-08 | Pinterest | [UX Quantitative Research Intern (USA)](https://www.pinterestcareers.com/jobs/?gh_jid=8140217) | Remote, US; San Francisco, CA, US; Seattle, WA, US; New York | no class year listed; check eligibility |
 | 2026-11-08 | The New York Times | [Product Design Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748241005) | New York, NY | no class year listed; check eligibility |
 | 2026-11-08 | The New York Times | [Product Management Intern, Wirecutter](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748461005) | New York, NY | no class year listed; check eligibility |
-| 2026-11-08 | The New York Times | [Backend Engineering Intern, Wirecutter](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748483005) | New York, NY | no class year listed; check eligibility |
 | 2026-11-08 | The New York Times | [Kitchen Team Intern, Wirecutter](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748503005) | New York, NY | no class year listed; check eligibility |
 | 2026-11-08 | The New York Times | [Editorial Design Intern, Wirecutter](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748518005) | New York, NY | no class year listed; check eligibility |
 | 2026-11-08 | The New York Times | [Interactive News Engineering Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751790005) | New York, NY | no class year listed; check eligibility |
@@ -64,9 +63,6 @@ _Updated 2026-11-09 07:52 UTC · watching 79 sources · all sources OK_
 | 2026-11-08 | The New York Times | [Android Engineering Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751917005) | New York, NY | no class year listed; check eligibility |
 | 2026-11-08 | The New York Times | [iOS Engineering Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751919005) | New York, NY | no class year listed; check eligibility |
 | 2026-11-08 | The New York Times | [Backend Engineering Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751973005) | New York, NY | no class year listed; check eligibility |
-| 2026-11-08 | Boston Beer | [Quality Assurance R&D Co-op](https://hcrb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/17397) | Boston, MA, United States | no class year listed; check eligibility |
-| 2026-11-08 | Boston Beer | [R&D Quality and Brewing Co-op](https://hcrb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/17398) | Boston, MA, United States | no class year listed; check eligibility |
-| 2026-11-08 | Boston Beer | [R&D Brewing Co-op at Sam Adams Boston Brewery](https://hcrb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/17402) | Boston, MA, United States | no class year listed; check eligibility |
 | 2026-11-08 | Boston Beer | [Sensory R&D Co-op](https://hcrb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/17404) | Boston, MA, United States | no class year listed; check eligibility |
 | 2026-11-08 | Boston Beer | [Internal Audit Co-op](https://hcrb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/17406) | Boston, MA, United States | no class year listed; check eligibility |
 | 2026-11-08 | P&G | [Engineering Internship, Summer 2027](https://www.pgcareers.com/global/en/job/R000157841) | BOSTON, Massachusetts, United States of America | open to class of 2029 |
@@ -114,7 +110,7 @@ _None right now._
 | Tapestry (Coach / Kate Spade) | workday | ✅ | 0 |
 | PVH (Calvin Klein / Tommy Hilfiger) | phenom | ✅ | 0 |
 | TJX | phenom | ✅ | 0 |
-| Boston Beer | oracle | ✅ | 5 |
+| Boston Beer | oracle | ✅ | 2 |
 | Hasbro | greenhouse | ✅ | 0 |
 | Peloton | greenhouse | ✅ | 0 |
 | Glossier | greenhouse | ✅ | 0 |
@@ -125,7 +121,7 @@ _None right now._
 | Warner Bros. Discovery | phenom | ✅ | 0 |
 | Universal Music Group | workday | ✅ | 0 |
 | Spotify | lever | ✅ | 0 |
-| The New York Times | greenhouse | ✅ | 25 |
+| The New York Times | greenhouse | ✅ | 24 |
 | Hearst | greenhouse | ✅ | 0 |
 | iHeartMedia | smartrecruiters | ✅ | 0 |
 | Salesforce | workday | ✅ | 0 |

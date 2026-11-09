@@ -280,11 +280,6 @@
    "source": "The New York Times",
    "why": "no class year listed; check eligibility"
   },
-  "gh:thenewyorktimes:4748483005": {
-   "ok": true,
-   "source": "The New York Times",
-   "why": "no class year listed; check eligibility"
-  },
   "gh:thenewyorktimes:4748485005": {
    "ok": true,
    "source": "The New York Times",
@@ -400,21 +395,6 @@
    "source": "Oracle",
    "why": "not in NYC / Boston"
   },
-  "oracle:hcrb.fa.us2.oraclecloud.com:17397": {
-   "ok": true,
-   "source": "Boston Beer",
-   "why": "no class year listed; check eligibility"
-  },
-  "oracle:hcrb.fa.us2.oraclecloud.com:17398": {
-   "ok": true,
-   "source": "Boston Beer",
-   "why": "no class year listed; check eligibility"
-  },
-  "oracle:hcrb.fa.us2.oraclecloud.com:17402": {
-   "ok": true,
-   "source": "Boston Beer",
-   "why": "no class year listed; check eligibility"
-  },
   "oracle:hcrb.fa.us2.oraclecloud.com:17404": {
    "ok": true,
    "source": "Boston Beer",
@@ -454,6 +434,161 @@
    "ok": true,
    "source": "P&G",
    "why": "open to class of 2029"
+  },
+  "sr:NBCUniversal3:744000160636835": {
+   "ok": false,
+   "source": "NBCUniversal",
+   "why": "for class of 2027"
+  },
+  "sr:NBCUniversal3:744000160639069": {
+   "ok": false,
+   "source": "NBCUniversal",
+   "why": "for class of 2027"
+  },
+  "sr:NBCUniversal3:744000160639419": {
+   "ok": false,
+   "source": "NBCUniversal",
+   "why": "for class of 2027"
+  },
+  "sr:NBCUniversal3:744000160639712": {
+   "ok": false,
+   "source": "NBCUniversal",
+   "why": "for class of 2027"
+  },
+  "sr:NBCUniversal3:744000160641475": {
+   "ok": false,
+   "source": "NBCUniversal",
+   "why": "for class of 2027"
+  },
+  "sr:NBCUniversal3:744000160642412": {
+   "ok": false,
+   "source": "NBCUniversal",
+   "why": "for class of 2027"
+  },
+  "sr:NBCUniversal3:744000160642462": {
+   "ok": false,
+   "source": "NBCUniversal",
+   "why": "for class of 2027"
+  },
+  "sr:NBCUniversal3:744000160643662": {
+   "ok": false,
+   "source": "NBCUniversal",
+   "why": "for class of 2027"
+  },
+  "sr:NBCUniversal3:744000160643988": {
+   "ok": false,
+   "source": "NBCUniversal",
+   "why": "for class of 2027"
+  },
+  "sr:NBCUniversal3:744000160646119": {
+   "ok": false,
+   "source": "NBCUniversal",
+   "why": "for class of 2027"
+  },
+  "sr:NBCUniversal3:744000160646989": {
+   "ok": false,
+   "source": "NBCUniversal",
+   "why": "for class of 2027"
+  },
+  "sr:NBCUniversal3:744000160649714": {
+   "ok": false,
+   "source": "NBCUniversal",
+   "why": "for class of 2027"
+  },
+  "sr:NBCUniversal3:744000160649909": {
+   "ok": false,
+   "source": "NBCUniversal",
+   "why": "for class of 2027"
+  },
+  "sr:NBCUniversal3:744000160650767": {
+   "ok": false,
+   "source": "NBCUniversal",
+   "why": "for class of 2027"
+  },
+  "sr:NBCUniversal3:744000160652809": {
+   "ok": false,
+   "source": "NBCUniversal",
+   "why": "for class of 2027"
+  },
+  "sr:NBCUniversal3:744000160654878": {
+   "ok": false,
+   "source": "NBCUniversal",
+   "why": "for class of 2027"
+  },
+  "sr:NBCUniversal3:744000160655850": {
+   "ok": false,
+   "source": "NBCUniversal",
+   "why": "for class of 2027"
+  },
+  "sr:NBCUniversal3:744000160658984": {
+   "ok": false,
+   "source": "NBCUniversal",
+   "why": "for class of 2027"
+  },
+  "sr:NBCUniversal3:744000160659354": {
+   "ok": false,
+   "source": "NBCUniversal",
+   "why": "for class of 2027"
+  },
+  "sr:NBCUniversal3:744000160659459": {
+   "ok": false,
+   "source": "NBCUniversal",
+   "why": "for class of 2027"
+  },
+  "sr:NBCUniversal3:744000160660975": {
+   "ok": false,
+   "source": "NBCUniversal",
+   "why": "for class of 2027"
+  },
+  "sr:NBCUniversal3:744000160661249": {
+   "ok": false,
+   "source": "NBCUniversal",
+   "why": "for class of 2027"
+  },
+  "sr:NBCUniversal3:744000160663160": {
+   "ok": false,
+   "source": "NBCUniversal",
+   "why": "for class of 2027"
+  },
+  "sr:NBCUniversal3:744000160664279": {
+   "ok": false,
+   "source": "NBCUniversal",
+   "why": "for class of 2027"
+  },
+  "sr:NBCUniversal3:744000160677969": {
+   "ok": false,
+   "source": "NBCUniversal",
+   "why": "for class of 2027"
+  },
+  "sr:NBCUniversal3:744000160678070": {
+   "ok": false,
+   "source": "NBCUniversal",
+   "why": "for class of 2027"
+  },
+  "sr:NBCUniversal3:744000160680389": {
+   "ok": false,
+   "source": "NBCUniversal",
+   "why": "for class of 2027"
+  },
+  "sr:NBCUniversal3:744000160680980": {
+   "ok": false,
+   "source": "NBCUniversal",
+   "why": "for class of 2027"
+  },
+  "sr:NBCUniversal3:744000160681069": {
+   "ok": false,
+   "source": "NBCUniversal",
+   "why": "for class of 2027"
+  },
+  "sr:NBCUniversal3:744000160686479": {
+   "ok": false,
+   "source": "NBCUniversal",
+   "why": "for class of 2027"
+  },
+  "sr:NBCUniversal3:744000160689930": {
+   "ok": false,
+   "source": "NBCUniversal",
+   "why": "for class of 2027"
   },
   "tal:L.E.K. Consulting:4139": {
    "ok": false,
@@ -640,20 +775,10 @@
    "source": "Accenture",
    "why": "summer 2027, no sign sophomores can apply"
   },
-  "wd:accenture:R00354373": {
-   "ok": false,
-   "source": "Accenture",
-   "why": "for class of 2027/2028"
-  },
   "wd:accenture:R00355473": {
    "ok": false,
    "source": "Accenture",
    "why": "not in NYC / Boston"
-  },
-  "wd:accenture:R00355578": {
-   "ok": false,
-   "source": "Accenture",
-   "why": "summer 2027, no sign sophomores can apply"
   },
   "wd:accenture:R00355590": {
    "ok": false,
@@ -699,26 +824,6 @@
    "ok": false,
    "source": "Accenture",
    "why": "for class of 2027/2028"
-  },
-  "wd:accenture:R00358078": {
-   "ok": false,
-   "source": "Accenture",
-   "why": "not in NYC / Boston"
-  },
-  "wd:accenture:R00358081": {
-   "ok": false,
-   "source": "Accenture",
-   "why": "not in NYC / Boston"
-  },
-  "wd:accenture:R00358088": {
-   "ok": false,
-   "source": "Accenture",
-   "why": "not in NYC / Boston"
-  },
-  "wd:accenture:R00358098": {
-   "ok": false,
-   "source": "Accenture",
-   "why": "not in NYC / Boston"
   },
   "wd:accenture:R00358147": {
    "ok": false,
@@ -880,11 +985,6 @@
    "source": "Accenture",
    "why": "summer 2027, no sign sophomores can apply"
   },
-  "wd:accenture:R00367336": {
-   "ok": false,
-   "source": "Accenture",
-   "why": "not in NYC / Boston"
-  },
   "wd:accenture:R00367736": {
    "ok": false,
    "source": "Accenture",
@@ -961,6 +1061,16 @@
    "why": "not in NYC / Boston"
   },
   "wd:jj:R-099364": {
+   "ok": false,
+   "source": "Johnson & Johnson",
+   "why": "not in NYC / Boston"
+  },
+  "wd:jj:R-102328": {
+   "ok": false,
+   "source": "Johnson & Johnson",
+   "why": "not in NYC / Boston"
+  },
+  "wd:jj:R-102616": {
    "ok": false,
    "source": "Johnson & Johnson",
    "why": "not in NYC / Boston"
@@ -1433,12 +1543,12 @@
    "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748461005"
   },
   "gh:thenewyorktimes:4748483005": {
-   "closed": null,
+   "closed": "2026-11-09T18:41:38+00:00",
    "firm": "The New York Times",
    "fit": "no class year listed; check eligibility",
    "found": "2026-11-08T09:26:28+00:00",
    "location": "New York, NY",
-   "open": true,
+   "open": false,
    "posted": "2026-10-30",
    "priority": "low",
    "source": "The New York Times",
@@ -1706,12 +1816,12 @@
    "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751973005"
   },
   "oracle:hcrb.fa.us2.oraclecloud.com:17397": {
-   "closed": null,
+   "closed": "2026-11-09T18:41:38+00:00",
    "firm": "Boston Beer",
    "fit": "no class year listed; check eligibility",
    "found": "2026-11-08T09:26:28+00:00",
    "location": "Boston, MA, United States",
-   "open": true,
+   "open": false,
    "posted": "2026-10-08",
    "priority": "low",
    "source": "Boston Beer",
@@ -1719,12 +1829,12 @@
    "url": "https://hcrb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/17397"
   },
   "oracle:hcrb.fa.us2.oraclecloud.com:17398": {
-   "closed": null,
+   "closed": "2026-11-09T18:41:38+00:00",
    "firm": "Boston Beer",
    "fit": "no class year listed; check eligibility",
    "found": "2026-11-08T09:26:28+00:00",
    "location": "Boston, MA, United States",
-   "open": true,
+   "open": false,
    "posted": "2026-10-08",
    "priority": "low",
    "source": "Boston Beer",
@@ -1732,12 +1842,12 @@
    "url": "https://hcrb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/17398"
   },
   "oracle:hcrb.fa.us2.oraclecloud.com:17402": {
-   "closed": null,
+   "closed": "2026-11-09T18:41:38+00:00",
    "firm": "Boston Beer",
    "fit": "no class year listed; check eligibility",
    "found": "2026-11-08T09:26:28+00:00",
    "location": "Boston, MA, United States",
-   "open": true,
+   "open": false,
    "posted": "2026-11-02",
    "priority": "low",
    "source": "Boston Beer",
@@ -1790,7 +1900,7 @@
    "found": "2026-11-08T09:26:28+00:00",
    "location": "Cambridge, Massachusetts, United States of America",
    "open": true,
-   "posted": "Posted 26 Days Ago",
+   "posted": "Posted 27 Days Ago",
    "priority": "low",
    "source": "Johnson & Johnson",
    "title": "Onco Drug-Device Combo Products Intern",
