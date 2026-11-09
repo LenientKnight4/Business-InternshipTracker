@@ -1,6 +1,6 @@
 # Business internship tracker (marketing / sales / consulting / BD)
 
-_Updated 2026-11-08 16:16 UTC · watching 79 sources · all sources OK_
+_Updated 2026-11-09 07:52 UTC · watching 79 sources · all sources OK_
 
 ## 🎯 Marketing / sales / consulting / BD internships — open now (9)
 

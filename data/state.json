@@ -505,6 +505,11 @@
    "source": "Accenture",
    "why": "not in NYC / Boston"
   },
+  "wd:accenture:14811479": {
+   "ok": false,
+   "source": "Accenture",
+   "why": "not in NYC / Boston"
+  },
   "wd:accenture:14811480": {
    "ok": false,
    "source": "Accenture",
@@ -960,21 +965,6 @@
    "source": "Johnson & Johnson",
    "why": "not in NYC / Boston"
   },
-  "wd:jj:R-102105": {
-   "ok": false,
-   "source": "Johnson & Johnson",
-   "why": "summer 2027, no sign sophomores can apply"
-  },
-  "wd:jj:R-102328": {
-   "ok": false,
-   "source": "Johnson & Johnson",
-   "why": "not in NYC / Boston"
-  },
-  "wd:jj:R-102616": {
-   "ok": false,
-   "source": "Johnson & Johnson",
-   "why": "not in NYC / Boston"
-  },
   "wd:jj:R-102873": {
    "ok": true,
    "source": "Johnson & Johnson",
@@ -986,11 +976,6 @@
    "why": "summer 2027, no sign sophomores can apply"
   },
   "wd:jj:R-103514": {
-   "ok": false,
-   "source": "Johnson & Johnson",
-   "why": "not in NYC / Boston"
-  },
-  "wd:jj:R-103534": {
    "ok": false,
    "source": "Johnson & Johnson",
    "why": "not in NYC / Boston"
@@ -1016,11 +1001,6 @@
    "why": "not in NYC / Boston"
   },
   "wd:jj:R-104473": {
-   "ok": false,
-   "source": "Johnson & Johnson",
-   "why": "not in NYC / Boston"
-  },
-  "wd:jj:R-104610": {
    "ok": false,
    "source": "Johnson & Johnson",
    "why": "not in NYC / Boston"
@@ -1051,11 +1031,6 @@
    "why": "summer 2027, no sign sophomores can apply"
   },
   "wd:pwc:756926WD": {
-   "ok": false,
-   "source": "PwC",
-   "why": "summer 2027, no sign sophomores can apply"
-  },
-  "wd:pwc:757088WD": {
    "ok": false,
    "source": "PwC",
    "why": "summer 2027, no sign sophomores can apply"
