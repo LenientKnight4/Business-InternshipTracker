@@ -10,6 +10,11 @@
    "source": "Notion",
    "why": "for class of 2028"
   },
+  "ashby:notion:ea6f01b1-dda2-4b0f-b351-d3e7c5e9c9e9": {
+   "ok": false,
+   "source": "Notion",
+   "why": "for class of 2028"
+  },
   "ashby:ramp:a13ae586-f4cb-4385-8822-c42b9b54ed74": {
    "ok": false,
    "source": "Ramp",
@@ -79,11 +84,6 @@
    "ok": true,
    "source": "Coinbase",
    "why": "no class year listed; check eligibility"
-  },
-  "gh:coinbase:8175435": {
-   "ok": false,
-   "source": "Coinbase",
-   "why": "for class of 2027/2028"
   },
   "gh:coinbase:8175447": {
    "ok": true,
@@ -411,11 +411,6 @@
    "why": "not in NYC / Boston"
   },
   "oracle:hcrb.fa.us2.oraclecloud.com:17404": {
-   "ok": true,
-   "source": "Boston Beer",
-   "why": "no class year listed; check eligibility"
-  },
-  "oracle:hcrb.fa.us2.oraclecloud.com:17406": {
    "ok": true,
    "source": "Boston Beer",
    "why": "no class year listed; check eligibility"
@@ -1054,6 +1049,11 @@
    "ok": false,
    "source": "Accenture",
    "why": "not in NYC / Boston"
+  },
+  "wd:accenture:R00369309": {
+   "ok": false,
+   "source": "Accenture",
+   "why": "for class of 2027/2028"
   },
   "wd:accenture:R00369515": {
    "ok": false,
@@ -1922,12 +1922,12 @@
    "url": "https://hcrb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/17404"
   },
   "oracle:hcrb.fa.us2.oraclecloud.com:17406": {
-   "closed": null,
+   "closed": "2026-11-10T23:12:22+00:00",
    "firm": "Boston Beer",
    "fit": "no class year listed; check eligibility",
    "found": "2026-11-08T09:26:28+00:00",
    "location": "Boston, MA, United States",
-   "open": true,
+   "open": false,
    "posted": "2026-10-08",
    "priority": "low",
    "source": "Boston Beer",

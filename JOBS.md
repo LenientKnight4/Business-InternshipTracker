@@ -1,6 +1,6 @@
 # Business internship tracker (marketing / sales / consulting / BD)
 
-_Updated 2026-11-10 17:42 UTC · watching 79 sources · all sources OK_
+_Updated 2026-11-10 23:12 UTC · watching 79 sources · all sources OK_
 
 ## 🎯 Marketing / sales / consulting / BD internships — open now (9)
 
@@ -27,7 +27,7 @@ _Updated 2026-11-10 17:42 UTC · watching 79 sources · all sources OK_
 | 2026-11-08 | The New York Times | [Audience Team Intern, Wirecutter](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748501005) | New York, NY | no class year listed; check eligibility |
 | 2026-11-08 | The New York Times | [Creative Production, TBrand Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4750885005) | New York, NY | no class year listed; check eligibility |
 
-<details><summary><b>Lower priority (tech, finance, ops, events) — open now (37)</b></summary>
+<details><summary><b>Lower priority (tech, finance, ops, events) — open now (36)</b></summary>
 
 
 | Found | Firm | Role | Location | Who can apply |
@@ -67,7 +67,6 @@ _Updated 2026-11-10 17:42 UTC · watching 79 sources · all sources OK_
 | 2026-11-08 | The New York Times | [iOS Engineering Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751919005) | New York, NY | no class year listed; check eligibility |
 | 2026-11-08 | The New York Times | [Backend Engineering Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751973005) | New York, NY | no class year listed; check eligibility |
 | 2026-11-08 | Boston Beer | [Sensory R&D Co-op](https://hcrb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/17404) | Boston, MA, United States | no class year listed; check eligibility |
-| 2026-11-08 | Boston Beer | [Internal Audit Co-op](https://hcrb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/17406) | Boston, MA, United States | no class year listed; check eligibility |
 | 2026-11-08 | P&G | [Engineering Internship, Summer 2027](https://www.pgcareers.com/global/en/job/R000157841) | BOSTON, Massachusetts, United States of America | open to class of 2029 |
 
 
@@ -112,7 +111,7 @@ _None right now._
 | Tapestry (Coach / Kate Spade) | workday | ✅ | 0 |
 | PVH (Calvin Klein / Tommy Hilfiger) | phenom | ✅ | 0 |
 | TJX | phenom | ✅ | 0 |
-| Boston Beer | oracle | ✅ | 2 |
+| Boston Beer | oracle | ✅ | 1 |
 | Hasbro | greenhouse | ✅ | 0 |
 | Peloton | greenhouse | ✅ | 0 |
 | Glossier | greenhouse | ✅ | 0 |
