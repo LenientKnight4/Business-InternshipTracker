@@ -1,6 +1,6 @@
 # Business internship tracker (marketing / sales / consulting / BD)
 
-_Updated 2026-11-09 18:41 UTC · watching 79 sources · all sources OK_
+_Updated 2026-11-10 02:00 UTC · watching 79 sources · all sources OK_
 
 ## 🎯 Marketing / sales / consulting / BD internships — open now (9)
 
@@ -16,21 +16,24 @@ _Updated 2026-11-09 18:41 UTC · watching 79 sources · all sources OK_
 | 2026-11-08 | The New York Times | [Advertising Marketing Design Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751089005) | New York, NY | open to sophomores |
 | 2026-11-08 | The New York Times | [Advertising Events & Socials Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751091005) | New York, NY | no class year listed; check eligibility |
 
-## Related internships (comms, PR, media, client roles) — open now (5)
+## Related internships (comms, PR, media, client roles) — open now (6)
 
 | Found | Firm | Role | Location | Who can apply |
 |---|---|---|---|---|
+| 2026-11-10 | The New York Times | [Audience Insights Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4752928005) | New York, NY | no class year listed; check eligibility |
 | 2026-11-08 | The New York Times | [Communications Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748228005) | New York, NY | no class year listed; check eligibility |
 | 2026-11-08 | The New York Times | [Creative Development Intern, Wirecutter](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748297005) | New York, NY | no class year listed; check eligibility |
 | 2026-11-08 | The New York Times | [Editorial Projects Intern, Wirecutter](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748499005) | New York, NY | no class year listed; check eligibility |
 | 2026-11-08 | The New York Times | [Audience Team Intern, Wirecutter](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748501005) | New York, NY | no class year listed; check eligibility |
 | 2026-11-08 | The New York Times | [Creative Production, TBrand Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4750885005) | New York, NY | no class year listed; check eligibility |
 
-<details><summary><b>Lower priority (tech, finance, ops, events) — open now (36)</b></summary>
+<details><summary><b>Lower priority (tech, finance, ops, events) — open now (38)</b></summary>
 
 
 | Found | Firm | Role | Location | Who can apply |
 |---|---|---|---|---|
+| 2026-11-10 | The New York Times | [Data Analyst Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4752930005) | New York, NY | no class year listed; check eligibility |
+| 2026-11-10 | The New York Times | [ML Scientist Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4752926005) | New York, NY | no class year listed; check eligibility |
 | 2026-11-08 | Ramp | [Applied Scientist Intern](https://jobs.ashbyhq.com/ramp/b39ceb08-a0a7-4f8b-a760-2fb88e209956) | New York, NY (HQ) | open to class of 2029 |
 | 2026-11-08 | Braze | [Intern, Software Engineering](https://job-boards.greenhouse.io/braze/jobs/8301086) | New York City | no class year listed; check eligibility |
 | 2026-11-08 | Coinbase | [Accounting Intern](https://www.coinbase.com/careers/positions/8173991?gh_jid=8173991) | Hybrid - New York, NY | no class year listed; check eligibility |
@@ -121,7 +124,7 @@ _None right now._
 | Warner Bros. Discovery | phenom | ✅ | 0 |
 | Universal Music Group | workday | ✅ | 0 |
 | Spotify | lever | ✅ | 0 |
-| The New York Times | greenhouse | ✅ | 24 |
+| The New York Times | greenhouse | ✅ | 27 |
 | Hearst | greenhouse | ✅ | 0 |
 | iHeartMedia | smartrecruiters | ✅ | 0 |
 | Salesforce | workday | ✅ | 0 |
