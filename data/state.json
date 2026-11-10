@@ -810,11 +810,6 @@
    "source": "Accenture",
    "why": "not in NYC / Boston"
   },
-  "wd:accenture:R00352434": {
-   "ok": false,
-   "source": "Accenture",
-   "why": "not in NYC / Boston"
-  },
   "wd:accenture:R00353592": {
    "ok": false,
    "source": "Accenture",
@@ -909,11 +904,6 @@
    "ok": false,
    "source": "Accenture",
    "why": "for class of 2027/2028"
-  },
-  "wd:accenture:R00364604": {
-   "ok": false,
-   "source": "Accenture",
-   "why": "not in NYC / Boston"
   },
   "wd:accenture:R00364910": {
    "ok": false,
@@ -1110,16 +1100,6 @@
    "source": "Johnson & Johnson",
    "why": "not in NYC / Boston"
   },
-  "wd:jj:R-102328": {
-   "ok": false,
-   "source": "Johnson & Johnson",
-   "why": "not in NYC / Boston"
-  },
-  "wd:jj:R-102616": {
-   "ok": false,
-   "source": "Johnson & Johnson",
-   "why": "not in NYC / Boston"
-  },
   "wd:jj:R-103411": {
    "ok": false,
    "source": "Johnson & Johnson",
@@ -1214,6 +1194,11 @@
    "ok": false,
    "source": "Salesforce",
    "why": "for class of 2027/2028"
+  },
+  "wd:salesforce:JR366655": {
+   "ok": false,
+   "source": "Salesforce",
+   "why": "summer 2027, no sign sophomores can apply"
   },
   "wd:salesforce:JR367659": {
    "ok": false,
