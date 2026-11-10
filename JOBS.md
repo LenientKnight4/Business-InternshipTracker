@@ -1,6 +1,6 @@
 # Business internship tracker (marketing / sales / consulting / BD)
 
-_Updated 2026-11-10 02:00 UTC · watching 79 sources · all sources OK_
+_Updated 2026-11-10 09:39 UTC · watching 79 sources · all sources OK_
 
 ## 🎯 Marketing / sales / consulting / BD internships — open now (9)
 
@@ -27,13 +27,13 @@ _Updated 2026-11-10 02:00 UTC · watching 79 sources · all sources OK_
 | 2026-11-08 | The New York Times | [Audience Team Intern, Wirecutter](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748501005) | New York, NY | no class year listed; check eligibility |
 | 2026-11-08 | The New York Times | [Creative Production, TBrand Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4750885005) | New York, NY | no class year listed; check eligibility |
 
-<details><summary><b>Lower priority (tech, finance, ops, events) — open now (38)</b></summary>
+<details><summary><b>Lower priority (tech, finance, ops, events) — open now (37)</b></summary>
 
 
 | Found | Firm | Role | Location | Who can apply |
 |---|---|---|---|---|
-| 2026-11-10 | The New York Times | [Data Analyst Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4752930005) | New York, NY | no class year listed; check eligibility |
 | 2026-11-10 | The New York Times | [ML Scientist Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4752926005) | New York, NY | no class year listed; check eligibility |
+| 2026-11-10 | The New York Times | [Data Analyst Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4752930005) | New York, NY | no class year listed; check eligibility |
 | 2026-11-08 | Ramp | [Applied Scientist Intern](https://jobs.ashbyhq.com/ramp/b39ceb08-a0a7-4f8b-a760-2fb88e209956) | New York, NY (HQ) | open to class of 2029 |
 | 2026-11-08 | Braze | [Intern, Software Engineering](https://job-boards.greenhouse.io/braze/jobs/8301086) | New York City | no class year listed; check eligibility |
 | 2026-11-08 | Coinbase | [Accounting Intern](https://www.coinbase.com/careers/positions/8173991?gh_jid=8173991) | Hybrid - New York, NY | no class year listed; check eligibility |
@@ -69,7 +69,6 @@ _Updated 2026-11-10 02:00 UTC · watching 79 sources · all sources OK_
 | 2026-11-08 | Boston Beer | [Sensory R&D Co-op](https://hcrb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/17404) | Boston, MA, United States | no class year listed; check eligibility |
 | 2026-11-08 | Boston Beer | [Internal Audit Co-op](https://hcrb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/17406) | Boston, MA, United States | no class year listed; check eligibility |
 | 2026-11-08 | P&G | [Engineering Internship, Summer 2027](https://www.pgcareers.com/global/en/job/R000157841) | BOSTON, Massachusetts, United States of America | open to class of 2029 |
-| 2026-11-08 | Johnson & Johnson | [Onco Drug-Device Combo Products Intern](https://jj.wd5.myworkdayjobs.com/JJ/job/Cambridge-Massachusetts-United-States-of-America/Onco-Drug-Device-Combo-Products-Intern_R-102873) | Cambridge, Massachusetts, United States of America | no class year listed; check eligibility |
 
 
 </details>
@@ -107,7 +106,7 @@ _None right now._
 | VaynerMedia | greenhouse | ✅ | 0 |
 | R/GA | greenhouse | ✅ | 0 |
 | P&G | phenom | ✅ | 1 |
-| Johnson & Johnson | workday | ✅ | 1 |
+| Johnson & Johnson | workday | ✅ | 0 |
 | Pfizer | workday | ✅ | 0 |
 | Unilever | workday | ✅ | 0 |
 | Tapestry (Coach / Kate Spade) | workday | ✅ | 0 |

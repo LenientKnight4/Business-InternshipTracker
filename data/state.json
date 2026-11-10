@@ -630,12 +630,32 @@
    "source": "Accenture",
    "why": "not in NYC / Boston"
   },
+  "wd:accenture:14642522": {
+   "ok": false,
+   "source": "Accenture",
+   "why": "not in NYC / Boston"
+  },
+  "wd:accenture:14642539": {
+   "ok": false,
+   "source": "Accenture",
+   "why": "not in NYC / Boston"
+  },
   "wd:accenture:14642542": {
    "ok": false,
    "source": "Accenture",
    "why": "not in NYC / Boston"
   },
+  "wd:accenture:14642544": {
+   "ok": false,
+   "source": "Accenture",
+   "why": "not in NYC / Boston"
+  },
   "wd:accenture:14642545": {
+   "ok": false,
+   "source": "Accenture",
+   "why": "not in NYC / Boston"
+  },
+  "wd:accenture:14642546": {
    "ok": false,
    "source": "Accenture",
    "why": "not in NYC / Boston"
@@ -1100,11 +1120,6 @@
    "source": "Johnson & Johnson",
    "why": "not in NYC / Boston"
   },
-  "wd:jj:R-102873": {
-   "ok": true,
-   "source": "Johnson & Johnson",
-   "why": "no class year listed; check eligibility"
-  },
   "wd:jj:R-103411": {
    "ok": false,
    "source": "Johnson & Johnson",
@@ -1129,16 +1144,6 @@
    "ok": false,
    "source": "Johnson & Johnson",
    "why": "for class of 2027/2028"
-  },
-  "wd:jj:R-104471": {
-   "ok": false,
-   "source": "Johnson & Johnson",
-   "why": "not in NYC / Boston"
-  },
-  "wd:jj:R-104473": {
-   "ok": false,
-   "source": "Johnson & Johnson",
-   "why": "not in NYC / Boston"
   },
   "wd:jj:R-104727": {
    "ok": false,
@@ -1958,12 +1963,12 @@
    "url": "https://www.pgcareers.com/global/en/job/R000157841"
   },
   "wd:jj:R-102873": {
-   "closed": null,
+   "closed": "2026-11-10T09:39:39+00:00",
    "firm": "Johnson & Johnson",
    "fit": "no class year listed; check eligibility",
    "found": "2026-11-08T09:26:28+00:00",
    "location": "Cambridge, Massachusetts, United States of America",
-   "open": true,
+   "open": false,
    "posted": "Posted 27 Days Ago",
    "priority": "low",
    "source": "Johnson & Johnson",
