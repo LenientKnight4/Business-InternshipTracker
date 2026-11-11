@@ -150,6 +150,11 @@
    "source": "Coinbase",
    "why": "no class year listed; check eligibility"
   },
+  "gh:coinbase:8376084": {
+   "ok": true,
+   "source": "Coinbase",
+   "why": "no class year listed; check eligibility"
+  },
   "gh:datadog:8052118": {
    "ok": true,
    "source": "Datadog",
@@ -234,6 +239,11 @@
    "ok": false,
    "source": "Pinterest",
    "why": "for class of 2028"
+  },
+  "gh:robinhood:8197614": {
+   "ok": false,
+   "source": "Robinhood",
+   "why": "summer 2027, no sign sophomores can apply"
   },
   "gh:seatgeek:8227553": {
    "ok": false,
@@ -1466,6 +1476,19 @@
    "title": "Tax Information Reporting Intern",
    "url": "https://www.coinbase.com/careers/positions/8221241?gh_jid=8221241"
   },
+  "gh:coinbase:8376084": {
+   "closed": null,
+   "firm": "Coinbase",
+   "fit": "no class year listed; check eligibility",
+   "found": "2026-11-11T02:58:28+00:00",
+   "location": "Hybrid - New York, NY",
+   "open": true,
+   "posted": "2026-11-10",
+   "priority": "low",
+   "source": "Coinbase",
+   "title": "Strategic Sourcing Intern",
+   "url": "https://www.coinbase.com/careers/positions/8376084?gh_jid=8376084"
+  },
   "gh:datadog:8052118": {
    "closed": null,
    "firm": "Datadog",
@@ -2440,7 +2463,7 @@
  },
  "week": {
   "high": 0,
-  "low": 2,
+  "low": 3,
   "medium": 1
  }
 }

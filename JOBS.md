@@ -1,6 +1,6 @@
 # Business internship tracker (marketing / sales / consulting / BD)
 
-_Updated 2026-11-10 23:12 UTC · watching 79 sources · all sources OK_
+_Updated 2026-11-11 02:58 UTC · watching 79 sources · all sources OK_
 
 ## 🎯 Marketing / sales / consulting / BD internships — open now (9)
 
@@ -27,11 +27,12 @@ _Updated 2026-11-10 23:12 UTC · watching 79 sources · all sources OK_
 | 2026-11-08 | The New York Times | [Audience Team Intern, Wirecutter](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748501005) | New York, NY | no class year listed; check eligibility |
 | 2026-11-08 | The New York Times | [Creative Production, TBrand Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4750885005) | New York, NY | no class year listed; check eligibility |
 
-<details><summary><b>Lower priority (tech, finance, ops, events) — open now (36)</b></summary>
+<details><summary><b>Lower priority (tech, finance, ops, events) — open now (37)</b></summary>
 
 
 | Found | Firm | Role | Location | Who can apply |
 |---|---|---|---|---|
+| 2026-11-11 | Coinbase | [Strategic Sourcing Intern](https://www.coinbase.com/careers/positions/8376084?gh_jid=8376084) | Hybrid - New York, NY | no class year listed; check eligibility |
 | 2026-11-10 | The New York Times | [ML Scientist Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4752926005) | New York, NY | no class year listed; check eligibility |
 | 2026-11-10 | The New York Times | [Data Analyst Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4752930005) | New York, NY | no class year listed; check eligibility |
 | 2026-11-08 | Ramp | [Applied Scientist Intern](https://jobs.ashbyhq.com/ramp/b39ceb08-a0a7-4f8b-a760-2fb88e209956) | New York, NY (HQ) | open to class of 2029 |
@@ -158,7 +159,7 @@ _None right now._
 | Carta | greenhouse | ✅ | 0 |
 | Chime | greenhouse | ✅ | 0 |
 | Robinhood | greenhouse | ✅ | 0 |
-| Coinbase | greenhouse | ✅ | 17 |
+| Coinbase | greenhouse | ✅ | 18 |
 | Plaid | ashby | ✅ | 0 |
 | Affirm | greenhouse | ✅ | 0 |
 | Taboola | greenhouse | ✅ | 0 |
