@@ -50,6 +50,11 @@
    "source": "BCG",
    "why": "for class of 2027/2028"
   },
+  "gh:airbnb:8380007": {
+   "ok": false,
+   "source": "Airbnb",
+   "why": "not in NYC / Boston"
+  },
   "gh:braze:8301086": {
    "ok": true,
    "source": "Braze",
@@ -420,6 +425,11 @@
    "source": "Oracle",
    "why": "not in NYC / Boston"
   },
+  "oracle:ehzq.fa.us2.oraclecloud.com:115637": {
+   "ok": false,
+   "source": "Grant Thornton",
+   "why": "summer 2027, no sign sophomores can apply"
+  },
   "oracle:hcrb.fa.us2.oraclecloud.com:17404": {
    "ok": true,
    "source": "Boston Beer",
@@ -431,11 +441,6 @@
    "why": "for class of 2027/2028"
   },
   "phenom:https://careers.adobe.com/us/en:R171828": {
-   "ok": false,
-   "source": "Adobe",
-   "why": "for class of 2027/2028"
-  },
-  "phenom:https://careers.adobe.com/us/en:R171856": {
    "ok": false,
    "source": "Adobe",
    "why": "for class of 2027/2028"
@@ -1084,11 +1089,6 @@
    "ok": false,
    "source": "Guidehouse",
    "why": "for class of 2027/2028"
-  },
-  "wd:jj:R-096476": {
-   "ok": false,
-   "source": "Johnson & Johnson",
-   "why": "not in NYC / Boston"
   },
   "wd:jj:R-096662": {
    "ok": false,
