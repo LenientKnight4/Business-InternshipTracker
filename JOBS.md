@@ -1,11 +1,12 @@
 # Business internship tracker (marketing / sales / consulting / BD)
 
-_Updated 2026-11-12 08:48 UTC · watching 79 sources · all sources OK_
+_Updated 2026-11-12 17:31 UTC · watching 79 sources · all sources OK_
 
-## 🎯 Marketing / sales / consulting / BD internships — open now (9)
+## 🎯 Marketing / sales / consulting / BD internships — open now (10)
 
 | Found | Firm | Role | Location | Who can apply |
 |---|---|---|---|---|
+| 2026-11-12 | The New York Times | [B2B Subscriptions, Marketing Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4753228005) | New York, NY | no class year listed; check eligibility |
 | 2026-11-08 | The New York Times | [Marketing Intern, Wirecutter](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748485005) | New York, NY | no class year listed; check eligibility |
 | 2026-11-08 | The New York Times | [Advertising Business Operations & Enablement Operations Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748487005) | New York, NY | no class year listed; check eligibility |
 | 2026-11-08 | The New York Times | [Advertising Revenue Operations Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748489005) | New York, NY | no class year listed; check eligibility |
@@ -27,7 +28,7 @@ _Updated 2026-11-12 08:48 UTC · watching 79 sources · all sources OK_
 | 2026-11-08 | The New York Times | [Audience Team Intern, Wirecutter](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748501005) | New York, NY | no class year listed; check eligibility |
 | 2026-11-08 | The New York Times | [Creative Production, TBrand Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4750885005) | New York, NY | no class year listed; check eligibility |
 
-<details><summary><b>Lower priority (tech, finance, ops, events) — open now (37)</b></summary>
+<details><summary><b>Lower priority (tech, finance, ops, events) — open now (36)</b></summary>
 
 
 | Found | Firm | Role | Location | Who can apply |
@@ -57,7 +58,6 @@ _Updated 2026-11-12 08:48 UTC · watching 79 sources · all sources OK_
 | 2026-11-08 | Datadog | [Software Engineering Intern (Summer)](https://careers.datadoghq.com/detail/8052118/?gh_jid=8052118) | Boston, Massachusetts, USA; New York, New York, USA | no class year listed; check eligibility |
 | 2026-11-08 | MongoDB | [2027 - Software Engineering Intern, AMER](https://www.mongodb.com/careers/job/?gh_jid=8209134) | Austin; New York City; San Francisco | open to class of 2029 |
 | 2026-11-08 | Pinterest | [UX Quantitative Research Intern (USA)](https://www.pinterestcareers.com/jobs/?gh_jid=8140217) | Remote, US; San Francisco, CA, US; Seattle, WA, US; New York | no class year listed; check eligibility |
-| 2026-11-08 | The New York Times | [Product Design Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748241005) | New York, NY | no class year listed; check eligibility |
 | 2026-11-08 | The New York Times | [Product Management Intern, Wirecutter](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748461005) | New York, NY | no class year listed; check eligibility |
 | 2026-11-08 | The New York Times | [Kitchen Team Intern, Wirecutter](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748503005) | New York, NY | no class year listed; check eligibility |
 | 2026-11-08 | The New York Times | [Editorial Design Intern, Wirecutter](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748518005) | New York, NY | no class year listed; check eligibility |

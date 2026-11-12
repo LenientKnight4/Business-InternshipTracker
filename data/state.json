@@ -280,11 +280,6 @@
    "source": "The New York Times",
    "why": "no class year listed; check eligibility"
   },
-  "gh:thenewyorktimes:4748241005": {
-   "ok": true,
-   "source": "The New York Times",
-   "why": "no class year listed; check eligibility"
-  },
   "gh:thenewyorktimes:4748297005": {
    "ok": true,
    "source": "The New York Times",
@@ -410,6 +405,11 @@
    "source": "The New York Times",
    "why": "no class year listed; check eligibility"
   },
+  "gh:thenewyorktimes:4753228005": {
+   "ok": true,
+   "source": "The New York Times",
+   "why": "no class year listed; check eligibility"
+  },
   "oracle:eeho.fa.us2.oraclecloud.com:334366": {
    "ok": false,
    "source": "Oracle",
@@ -426,6 +426,11 @@
    "why": "not in NYC / Boston"
   },
   "oracle:ehzq.fa.us2.oraclecloud.com:115637": {
+   "ok": false,
+   "source": "Grant Thornton",
+   "why": "summer 2027, no sign sophomores can apply"
+  },
+  "oracle:ehzq.fa.us2.oraclecloud.com:115709": {
    "ok": false,
    "source": "Grant Thornton",
    "why": "summer 2027, no sign sophomores can apply"
@@ -690,22 +695,7 @@
    "source": "Accenture",
    "why": "not in NYC / Boston"
   },
-  "wd:accenture:14797564": {
-   "ok": false,
-   "source": "Accenture",
-   "why": "not in NYC / Boston"
-  },
   "wd:accenture:14811479": {
-   "ok": false,
-   "source": "Accenture",
-   "why": "not in NYC / Boston"
-  },
-  "wd:accenture:14811480": {
-   "ok": false,
-   "source": "Accenture",
-   "why": "not in NYC / Boston"
-  },
-  "wd:accenture:14818045": {
    "ok": false,
    "source": "Accenture",
    "why": "not in NYC / Boston"
@@ -756,6 +746,11 @@
    "why": "for rising seniors"
   },
   "wd:accenture:R00327505": {
+   "ok": false,
+   "source": "Accenture",
+   "why": "not in NYC / Boston"
+  },
+  "wd:accenture:R00329471": {
    "ok": false,
    "source": "Accenture",
    "why": "not in NYC / Boston"
@@ -820,17 +815,17 @@
    "source": "Accenture",
    "why": "summer 2027, no sign sophomores can apply"
   },
+  "wd:accenture:R00355331": {
+   "ok": false,
+   "source": "Accenture",
+   "why": "not in NYC / Boston"
+  },
   "wd:accenture:R00355473": {
    "ok": false,
    "source": "Accenture",
    "why": "not in NYC / Boston"
   },
   "wd:accenture:R00355590": {
-   "ok": false,
-   "source": "Accenture",
-   "why": "summer 2027, no sign sophomores can apply"
-  },
-  "wd:accenture:R00355596": {
    "ok": false,
    "source": "Accenture",
    "why": "summer 2027, no sign sophomores can apply"
@@ -871,6 +866,11 @@
    "why": "for class of 2027/2028"
   },
   "wd:accenture:R00357961": {
+   "ok": false,
+   "source": "Accenture",
+   "why": "for class of 2027/2028"
+  },
+  "wd:accenture:R00357966": {
    "ok": false,
    "source": "Accenture",
    "why": "for class of 2027/2028"
@@ -1074,6 +1074,16 @@
    "ok": false,
    "source": "Accenture",
    "why": "not in NYC / Boston"
+  },
+  "wd:accenture:R00371373": {
+   "ok": false,
+   "source": "Accenture",
+   "why": "for class of 2027/2028"
+  },
+  "wd:accenture:R00371377": {
+   "ok": false,
+   "source": "Accenture",
+   "why": "for class of 2027/2028"
   },
   "wd:gartner:105584": {
    "ok": false,
@@ -1542,12 +1552,12 @@
    "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748228005"
   },
   "gh:thenewyorktimes:4748241005": {
-   "closed": null,
+   "closed": "2026-11-12T17:31:49+00:00",
    "firm": "The New York Times",
    "fit": "no class year listed; check eligibility",
    "found": "2026-11-08T09:26:28+00:00",
    "location": "New York, NY",
-   "open": true,
+   "open": false,
    "posted": "2026-10-30",
    "priority": "low",
    "source": "The New York Times",
@@ -1891,6 +1901,19 @@
    "source": "The New York Times",
    "title": "Data Analyst Intern",
    "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4752930005"
+  },
+  "gh:thenewyorktimes:4753228005": {
+   "closed": null,
+   "firm": "The New York Times",
+   "fit": "no class year listed; check eligibility",
+   "found": "2026-11-12T17:31:49+00:00",
+   "location": "New York, NY",
+   "open": true,
+   "posted": "2026-11-12",
+   "priority": "high",
+   "source": "The New York Times",
+   "title": "B2B Subscriptions, Marketing Intern",
+   "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4753228005"
   },
   "oracle:hcrb.fa.us2.oraclecloud.com:17397": {
    "closed": "2026-11-09T18:41:38+00:00",
@@ -2462,7 +2485,7 @@
   }
  },
  "week": {
-  "high": 0,
+  "high": 1,
   "low": 3,
   "medium": 1
  }
