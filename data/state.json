@@ -760,11 +760,6 @@
    "source": "Accenture",
    "why": "not in NYC / Boston"
   },
-  "wd:accenture:R00329471": {
-   "ok": false,
-   "source": "Accenture",
-   "why": "not in NYC / Boston"
-  },
   "wd:accenture:R00333373": {
    "ok": false,
    "source": "Accenture",
@@ -831,6 +826,11 @@
    "why": "not in NYC / Boston"
   },
   "wd:accenture:R00355590": {
+   "ok": false,
+   "source": "Accenture",
+   "why": "summer 2027, no sign sophomores can apply"
+  },
+  "wd:accenture:R00355596": {
    "ok": false,
    "source": "Accenture",
    "why": "summer 2027, no sign sophomores can apply"
@@ -1209,6 +1209,11 @@
    "ok": false,
    "source": "Salesforce",
    "why": "summer 2027, no sign sophomores can apply"
+  },
+  "wd:salesforce:JR368157": {
+   "ok": false,
+   "source": "Salesforce",
+   "why": "for class of 2028"
   },
   "wd:trinitylifesciences:JR100879": {
    "ok": false,
