@@ -1,11 +1,12 @@
 # Business internship tracker (marketing / sales / consulting / BD)
 
-_Updated 2026-11-13 11:28 UTC · watching 79 sources · all sources OK_
+_Updated 2026-11-13 18:43 UTC · watching 79 sources · all sources OK_
 
-## 🎯 Marketing / sales / consulting / BD internships — open now (10)
+## 🎯 Marketing / sales / consulting / BD internships — open now (11)
 
 | Found | Firm | Role | Location | Who can apply |
 |---|---|---|---|---|
+| 2026-11-13 | Tapestry (Coach / Kate Spade) | [Summer Marketing Internship](https://tapestry.wd108.myworkdayjobs.com/Tapestry_Careers/job/New-York-New-York-USA-Corporate-Headquarters/Summer-Marketing-Internship_JR20970) | New York, New York, USA (Corporate Headquarters) | no class year listed; check eligibility |
 | 2026-11-12 | The New York Times | [B2B Subscriptions, Marketing Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4753228005) | New York, NY | no class year listed; check eligibility |
 | 2026-11-08 | The New York Times | [Marketing Intern, Wirecutter](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748485005) | New York, NY | no class year listed; check eligibility |
 | 2026-11-08 | The New York Times | [Advertising Business Operations & Enablement Operations Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748487005) | New York, NY | no class year listed; check eligibility |
@@ -17,10 +18,12 @@ _Updated 2026-11-13 11:28 UTC · watching 79 sources · all sources OK_
 | 2026-11-08 | The New York Times | [Advertising Marketing Design Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751089005) | New York, NY | open to sophomores |
 | 2026-11-08 | The New York Times | [Advertising Events & Socials Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751091005) | New York, NY | no class year listed; check eligibility |
 
-## Related internships (comms, PR, media, client roles) — open now (6)
+## Related internships (comms, PR, media, client roles) — open now (8)
 
 | Found | Firm | Role | Location | Who can apply |
 |---|---|---|---|---|
+| 2026-11-13 | Tapestry (Coach / Kate Spade) | [Summer Wholesale & Merchandising Internship](https://tapestry.wd108.myworkdayjobs.com/Tapestry_Careers/job/New-York-New-York-USA-Corporate-Headquarters/Summer-Wholesale---Merchandising-Internship_JR20971) | New York, New York, USA (Corporate Headquarters) | no class year listed; check eligibility |
+| 2026-11-13 | Tapestry (Coach / Kate Spade) | [Summer eCommerce & Digital Internship](https://tapestry.wd108.myworkdayjobs.com/Tapestry_Careers/job/New-York-New-York-USA-Corporate-Headquarters/Summer-eCommerce---Digital-Internship_JR20960) | New York, New York, USA (Corporate Headquarters) | no class year listed; check eligibility |
 | 2026-11-10 | The New York Times | [Audience Insights Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4752928005) | New York, NY | no class year listed; check eligibility |
 | 2026-11-08 | The New York Times | [Communications Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748228005) | New York, NY | no class year listed; check eligibility |
 | 2026-11-08 | The New York Times | [Creative Development Intern, Wirecutter](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748297005) | New York, NY | no class year listed; check eligibility |
@@ -28,11 +31,17 @@ _Updated 2026-11-13 11:28 UTC · watching 79 sources · all sources OK_
 | 2026-11-08 | The New York Times | [Audience Team Intern, Wirecutter](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748501005) | New York, NY | no class year listed; check eligibility |
 | 2026-11-08 | The New York Times | [Creative Production, TBrand Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4750885005) | New York, NY | no class year listed; check eligibility |
 
-<details><summary><b>Lower priority (tech, finance, ops, events) — open now (36)</b></summary>
+<details><summary><b>Lower priority (tech, finance, ops, events) — open now (41)</b></summary>
 
 
 | Found | Firm | Role | Location | Who can apply |
 |---|---|---|---|---|
+| 2026-11-13 | Tapestry (Coach / Kate Spade) | [Summer IT, Digital & Data Analytics Internship](https://tapestry.wd108.myworkdayjobs.com/Tapestry_Careers/job/New-York-New-York-USA-Corporate-Headquarters/Summer-IT--Digital---Data-Analytics-Internship_JR20965) | New York, New York, USA (Corporate Headquarters) | no class year listed; check eligibility |
+| 2026-11-13 | Tapestry (Coach / Kate Spade) | [Summer Global Supply Chain and Product Development Operations Internship](https://tapestry.wd108.myworkdayjobs.com/Tapestry_Careers/job/New-York-New-York-USA-Corporate-Headquarters/Summer-Global-Supply-Chain-and-Product-Development-Operations-Internship_JR20963) | New York, New York, USA (Corporate Headquarters) | no class year listed; check eligibility |
+| 2026-11-13 | Tapestry (Coach / Kate Spade) | [Summer Finance Internship](https://tapestry.wd108.myworkdayjobs.com/Tapestry_Careers/job/New-York-New-York-USA-Corporate-Headquarters/Summer-Finance-Internship_JR20962) | New York, New York, USA (Corporate Headquarters) | no class year listed; check eligibility |
+| 2026-11-13 | Tapestry (Coach / Kate Spade) | [Summer ESG, Sustainability, & Trade Compliance Internship](https://tapestry.wd108.myworkdayjobs.com/Tapestry_Careers/job/New-York-New-York-USA-Corporate-Headquarters/Summer-ESG--Sustainability----Trade-Compliance--Internship_JR20961) | New York, New York, USA (Corporate Headquarters) | no class year listed; check eligibility |
+| 2026-11-13 | Tapestry (Coach / Kate Spade) | [Summer Corporate Communications, Talent Acquisition, & Human Resources Internship](https://tapestry.wd108.myworkdayjobs.com/Tapestry_Careers/job/New-York-New-York-USA-Corporate-Headquarters/Summer-Corporate-Communications--Talent-Acquisition---Human-Resources-Internship_JR20955) | New York, New York, USA (Corporate Headquarters) | no class year listed; check eligibility |
+| 2026-11-13 | Tapestry (Coach / Kate Spade) | [Summer Buying & Planning Internship](https://tapestry.wd108.myworkdayjobs.com/Tapestry_Careers/job/New-York-New-York-USA-Corporate-Headquarters/Summer-Buying---Planning-Internship_JR20945) | New York, New York, USA (Corporate Headquarters) | no class year listed; check eligibility |
 | 2026-11-11 | Coinbase | [Strategic Sourcing Intern](https://www.coinbase.com/careers/positions/8376084?gh_jid=8376084) | Hybrid - New York, NY | no class year listed; check eligibility |
 | 2026-11-10 | The New York Times | [ML Scientist Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4752926005) | New York, NY | no class year listed; check eligibility |
 | 2026-11-10 | The New York Times | [Data Analyst Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4752930005) | New York, NY | no class year listed; check eligibility |
@@ -45,7 +54,6 @@ _Updated 2026-11-13 11:28 UTC · watching 79 sources · all sources OK_
 | 2026-11-08 | Coinbase | [Internal Audit Intern](https://www.coinbase.com/careers/positions/8175432?gh_jid=8175432) | Hybrid - New York, NY | no class year listed; check eligibility |
 | 2026-11-08 | Coinbase | [Payment Risk Intern](https://www.coinbase.com/careers/positions/8175447?gh_jid=8175447) | Hybrid - New York, NY | no class year listed; check eligibility |
 | 2026-11-08 | Coinbase | [Tax Operations Intern](https://www.coinbase.com/careers/positions/8175453?gh_jid=8175453) | Hybrid - New York, NY | no class year listed; check eligibility |
-| 2026-11-08 | Coinbase | [Data Science Intern](https://www.coinbase.com/careers/positions/8175462?gh_jid=8175462) | Hybrid - New York, NY | no class year listed; check eligibility |
 | 2026-11-08 | Coinbase | [Analytics Engineer Intern](https://www.coinbase.com/careers/positions/8175471?gh_jid=8175471) | Hybrid - New York, NY | no class year listed; check eligibility |
 | 2026-11-08 | Coinbase | [Real Estate & Builds Intern](https://www.coinbase.com/careers/positions/8175507?gh_jid=8175507) | Hybrid - New York, NY | no class year listed; check eligibility |
 | 2026-11-08 | Coinbase | [Forward Deployed Engineer Intern (HR Technology)](https://www.coinbase.com/careers/positions/8175510?gh_jid=8175510) | Hybrid - New York, NY | no class year listed; check eligibility |
@@ -109,7 +117,7 @@ _None right now._
 | Johnson & Johnson | workday | ✅ | 0 |
 | Pfizer | workday | ✅ | 0 |
 | Unilever | workday | ✅ | 0 |
-| Tapestry (Coach / Kate Spade) | workday | ✅ | 0 |
+| Tapestry (Coach / Kate Spade) | workday | ✅ | 9 |
 | PVH (Calvin Klein / Tommy Hilfiger) | phenom | ✅ | 0 |
 | TJX | phenom | ✅ | 0 |
 | Boston Beer | oracle | ✅ | 1 |
@@ -159,7 +167,7 @@ _None right now._
 | Carta | greenhouse | ✅ | 0 |
 | Chime | greenhouse | ✅ | 0 |
 | Robinhood | greenhouse | ✅ | 0 |
-| Coinbase | greenhouse | ✅ | 18 |
+| Coinbase | greenhouse | ✅ | 17 |
 | Plaid | ashby | ✅ | 0 |
 | Affirm | greenhouse | ✅ | 0 |
 | Taboola | greenhouse | ✅ | 0 |

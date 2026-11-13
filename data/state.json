@@ -35,6 +35,11 @@
    "source": "Ramp",
    "why": "for class of 2027"
   },
+  "ashby:ramp:b87e898f-8d8b-447d-b3d5-9073ccf7d109": {
+   "ok": false,
+   "source": "Ramp",
+   "why": "for class of 2027"
+  },
   "ashby:ramp:fcf118cc-521a-4a62-9d13-945e5b6e3cb8": {
    "ok": false,
    "source": "Ramp",
@@ -96,11 +101,6 @@
    "why": "no class year listed; check eligibility"
   },
   "gh:coinbase:8175453": {
-   "ok": true,
-   "source": "Coinbase",
-   "why": "no class year listed; check eligibility"
-  },
-  "gh:coinbase:8175462": {
    "ok": true,
    "source": "Coinbase",
    "why": "no class year listed; check eligibility"
@@ -565,11 +565,6 @@
    "source": "NBCUniversal",
    "why": "for class of 2027"
   },
-  "sr:NBCUniversal3:744000160680980": {
-   "ok": false,
-   "source": "NBCUniversal",
-   "why": "for class of 2027"
-  },
   "sr:NBCUniversal3:744000160681069": {
    "ok": false,
    "source": "NBCUniversal",
@@ -621,6 +616,11 @@
    "why": "for class of 2027"
   },
   "sr:NBCUniversal3:744000161096298": {
+   "ok": false,
+   "source": "NBCUniversal",
+   "why": "for class of 2027"
+  },
+  "sr:NBCUniversal3:744000161521750": {
    "ok": false,
    "source": "NBCUniversal",
    "why": "for class of 2027"
@@ -820,11 +820,6 @@
    "source": "Accenture",
    "why": "not in NYC / Boston"
   },
-  "wd:accenture:R00355473": {
-   "ok": false,
-   "source": "Accenture",
-   "why": "not in NYC / Boston"
-  },
   "wd:accenture:R00355590": {
    "ok": false,
    "source": "Accenture",
@@ -934,11 +929,6 @@
    "ok": false,
    "source": "Accenture",
    "why": "for class of 2027"
-  },
-  "wd:accenture:R00365279": {
-   "ok": false,
-   "source": "Accenture",
-   "why": "not in NYC / Boston"
   },
   "wd:accenture:R00365377": {
    "ok": false,
@@ -1160,11 +1150,6 @@
    "source": "Salesforce",
    "why": "summer 2027, no sign sophomores can apply"
   },
-  "wd:salesforce:JR359638": {
-   "ok": false,
-   "source": "Salesforce",
-   "why": "summer 2027, no sign sophomores can apply"
-  },
   "wd:salesforce:JR363252": {
    "ok": false,
    "source": "Salesforce",
@@ -1194,6 +1179,51 @@
    "ok": false,
    "source": "Salesforce",
    "why": "for class of 2028"
+  },
+  "wd:tapestry:JR20945": {
+   "ok": true,
+   "source": "Tapestry (Coach / Kate Spade)",
+   "why": "no class year listed; check eligibility"
+  },
+  "wd:tapestry:JR20955": {
+   "ok": true,
+   "source": "Tapestry (Coach / Kate Spade)",
+   "why": "no class year listed; check eligibility"
+  },
+  "wd:tapestry:JR20960": {
+   "ok": true,
+   "source": "Tapestry (Coach / Kate Spade)",
+   "why": "no class year listed; check eligibility"
+  },
+  "wd:tapestry:JR20961": {
+   "ok": true,
+   "source": "Tapestry (Coach / Kate Spade)",
+   "why": "no class year listed; check eligibility"
+  },
+  "wd:tapestry:JR20962": {
+   "ok": true,
+   "source": "Tapestry (Coach / Kate Spade)",
+   "why": "no class year listed; check eligibility"
+  },
+  "wd:tapestry:JR20963": {
+   "ok": true,
+   "source": "Tapestry (Coach / Kate Spade)",
+   "why": "no class year listed; check eligibility"
+  },
+  "wd:tapestry:JR20965": {
+   "ok": true,
+   "source": "Tapestry (Coach / Kate Spade)",
+   "why": "no class year listed; check eligibility"
+  },
+  "wd:tapestry:JR20970": {
+   "ok": true,
+   "source": "Tapestry (Coach / Kate Spade)",
+   "why": "no class year listed; check eligibility"
+  },
+  "wd:tapestry:JR20971": {
+   "ok": true,
+   "source": "Tapestry (Coach / Kate Spade)",
+   "why": "no class year listed; check eligibility"
   },
   "wd:trinitylifesciences:JR100879": {
    "ok": false,
@@ -1327,12 +1357,12 @@
    "url": "https://www.coinbase.com/careers/positions/8175453?gh_jid=8175453"
   },
   "gh:coinbase:8175462": {
-   "closed": null,
+   "closed": "2026-11-13T18:43:04+00:00",
    "firm": "Coinbase",
    "fit": "no class year listed; check eligibility",
    "found": "2026-11-08T09:26:28+00:00",
    "location": "Hybrid - New York, NY",
-   "open": true,
+   "open": false,
    "posted": "2026-09-08",
    "priority": "low",
    "source": "Coinbase",
@@ -1975,6 +2005,123 @@
    "source": "Johnson & Johnson",
    "title": "Onco Drug-Device Combo Products Intern",
    "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cambridge-Massachusetts-United-States-of-America/Onco-Drug-Device-Combo-Products-Intern_R-102873"
+  },
+  "wd:tapestry:JR20945": {
+   "closed": null,
+   "firm": "Tapestry (Coach / Kate Spade)",
+   "fit": "no class year listed; check eligibility",
+   "found": "2026-11-13T18:43:04+00:00",
+   "location": "New York, New York, USA (Corporate Headquarters)",
+   "open": true,
+   "posted": "Posted Today",
+   "priority": "low",
+   "source": "Tapestry (Coach / Kate Spade)",
+   "title": "Summer Buying & Planning Internship",
+   "url": "https://tapestry.wd108.myworkdayjobs.com/Tapestry_Careers/job/New-York-New-York-USA-Corporate-Headquarters/Summer-Buying---Planning-Internship_JR20945"
+  },
+  "wd:tapestry:JR20955": {
+   "closed": null,
+   "firm": "Tapestry (Coach / Kate Spade)",
+   "fit": "no class year listed; check eligibility",
+   "found": "2026-11-13T18:43:04+00:00",
+   "location": "New York, New York, USA (Corporate Headquarters)",
+   "open": true,
+   "posted": "Posted Today",
+   "priority": "low",
+   "source": "Tapestry (Coach / Kate Spade)",
+   "title": "Summer Corporate Communications, Talent Acquisition, & Human Resources Internship",
+   "url": "https://tapestry.wd108.myworkdayjobs.com/Tapestry_Careers/job/New-York-New-York-USA-Corporate-Headquarters/Summer-Corporate-Communications--Talent-Acquisition---Human-Resources-Internship_JR20955"
+  },
+  "wd:tapestry:JR20960": {
+   "closed": null,
+   "firm": "Tapestry (Coach / Kate Spade)",
+   "fit": "no class year listed; check eligibility",
+   "found": "2026-11-13T18:43:04+00:00",
+   "location": "New York, New York, USA (Corporate Headquarters)",
+   "open": true,
+   "posted": "Posted Today",
+   "priority": "medium",
+   "source": "Tapestry (Coach / Kate Spade)",
+   "title": "Summer eCommerce & Digital Internship",
+   "url": "https://tapestry.wd108.myworkdayjobs.com/Tapestry_Careers/job/New-York-New-York-USA-Corporate-Headquarters/Summer-eCommerce---Digital-Internship_JR20960"
+  },
+  "wd:tapestry:JR20961": {
+   "closed": null,
+   "firm": "Tapestry (Coach / Kate Spade)",
+   "fit": "no class year listed; check eligibility",
+   "found": "2026-11-13T18:43:04+00:00",
+   "location": "New York, New York, USA (Corporate Headquarters)",
+   "open": true,
+   "posted": "Posted Today",
+   "priority": "low",
+   "source": "Tapestry (Coach / Kate Spade)",
+   "title": "Summer ESG, Sustainability, & Trade Compliance Internship",
+   "url": "https://tapestry.wd108.myworkdayjobs.com/Tapestry_Careers/job/New-York-New-York-USA-Corporate-Headquarters/Summer-ESG--Sustainability----Trade-Compliance--Internship_JR20961"
+  },
+  "wd:tapestry:JR20962": {
+   "closed": null,
+   "firm": "Tapestry (Coach / Kate Spade)",
+   "fit": "no class year listed; check eligibility",
+   "found": "2026-11-13T18:43:04+00:00",
+   "location": "New York, New York, USA (Corporate Headquarters)",
+   "open": true,
+   "posted": "Posted Today",
+   "priority": "low",
+   "source": "Tapestry (Coach / Kate Spade)",
+   "title": "Summer Finance Internship",
+   "url": "https://tapestry.wd108.myworkdayjobs.com/Tapestry_Careers/job/New-York-New-York-USA-Corporate-Headquarters/Summer-Finance-Internship_JR20962"
+  },
+  "wd:tapestry:JR20963": {
+   "closed": null,
+   "firm": "Tapestry (Coach / Kate Spade)",
+   "fit": "no class year listed; check eligibility",
+   "found": "2026-11-13T18:43:04+00:00",
+   "location": "New York, New York, USA (Corporate Headquarters)",
+   "open": true,
+   "posted": "Posted Today",
+   "priority": "low",
+   "source": "Tapestry (Coach / Kate Spade)",
+   "title": "Summer Global Supply Chain and Product Development Operations Internship",
+   "url": "https://tapestry.wd108.myworkdayjobs.com/Tapestry_Careers/job/New-York-New-York-USA-Corporate-Headquarters/Summer-Global-Supply-Chain-and-Product-Development-Operations-Internship_JR20963"
+  },
+  "wd:tapestry:JR20965": {
+   "closed": null,
+   "firm": "Tapestry (Coach / Kate Spade)",
+   "fit": "no class year listed; check eligibility",
+   "found": "2026-11-13T18:43:04+00:00",
+   "location": "New York, New York, USA (Corporate Headquarters)",
+   "open": true,
+   "posted": "Posted Today",
+   "priority": "low",
+   "source": "Tapestry (Coach / Kate Spade)",
+   "title": "Summer IT, Digital & Data Analytics Internship",
+   "url": "https://tapestry.wd108.myworkdayjobs.com/Tapestry_Careers/job/New-York-New-York-USA-Corporate-Headquarters/Summer-IT--Digital---Data-Analytics-Internship_JR20965"
+  },
+  "wd:tapestry:JR20970": {
+   "closed": null,
+   "firm": "Tapestry (Coach / Kate Spade)",
+   "fit": "no class year listed; check eligibility",
+   "found": "2026-11-13T18:43:04+00:00",
+   "location": "New York, New York, USA (Corporate Headquarters)",
+   "open": true,
+   "posted": "Posted Today",
+   "priority": "high",
+   "source": "Tapestry (Coach / Kate Spade)",
+   "title": "Summer Marketing Internship",
+   "url": "https://tapestry.wd108.myworkdayjobs.com/Tapestry_Careers/job/New-York-New-York-USA-Corporate-Headquarters/Summer-Marketing-Internship_JR20970"
+  },
+  "wd:tapestry:JR20971": {
+   "closed": null,
+   "firm": "Tapestry (Coach / Kate Spade)",
+   "fit": "no class year listed; check eligibility",
+   "found": "2026-11-13T18:43:04+00:00",
+   "location": "New York, New York, USA (Corporate Headquarters)",
+   "open": true,
+   "posted": "Posted Today",
+   "priority": "medium",
+   "source": "Tapestry (Coach / Kate Spade)",
+   "title": "Summer Wholesale & Merchandising Internship",
+   "url": "https://tapestry.wd108.myworkdayjobs.com/Tapestry_Careers/job/New-York-New-York-USA-Corporate-Headquarters/Summer-Wholesale---Merchandising-Internship_JR20971"
   }
  },
  "last_heartbeat": "2026-11-08T09:26:28+00:00",
@@ -2455,8 +2602,8 @@
   }
  },
  "week": {
-  "high": 1,
-  "low": 3,
-  "medium": 1
+  "high": 2,
+  "low": 9,
+  "medium": 3
  }
 }
