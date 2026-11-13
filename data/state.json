@@ -455,11 +455,6 @@
    "source": "Adobe",
    "why": "for class of 2027/2028"
   },
-  "phenom:https://careers.marshmclennan.com/global/en:R_370715": {
-   "ok": false,
-   "source": "Oliver Wyman / Marsh McLennan",
-   "why": "for class of 2028"
-  },
   "phenom:https://www.pgcareers.com/global/en:R000157841": {
    "ok": true,
    "source": "P&G",
@@ -810,6 +805,11 @@
    "source": "Accenture",
    "why": "not in NYC / Boston"
   },
+  "wd:accenture:R00352434": {
+   "ok": false,
+   "source": "Accenture",
+   "why": "not in NYC / Boston"
+  },
   "wd:accenture:R00353592": {
    "ok": false,
    "source": "Accenture",
@@ -826,6 +826,11 @@
    "why": "not in NYC / Boston"
   },
   "wd:accenture:R00355590": {
+   "ok": false,
+   "source": "Accenture",
+   "why": "summer 2027, no sign sophomores can apply"
+  },
+  "wd:accenture:R00355596": {
    "ok": false,
    "source": "Accenture",
    "why": "summer 2027, no sign sophomores can apply"
@@ -881,11 +886,6 @@
    "why": "summer 2027, no sign sophomores can apply"
   },
   "wd:accenture:R00359291": {
-   "ok": false,
-   "source": "Accenture",
-   "why": "not in NYC / Boston"
-  },
-  "wd:accenture:R00360725": {
    "ok": false,
    "source": "Accenture",
    "why": "not in NYC / Boston"
@@ -1109,36 +1109,6 @@
    "ok": false,
    "source": "Johnson & Johnson",
    "why": "summer 2027, no sign sophomores can apply"
-  },
-  "wd:jj:R-098770": {
-   "ok": false,
-   "source": "Johnson & Johnson",
-   "why": "not in NYC / Boston"
-  },
-  "wd:jj:R-099364": {
-   "ok": false,
-   "source": "Johnson & Johnson",
-   "why": "not in NYC / Boston"
-  },
-  "wd:jj:R-103411": {
-   "ok": false,
-   "source": "Johnson & Johnson",
-   "why": "summer 2027, no sign sophomores can apply"
-  },
-  "wd:jj:R-103514": {
-   "ok": false,
-   "source": "Johnson & Johnson",
-   "why": "not in NYC / Boston"
-  },
-  "wd:jj:R-103760": {
-   "ok": false,
-   "source": "Johnson & Johnson",
-   "why": "not in NYC / Boston"
-  },
-  "wd:jj:R-104405": {
-   "ok": false,
-   "source": "Johnson & Johnson",
-   "why": "for class of 2027/2028"
   },
   "wd:jj:R-104727": {
    "ok": false,
