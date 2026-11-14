@@ -810,11 +810,6 @@
    "source": "Accenture",
    "why": "not in NYC / Boston"
   },
-  "wd:accenture:R00352434": {
-   "ok": false,
-   "source": "Accenture",
-   "why": "not in NYC / Boston"
-  },
   "wd:accenture:R00353592": {
    "ok": false,
    "source": "Accenture",
@@ -826,11 +821,6 @@
    "why": "not in NYC / Boston"
   },
   "wd:accenture:R00355590": {
-   "ok": false,
-   "source": "Accenture",
-   "why": "summer 2027, no sign sophomores can apply"
-  },
-  "wd:accenture:R00355596": {
    "ok": false,
    "source": "Accenture",
    "why": "summer 2027, no sign sophomores can apply"
@@ -2023,7 +2013,7 @@
    "found": "2026-11-14T00:17:59+00:00",
    "location": "New York - New York",
    "open": true,
-   "posted": "Posted Today",
+   "posted": "Posted Yesterday",
    "priority": "high",
    "source": "Salesforce",
    "title": "Summer 2027 Intern - Sales Immersion, Financial Services",
@@ -2036,7 +2026,7 @@
    "found": "2026-11-13T18:43:04+00:00",
    "location": "New York, New York, USA (Corporate Headquarters)",
    "open": true,
-   "posted": "Posted Today",
+   "posted": "Posted Yesterday",
    "priority": "low",
    "source": "Tapestry (Coach / Kate Spade)",
    "title": "Summer Buying & Planning Internship",
@@ -2049,7 +2039,7 @@
    "found": "2026-11-13T18:43:04+00:00",
    "location": "New York, New York, USA (Corporate Headquarters)",
    "open": true,
-   "posted": "Posted Today",
+   "posted": "Posted Yesterday",
    "priority": "low",
    "source": "Tapestry (Coach / Kate Spade)",
    "title": "Summer Corporate Communications, Talent Acquisition, & Human Resources Internship",
@@ -2062,7 +2052,7 @@
    "found": "2026-11-13T18:43:04+00:00",
    "location": "New York, New York, USA (Corporate Headquarters)",
    "open": true,
-   "posted": "Posted Today",
+   "posted": "Posted Yesterday",
    "priority": "medium",
    "source": "Tapestry (Coach / Kate Spade)",
    "title": "Summer eCommerce & Digital Internship",
@@ -2075,7 +2065,7 @@
    "found": "2026-11-13T18:43:04+00:00",
    "location": "New York, New York, USA (Corporate Headquarters)",
    "open": true,
-   "posted": "Posted Today",
+   "posted": "Posted Yesterday",
    "priority": "low",
    "source": "Tapestry (Coach / Kate Spade)",
    "title": "Summer ESG, Sustainability, & Trade Compliance Internship",
@@ -2088,7 +2078,7 @@
    "found": "2026-11-13T18:43:04+00:00",
    "location": "New York, New York, USA (Corporate Headquarters)",
    "open": true,
-   "posted": "Posted Today",
+   "posted": "Posted Yesterday",
    "priority": "low",
    "source": "Tapestry (Coach / Kate Spade)",
    "title": "Summer Finance Internship",
@@ -2101,7 +2091,7 @@
    "found": "2026-11-13T18:43:04+00:00",
    "location": "New York, New York, USA (Corporate Headquarters)",
    "open": true,
-   "posted": "Posted Today",
+   "posted": "Posted Yesterday",
    "priority": "low",
    "source": "Tapestry (Coach / Kate Spade)",
    "title": "Summer Global Supply Chain and Product Development Operations Internship",
@@ -2114,7 +2104,7 @@
    "found": "2026-11-13T18:43:04+00:00",
    "location": "New York, New York, USA (Corporate Headquarters)",
    "open": true,
-   "posted": "Posted Today",
+   "posted": "Posted Yesterday",
    "priority": "low",
    "source": "Tapestry (Coach / Kate Spade)",
    "title": "Summer IT, Digital & Data Analytics Internship",
@@ -2127,7 +2117,7 @@
    "found": "2026-11-13T18:43:04+00:00",
    "location": "New York, New York, USA (Corporate Headquarters)",
    "open": true,
-   "posted": "Posted Today",
+   "posted": "Posted Yesterday",
    "priority": "high",
    "source": "Tapestry (Coach / Kate Spade)",
    "title": "Summer Marketing Internship",
@@ -2140,7 +2130,7 @@
    "found": "2026-11-13T18:43:04+00:00",
    "location": "New York, New York, USA (Corporate Headquarters)",
    "open": true,
-   "posted": "Posted Today",
+   "posted": "Posted Yesterday",
    "priority": "medium",
    "source": "Tapestry (Coach / Kate Spade)",
    "title": "Summer Wholesale & Merchandising Internship",
@@ -2217,8 +2207,8 @@
   },
   "Booz Allen": {
    "alerted": false,
-   "error": "HTTPError: 521 Server Error: <none> for url: https://bah.wd1.myworkdayjobs.com/wday/cxs/bah/BAH_Jobs/jobs",
-   "failures": 1,
+   "error": "response was not JSON (site format may have changed)",
+   "failures": 2,
    "seeded": true
   },
   "Boston Beer": {
@@ -2283,8 +2273,8 @@
   },
   "DraftKings": {
    "alerted": false,
-   "error": "HTTPError: 521 Server Error: <none> for url: https://draftkings.wd1.myworkdayjobs.com/wday/cxs/draftkings/DraftKings/jobs",
-   "failures": 1,
+   "error": "response was not JSON (site format may have changed)",
+   "failures": 2,
    "seeded": true
   },
   "Duolingo": {
@@ -2300,9 +2290,9 @@
    "seeded": true
   },
   "Gartner": {
-   "alerted": false,
-   "error": "HTTPError: 521 Server Error: <none> for url: https://gartner.wd5.myworkdayjobs.com/wday/cxs/gartner/EXT/jobs",
-   "failures": 2,
+   "alerted": true,
+   "error": "response was not JSON (site format may have changed)",
+   "failures": 3,
    "seeded": true
   },
   "Glossier": {
@@ -2319,8 +2309,8 @@
   },
   "Guidehouse": {
    "alerted": false,
-   "error": "HTTPError: 521 Server Error: <none> for url: https://guidehouse.wd1.myworkdayjobs.com/wday/cxs/guidehouse/External/jobs",
-   "failures": 1,
+   "error": "response was not JSON (site format may have changed)",
+   "failures": 2,
    "seeded": true
   },
   "Hasbro": {
@@ -2343,14 +2333,14 @@
   },
   "Huron": {
    "alerted": false,
-   "error": "HTTPError: 521 Server Error: <none> for url: https://huron.wd1.myworkdayjobs.com/wday/cxs/huron/huroncareers/jobs",
-   "failures": 1,
+   "error": "response was not JSON (site format may have changed)",
+   "failures": 2,
    "seeded": true
   },
   "Johnson & Johnson": {
-   "alerted": false,
-   "error": "HTTPError: 521 Server Error: <none> for url: https://jj.wd5.myworkdayjobs.com/wday/cxs/jj/JJ/jobs",
-   "failures": 2,
+   "alerted": true,
+   "error": "response was not JSON (site format may have changed)",
+   "failures": 3,
    "seeded": true
   },
   "Klaviyo": {
@@ -2421,8 +2411,8 @@
   },
   "Pfizer": {
    "alerted": false,
-   "error": "HTTPError: 521 Server Error: <none> for url: https://pfizer.wd1.myworkdayjobs.com/wday/cxs/pfizer/PfizerCareers/jobs",
-   "failures": 1,
+   "error": "response was not JSON (site format may have changed)",
+   "failures": 2,
    "seeded": true
   },
   "Pinterest": {
@@ -2439,8 +2429,8 @@
   },
   "Protiviti": {
    "alerted": false,
-   "error": "HTTPError: 521 Server Error: <none> for url: https://roberthalf.wd1.myworkdayjobs.com/wday/cxs/roberthalf/ProtivitiNA/jobs",
-   "failures": 1,
+   "error": "response was not JSON (site format may have changed)",
+   "failures": 2,
    "seeded": true
   },
   "Putnam / Inizio": {
@@ -2535,8 +2525,8 @@
   },
   "Tapestry (Coach / Kate Spade)": {
    "alerted": false,
-   "error": "response was not JSON (site format may have changed)",
-   "failures": 1,
+   "error": "",
+   "failures": 0,
    "seeded": true
   },
   "The New York Times": {
@@ -2559,8 +2549,8 @@
   },
   "Trinity Life Sciences": {
    "alerted": false,
-   "error": "response was not JSON (site format may have changed)",
-   "failures": 1,
+   "error": "",
+   "failures": 0,
    "seeded": true
   },
   "Twilio": {
@@ -2576,9 +2566,9 @@
    "seeded": true
   },
   "Universal Music Group": {
-   "alerted": false,
-   "error": "HTTPError: 521 Server Error: <none> for url: https://umusic.wd5.myworkdayjobs.com/wday/cxs/umusic/UMGUS/jobs",
-   "failures": 2,
+   "alerted": true,
+   "error": "response was not JSON (site format may have changed)",
+   "failures": 3,
    "seeded": true
   },
   "VaynerMedia": {
@@ -2600,9 +2590,9 @@
    "seeded": true
   },
   "Workday": {
-   "alerted": false,
-   "error": "HTTPError: 521 Server Error: <none> for url: https://workday.wd5.myworkdayjobs.com/wday/cxs/workday/Workday/jobs",
-   "failures": 2,
+   "alerted": true,
+   "error": "response was not JSON (site format may have changed)",
+   "failures": 3,
    "seeded": true
   },
   "Yext": {
