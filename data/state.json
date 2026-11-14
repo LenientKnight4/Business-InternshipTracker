@@ -445,11 +445,6 @@
    "source": "Boston Beer",
    "why": "no class year listed; check eligibility"
   },
-  "phenom:https://careers.adobe.com/us/en:R171696": {
-   "ok": false,
-   "source": "Adobe",
-   "why": "for class of 2027/2028"
-  },
   "phenom:https://careers.adobe.com/us/en:R171828": {
    "ok": false,
    "source": "Adobe",
@@ -1099,11 +1094,6 @@
    "ok": false,
    "source": "Johnson & Johnson",
    "why": "for class of 2027"
-  },
-  "wd:jj:R-105431": {
-   "ok": false,
-   "source": "Johnson & Johnson",
-   "why": "not in NYC / Boston"
   },
   "wd:jj:R-108885": {
    "ok": false,
@@ -2207,8 +2197,8 @@
   },
   "Booz Allen": {
    "alerted": false,
-   "error": "response was not JSON (site format may have changed)",
-   "failures": 2,
+   "error": "",
+   "failures": 0,
    "seeded": true
   },
   "Boston Beer": {
@@ -2273,8 +2263,8 @@
   },
   "DraftKings": {
    "alerted": false,
-   "error": "response was not JSON (site format may have changed)",
-   "failures": 2,
+   "error": "",
+   "failures": 0,
    "seeded": true
   },
   "Duolingo": {
@@ -2290,9 +2280,9 @@
    "seeded": true
   },
   "Gartner": {
-   "alerted": true,
-   "error": "response was not JSON (site format may have changed)",
-   "failures": 3,
+   "alerted": false,
+   "error": "",
+   "failures": 0,
    "seeded": true
   },
   "Glossier": {
@@ -2309,8 +2299,8 @@
   },
   "Guidehouse": {
    "alerted": false,
-   "error": "response was not JSON (site format may have changed)",
-   "failures": 2,
+   "error": "",
+   "failures": 0,
    "seeded": true
   },
   "Hasbro": {
@@ -2333,14 +2323,14 @@
   },
   "Huron": {
    "alerted": false,
-   "error": "response was not JSON (site format may have changed)",
-   "failures": 2,
+   "error": "",
+   "failures": 0,
    "seeded": true
   },
   "Johnson & Johnson": {
-   "alerted": true,
-   "error": "response was not JSON (site format may have changed)",
-   "failures": 3,
+   "alerted": false,
+   "error": "",
+   "failures": 0,
    "seeded": true
   },
   "Klaviyo": {
@@ -2411,8 +2401,8 @@
   },
   "Pfizer": {
    "alerted": false,
-   "error": "response was not JSON (site format may have changed)",
-   "failures": 2,
+   "error": "",
+   "failures": 0,
    "seeded": true
   },
   "Pinterest": {
@@ -2429,8 +2419,8 @@
   },
   "Protiviti": {
    "alerted": false,
-   "error": "response was not JSON (site format may have changed)",
-   "failures": 2,
+   "error": "",
+   "failures": 0,
    "seeded": true
   },
   "Putnam / Inizio": {
@@ -2566,9 +2556,9 @@
    "seeded": true
   },
   "Universal Music Group": {
-   "alerted": true,
-   "error": "response was not JSON (site format may have changed)",
-   "failures": 3,
+   "alerted": false,
+   "error": "",
+   "failures": 0,
    "seeded": true
   },
   "VaynerMedia": {
@@ -2590,9 +2580,9 @@
    "seeded": true
   },
   "Workday": {
-   "alerted": true,
-   "error": "response was not JSON (site format may have changed)",
-   "failures": 3,
+   "alerted": false,
+   "error": "",
+   "failures": 0,
    "seeded": true
   },
   "Yext": {

@@ -1,6 +1,6 @@
 # Business internship tracker (marketing / sales / consulting / BD)
 
-_Updated 2026-11-14 14:04 UTC · watching 79 sources · ⚠️ 10 failing: Booz Allen, Guidehouse, Huron, Protiviti, Gartner, Johnson & Johnson, Pfizer, Universal Music Group, Workday, DraftKings_
+_Updated 2026-11-14 19:06 UTC · watching 79 sources · all sources OK_
 
 ## 🎯 Marketing / sales / consulting / BD internships — open now (12)
 
@@ -97,10 +97,10 @@ _None right now._
 | BCG | eightfold | ✅ | 0 |
 | Accenture | workday | ✅ | 0 |
 | PwC | workday | ✅ | 0 |
-| Booz Allen | workday | ⚠️ failing (2 runs): response was not JSON (site format may have changed) | 0 |
-| Guidehouse | workday | ⚠️ failing (2 runs): response was not JSON (site format may have changed) | 0 |
-| Huron | workday | ⚠️ failing (2 runs): response was not JSON (site format may have changed) | 0 |
-| Protiviti | workday | ⚠️ failing (2 runs): response was not JSON (site format may have changed) | 0 |
+| Booz Allen | workday | ✅ | 0 |
+| Guidehouse | workday | ✅ | 0 |
+| Huron | workday | ✅ | 0 |
+| Protiviti | workday | ✅ | 0 |
 | Grant Thornton | oracle | ✅ | 0 |
 | Cornerstone Research | workday | ✅ | 0 |
 | Analysis Group | icims | ✅ | 0 |
@@ -109,14 +109,14 @@ _None right now._
 | L.E.K. Consulting | oleeo | ✅ | 0 |
 | Oliver Wyman / Marsh McLennan | phenom | ✅ | 0 |
 | Putnam / Inizio | greenhouse | ✅ | 0 |
-| Gartner | workday | ⚠️ failing (3 runs): response was not JSON (site format may have changed) | 0 |
+| Gartner | workday | ✅ | 0 |
 | WPP | greenhouse | ✅ | 0 |
 | Dentsu | workday | ✅ | 0 |
 | VaynerMedia | greenhouse | ✅ | 0 |
 | R/GA | greenhouse | ✅ | 0 |
 | P&G | phenom | ✅ | 1 |
-| Johnson & Johnson | workday | ⚠️ failing (3 runs): response was not JSON (site format may have changed) | 0 |
-| Pfizer | workday | ⚠️ failing (2 runs): response was not JSON (site format may have changed) | 0 |
+| Johnson & Johnson | workday | ✅ | 0 |
+| Pfizer | workday | ✅ | 0 |
 | Unilever | workday | ✅ | 0 |
 | Tapestry (Coach / Kate Spade) | workday | ✅ | 9 |
 | PVH (Calvin Klein / Tommy Hilfiger) | phenom | ✅ | 0 |
@@ -130,7 +130,7 @@ _None right now._
 | SeatGeek | greenhouse | ✅ | 0 |
 | NBCUniversal | smartrecruiters | ✅ | 0 |
 | Warner Bros. Discovery | phenom | ✅ | 0 |
-| Universal Music Group | workday | ⚠️ failing (3 runs): response was not JSON (site format may have changed) | 0 |
+| Universal Music Group | workday | ✅ | 0 |
 | Spotify | lever | ✅ | 0 |
 | The New York Times | greenhouse | ✅ | 27 |
 | Hearst | greenhouse | ✅ | 0 |
@@ -138,7 +138,7 @@ _None right now._
 | Salesforce | workday | ✅ | 1 |
 | Oracle | oracle | ✅ | 0 |
 | Adobe | phenom | ✅ | 0 |
-| Workday | workday | ⚠️ failing (3 runs): response was not JSON (site format may have changed) | 0 |
+| Workday | workday | ✅ | 0 |
 | ServiceNow | smartrecruiters | ✅ | 0 |
 | Amazon | amazon | ✅ | 0 |
 | HubSpot | greenhouse | ✅ | 0 |
@@ -147,7 +147,7 @@ _None right now._
 | Snowflake | ashby | ✅ | 0 |
 | Toast | greenhouse | ✅ | 0 |
 | Klaviyo | greenhouse | ✅ | 0 |
-| DraftKings | workday | ⚠️ failing (2 runs): response was not JSON (site format may have changed) | 0 |
+| DraftKings | workday | ✅ | 0 |
 | ZoomInfo | greenhouse | ✅ | 0 |
 | Squarespace | greenhouse | ✅ | 0 |
 | Yext | greenhouse | ✅ | 0 |
