@@ -255,6 +255,11 @@
    "source": "Robinhood",
    "why": "summer 2027, no sign sophomores can apply"
   },
+  "gh:robinhood:8357464": {
+   "ok": false,
+   "source": "Robinhood",
+   "why": "summer 2027, no sign sophomores can apply"
+  },
   "gh:seatgeek:8227553": {
    "ok": false,
    "source": "SeatGeek",
@@ -1180,6 +1185,11 @@
    "source": "Salesforce",
    "why": "for class of 2028"
   },
+  "wd:salesforce:JR368293": {
+   "ok": true,
+   "source": "Salesforce",
+   "why": "open to sophomores"
+  },
   "wd:tapestry:JR20945": {
    "ok": true,
    "source": "Tapestry (Coach / Kate Spade)",
@@ -2006,6 +2016,19 @@
    "title": "Onco Drug-Device Combo Products Intern",
    "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cambridge-Massachusetts-United-States-of-America/Onco-Drug-Device-Combo-Products-Intern_R-102873"
   },
+  "wd:salesforce:JR368293": {
+   "closed": null,
+   "firm": "Salesforce",
+   "fit": "open to sophomores",
+   "found": "2026-11-14T00:17:59+00:00",
+   "location": "New York - New York",
+   "open": true,
+   "posted": "Posted Today",
+   "priority": "high",
+   "source": "Salesforce",
+   "title": "Summer 2027 Intern - Sales Immersion, Financial Services",
+   "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/New-York---New-York/Summer-2027-Intern---Sales-Immersion--Financial-Services_JR368293-1"
+  },
   "wd:tapestry:JR20945": {
    "closed": null,
    "firm": "Tapestry (Coach / Kate Spade)",
@@ -2278,8 +2301,8 @@
   },
   "Gartner": {
    "alerted": false,
-   "error": "",
-   "failures": 0,
+   "error": "HTTPError: 521 Server Error: <none> for url: https://gartner.wd5.myworkdayjobs.com/wday/cxs/gartner/EXT/jobs",
+   "failures": 1,
    "seeded": true
   },
   "Glossier": {
@@ -2326,8 +2349,8 @@
   },
   "Johnson & Johnson": {
    "alerted": false,
-   "error": "",
-   "failures": 0,
+   "error": "HTTPError: 521 Server Error: <none> for url: https://jj.wd5.myworkdayjobs.com/wday/cxs/jj/JJ/jobs",
+   "failures": 1,
    "seeded": true
   },
   "Klaviyo": {
@@ -2554,8 +2577,8 @@
   },
   "Universal Music Group": {
    "alerted": false,
-   "error": "",
-   "failures": 0,
+   "error": "HTTPError: 521 Server Error: <none> for url: https://umusic.wd5.myworkdayjobs.com/wday/cxs/umusic/UMGUS/jobs",
+   "failures": 1,
    "seeded": true
   },
   "VaynerMedia": {
@@ -2578,8 +2601,8 @@
   },
   "Workday": {
    "alerted": false,
-   "error": "",
-   "failures": 0,
+   "error": "HTTPError: 521 Server Error: <none> for url: https://workday.wd5.myworkdayjobs.com/wday/cxs/workday/Workday/jobs",
+   "failures": 1,
    "seeded": true
   },
   "Yext": {
@@ -2602,7 +2625,7 @@
   }
  },
  "week": {
-  "high": 2,
+  "high": 3,
   "low": 9,
   "medium": 3
  }

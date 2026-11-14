@@ -1,11 +1,12 @@
 # Business internship tracker (marketing / sales / consulting / BD)
 
-_Updated 2026-11-13 18:43 UTC · watching 79 sources · all sources OK_
+_Updated 2026-11-14 00:17 UTC · watching 79 sources · ⚠️ 4 failing: Gartner, Johnson & Johnson, Universal Music Group, Workday_
 
-## 🎯 Marketing / sales / consulting / BD internships — open now (11)
+## 🎯 Marketing / sales / consulting / BD internships — open now (12)
 
 | Found | Firm | Role | Location | Who can apply |
 |---|---|---|---|---|
+| 2026-11-14 | Salesforce | [Summer 2027 Intern - Sales Immersion, Financial Services](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/New-York---New-York/Summer-2027-Intern---Sales-Immersion--Financial-Services_JR368293-1) | New York - New York | open to sophomores |
 | 2026-11-13 | Tapestry (Coach / Kate Spade) | [Summer Marketing Internship](https://tapestry.wd108.myworkdayjobs.com/Tapestry_Careers/job/New-York-New-York-USA-Corporate-Headquarters/Summer-Marketing-Internship_JR20970) | New York, New York, USA (Corporate Headquarters) | no class year listed; check eligibility |
 | 2026-11-12 | The New York Times | [B2B Subscriptions, Marketing Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4753228005) | New York, NY | no class year listed; check eligibility |
 | 2026-11-08 | The New York Times | [Marketing Intern, Wirecutter](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748485005) | New York, NY | no class year listed; check eligibility |
@@ -22,8 +23,8 @@ _Updated 2026-11-13 18:43 UTC · watching 79 sources · all sources OK_
 
 | Found | Firm | Role | Location | Who can apply |
 |---|---|---|---|---|
-| 2026-11-13 | Tapestry (Coach / Kate Spade) | [Summer Wholesale & Merchandising Internship](https://tapestry.wd108.myworkdayjobs.com/Tapestry_Careers/job/New-York-New-York-USA-Corporate-Headquarters/Summer-Wholesale---Merchandising-Internship_JR20971) | New York, New York, USA (Corporate Headquarters) | no class year listed; check eligibility |
 | 2026-11-13 | Tapestry (Coach / Kate Spade) | [Summer eCommerce & Digital Internship](https://tapestry.wd108.myworkdayjobs.com/Tapestry_Careers/job/New-York-New-York-USA-Corporate-Headquarters/Summer-eCommerce---Digital-Internship_JR20960) | New York, New York, USA (Corporate Headquarters) | no class year listed; check eligibility |
+| 2026-11-13 | Tapestry (Coach / Kate Spade) | [Summer Wholesale & Merchandising Internship](https://tapestry.wd108.myworkdayjobs.com/Tapestry_Careers/job/New-York-New-York-USA-Corporate-Headquarters/Summer-Wholesale---Merchandising-Internship_JR20971) | New York, New York, USA (Corporate Headquarters) | no class year listed; check eligibility |
 | 2026-11-10 | The New York Times | [Audience Insights Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4752928005) | New York, NY | no class year listed; check eligibility |
 | 2026-11-08 | The New York Times | [Communications Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748228005) | New York, NY | no class year listed; check eligibility |
 | 2026-11-08 | The New York Times | [Creative Development Intern, Wirecutter](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748297005) | New York, NY | no class year listed; check eligibility |
@@ -36,12 +37,12 @@ _Updated 2026-11-13 18:43 UTC · watching 79 sources · all sources OK_
 
 | Found | Firm | Role | Location | Who can apply |
 |---|---|---|---|---|
-| 2026-11-13 | Tapestry (Coach / Kate Spade) | [Summer IT, Digital & Data Analytics Internship](https://tapestry.wd108.myworkdayjobs.com/Tapestry_Careers/job/New-York-New-York-USA-Corporate-Headquarters/Summer-IT--Digital---Data-Analytics-Internship_JR20965) | New York, New York, USA (Corporate Headquarters) | no class year listed; check eligibility |
-| 2026-11-13 | Tapestry (Coach / Kate Spade) | [Summer Global Supply Chain and Product Development Operations Internship](https://tapestry.wd108.myworkdayjobs.com/Tapestry_Careers/job/New-York-New-York-USA-Corporate-Headquarters/Summer-Global-Supply-Chain-and-Product-Development-Operations-Internship_JR20963) | New York, New York, USA (Corporate Headquarters) | no class year listed; check eligibility |
-| 2026-11-13 | Tapestry (Coach / Kate Spade) | [Summer Finance Internship](https://tapestry.wd108.myworkdayjobs.com/Tapestry_Careers/job/New-York-New-York-USA-Corporate-Headquarters/Summer-Finance-Internship_JR20962) | New York, New York, USA (Corporate Headquarters) | no class year listed; check eligibility |
-| 2026-11-13 | Tapestry (Coach / Kate Spade) | [Summer ESG, Sustainability, & Trade Compliance Internship](https://tapestry.wd108.myworkdayjobs.com/Tapestry_Careers/job/New-York-New-York-USA-Corporate-Headquarters/Summer-ESG--Sustainability----Trade-Compliance--Internship_JR20961) | New York, New York, USA (Corporate Headquarters) | no class year listed; check eligibility |
-| 2026-11-13 | Tapestry (Coach / Kate Spade) | [Summer Corporate Communications, Talent Acquisition, & Human Resources Internship](https://tapestry.wd108.myworkdayjobs.com/Tapestry_Careers/job/New-York-New-York-USA-Corporate-Headquarters/Summer-Corporate-Communications--Talent-Acquisition---Human-Resources-Internship_JR20955) | New York, New York, USA (Corporate Headquarters) | no class year listed; check eligibility |
 | 2026-11-13 | Tapestry (Coach / Kate Spade) | [Summer Buying & Planning Internship](https://tapestry.wd108.myworkdayjobs.com/Tapestry_Careers/job/New-York-New-York-USA-Corporate-Headquarters/Summer-Buying---Planning-Internship_JR20945) | New York, New York, USA (Corporate Headquarters) | no class year listed; check eligibility |
+| 2026-11-13 | Tapestry (Coach / Kate Spade) | [Summer Corporate Communications, Talent Acquisition, & Human Resources Internship](https://tapestry.wd108.myworkdayjobs.com/Tapestry_Careers/job/New-York-New-York-USA-Corporate-Headquarters/Summer-Corporate-Communications--Talent-Acquisition---Human-Resources-Internship_JR20955) | New York, New York, USA (Corporate Headquarters) | no class year listed; check eligibility |
+| 2026-11-13 | Tapestry (Coach / Kate Spade) | [Summer ESG, Sustainability, & Trade Compliance Internship](https://tapestry.wd108.myworkdayjobs.com/Tapestry_Careers/job/New-York-New-York-USA-Corporate-Headquarters/Summer-ESG--Sustainability----Trade-Compliance--Internship_JR20961) | New York, New York, USA (Corporate Headquarters) | no class year listed; check eligibility |
+| 2026-11-13 | Tapestry (Coach / Kate Spade) | [Summer Finance Internship](https://tapestry.wd108.myworkdayjobs.com/Tapestry_Careers/job/New-York-New-York-USA-Corporate-Headquarters/Summer-Finance-Internship_JR20962) | New York, New York, USA (Corporate Headquarters) | no class year listed; check eligibility |
+| 2026-11-13 | Tapestry (Coach / Kate Spade) | [Summer Global Supply Chain and Product Development Operations Internship](https://tapestry.wd108.myworkdayjobs.com/Tapestry_Careers/job/New-York-New-York-USA-Corporate-Headquarters/Summer-Global-Supply-Chain-and-Product-Development-Operations-Internship_JR20963) | New York, New York, USA (Corporate Headquarters) | no class year listed; check eligibility |
+| 2026-11-13 | Tapestry (Coach / Kate Spade) | [Summer IT, Digital & Data Analytics Internship](https://tapestry.wd108.myworkdayjobs.com/Tapestry_Careers/job/New-York-New-York-USA-Corporate-Headquarters/Summer-IT--Digital---Data-Analytics-Internship_JR20965) | New York, New York, USA (Corporate Headquarters) | no class year listed; check eligibility |
 | 2026-11-11 | Coinbase | [Strategic Sourcing Intern](https://www.coinbase.com/careers/positions/8376084?gh_jid=8376084) | Hybrid - New York, NY | no class year listed; check eligibility |
 | 2026-11-10 | The New York Times | [ML Scientist Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4752926005) | New York, NY | no class year listed; check eligibility |
 | 2026-11-10 | The New York Times | [Data Analyst Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4752930005) | New York, NY | no class year listed; check eligibility |
@@ -108,13 +109,13 @@ _None right now._
 | L.E.K. Consulting | oleeo | ✅ | 0 |
 | Oliver Wyman / Marsh McLennan | phenom | ✅ | 0 |
 | Putnam / Inizio | greenhouse | ✅ | 0 |
-| Gartner | workday | ✅ | 0 |
+| Gartner | workday | ⚠️ failing (1 runs): HTTPError: 521 Server Error: <none> for url: https://gartner.wd5.myworkdayjobs.c | 0 |
 | WPP | greenhouse | ✅ | 0 |
 | Dentsu | workday | ✅ | 0 |
 | VaynerMedia | greenhouse | ✅ | 0 |
 | R/GA | greenhouse | ✅ | 0 |
 | P&G | phenom | ✅ | 1 |
-| Johnson & Johnson | workday | ✅ | 0 |
+| Johnson & Johnson | workday | ⚠️ failing (1 runs): HTTPError: 521 Server Error: <none> for url: https://jj.wd5.myworkdayjobs.com/wd | 0 |
 | Pfizer | workday | ✅ | 0 |
 | Unilever | workday | ✅ | 0 |
 | Tapestry (Coach / Kate Spade) | workday | ✅ | 9 |
@@ -129,15 +130,15 @@ _None right now._
 | SeatGeek | greenhouse | ✅ | 0 |
 | NBCUniversal | smartrecruiters | ✅ | 0 |
 | Warner Bros. Discovery | phenom | ✅ | 0 |
-| Universal Music Group | workday | ✅ | 0 |
+| Universal Music Group | workday | ⚠️ failing (1 runs): HTTPError: 521 Server Error: <none> for url: https://umusic.wd5.myworkdayjobs.co | 0 |
 | Spotify | lever | ✅ | 0 |
 | The New York Times | greenhouse | ✅ | 27 |
 | Hearst | greenhouse | ✅ | 0 |
 | iHeartMedia | smartrecruiters | ✅ | 0 |
-| Salesforce | workday | ✅ | 0 |
+| Salesforce | workday | ✅ | 1 |
 | Oracle | oracle | ✅ | 0 |
 | Adobe | phenom | ✅ | 0 |
-| Workday | workday | ✅ | 0 |
+| Workday | workday | ⚠️ failing (1 runs): HTTPError: 521 Server Error: <none> for url: https://workday.wd5.myworkdayjobs.c | 0 |
 | ServiceNow | smartrecruiters | ✅ | 0 |
 | Amazon | amazon | ✅ | 0 |
 | HubSpot | greenhouse | ✅ | 0 |
