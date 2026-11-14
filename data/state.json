@@ -2217,8 +2217,8 @@
   },
   "Booz Allen": {
    "alerted": false,
-   "error": "",
-   "failures": 0,
+   "error": "HTTPError: 521 Server Error: <none> for url: https://bah.wd1.myworkdayjobs.com/wday/cxs/bah/BAH_Jobs/jobs",
+   "failures": 1,
    "seeded": true
   },
   "Boston Beer": {
@@ -2283,8 +2283,8 @@
   },
   "DraftKings": {
    "alerted": false,
-   "error": "",
-   "failures": 0,
+   "error": "HTTPError: 521 Server Error: <none> for url: https://draftkings.wd1.myworkdayjobs.com/wday/cxs/draftkings/DraftKings/jobs",
+   "failures": 1,
    "seeded": true
   },
   "Duolingo": {
@@ -2302,7 +2302,7 @@
   "Gartner": {
    "alerted": false,
    "error": "HTTPError: 521 Server Error: <none> for url: https://gartner.wd5.myworkdayjobs.com/wday/cxs/gartner/EXT/jobs",
-   "failures": 1,
+   "failures": 2,
    "seeded": true
   },
   "Glossier": {
@@ -2319,8 +2319,8 @@
   },
   "Guidehouse": {
    "alerted": false,
-   "error": "",
-   "failures": 0,
+   "error": "HTTPError: 521 Server Error: <none> for url: https://guidehouse.wd1.myworkdayjobs.com/wday/cxs/guidehouse/External/jobs",
+   "failures": 1,
    "seeded": true
   },
   "Hasbro": {
@@ -2343,14 +2343,14 @@
   },
   "Huron": {
    "alerted": false,
-   "error": "",
-   "failures": 0,
+   "error": "HTTPError: 521 Server Error: <none> for url: https://huron.wd1.myworkdayjobs.com/wday/cxs/huron/huroncareers/jobs",
+   "failures": 1,
    "seeded": true
   },
   "Johnson & Johnson": {
    "alerted": false,
    "error": "HTTPError: 521 Server Error: <none> for url: https://jj.wd5.myworkdayjobs.com/wday/cxs/jj/JJ/jobs",
-   "failures": 1,
+   "failures": 2,
    "seeded": true
   },
   "Klaviyo": {
@@ -2421,8 +2421,8 @@
   },
   "Pfizer": {
    "alerted": false,
-   "error": "",
-   "failures": 0,
+   "error": "HTTPError: 521 Server Error: <none> for url: https://pfizer.wd1.myworkdayjobs.com/wday/cxs/pfizer/PfizerCareers/jobs",
+   "failures": 1,
    "seeded": true
   },
   "Pinterest": {
@@ -2439,8 +2439,8 @@
   },
   "Protiviti": {
    "alerted": false,
-   "error": "",
-   "failures": 0,
+   "error": "HTTPError: 521 Server Error: <none> for url: https://roberthalf.wd1.myworkdayjobs.com/wday/cxs/roberthalf/ProtivitiNA/jobs",
+   "failures": 1,
    "seeded": true
   },
   "Putnam / Inizio": {
@@ -2535,8 +2535,8 @@
   },
   "Tapestry (Coach / Kate Spade)": {
    "alerted": false,
-   "error": "",
-   "failures": 0,
+   "error": "response was not JSON (site format may have changed)",
+   "failures": 1,
    "seeded": true
   },
   "The New York Times": {
@@ -2559,8 +2559,8 @@
   },
   "Trinity Life Sciences": {
    "alerted": false,
-   "error": "",
-   "failures": 0,
+   "error": "response was not JSON (site format may have changed)",
+   "failures": 1,
    "seeded": true
   },
   "Twilio": {
@@ -2578,7 +2578,7 @@
   "Universal Music Group": {
    "alerted": false,
    "error": "HTTPError: 521 Server Error: <none> for url: https://umusic.wd5.myworkdayjobs.com/wday/cxs/umusic/UMGUS/jobs",
-   "failures": 1,
+   "failures": 2,
    "seeded": true
   },
   "VaynerMedia": {
@@ -2602,7 +2602,7 @@
   "Workday": {
    "alerted": false,
    "error": "HTTPError: 521 Server Error: <none> for url: https://workday.wd5.myworkdayjobs.com/wday/cxs/workday/Workday/jobs",
-   "failures": 1,
+   "failures": 2,
    "seeded": true
   },
   "Yext": {
