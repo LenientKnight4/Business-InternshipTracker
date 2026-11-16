@@ -1,6 +1,6 @@
 # Business internship tracker (marketing / sales / consulting / BD)
 
-_Updated 2026-11-15 21:41 UTC · watching 79 sources · all sources OK_
+_Updated 2026-11-16 01:54 UTC · watching 79 sources · ⚠️ 5 failing: Accenture, Cornerstone Research, Trinity Life Sciences, Tapestry (Coach / Kate Spade), Salesforce_
 
 ## 🎯 Marketing / sales / consulting / BD internships — open now (12)
 
@@ -95,16 +95,16 @@ _None right now._
 | Firm | System | Status | Matches open |
 |---|---|---|---|
 | BCG | eightfold | ✅ | 0 |
-| Accenture | workday | ✅ | 0 |
+| Accenture | workday | ⚠️ failing (1 runs): HTTPError: HTTP 429 | 0 |
 | PwC | workday | ✅ | 0 |
 | Booz Allen | workday | ✅ | 0 |
 | Guidehouse | workday | ✅ | 0 |
 | Huron | workday | ✅ | 0 |
 | Protiviti | workday | ✅ | 0 |
 | Grant Thornton | oracle | ✅ | 0 |
-| Cornerstone Research | workday | ✅ | 0 |
+| Cornerstone Research | workday | ⚠️ failing (1 runs): HTTPError: HTTP 429 | 0 |
 | Analysis Group | icims | ✅ | 0 |
-| Trinity Life Sciences | workday | ✅ | 0 |
+| Trinity Life Sciences | workday | ⚠️ failing (1 runs): HTTPError: HTTP 429 | 0 |
 | Clearview Healthcare Partners | greenhouse | ✅ | 0 |
 | L.E.K. Consulting | oleeo | ✅ | 0 |
 | Oliver Wyman / Marsh McLennan | phenom | ✅ | 0 |
@@ -118,7 +118,7 @@ _None right now._
 | Johnson & Johnson | workday | ✅ | 0 |
 | Pfizer | workday | ✅ | 0 |
 | Unilever | workday | ✅ | 0 |
-| Tapestry (Coach / Kate Spade) | workday | ✅ | 9 |
+| Tapestry (Coach / Kate Spade) | workday | ⚠️ failing (1 runs): HTTPError: HTTP 429 | 9 |
 | PVH (Calvin Klein / Tommy Hilfiger) | phenom | ✅ | 0 |
 | TJX | phenom | ✅ | 0 |
 | Boston Beer | oracle | ✅ | 1 |
@@ -135,7 +135,7 @@ _None right now._
 | The New York Times | greenhouse | ✅ | 27 |
 | Hearst | greenhouse | ✅ | 0 |
 | iHeartMedia | smartrecruiters | ✅ | 0 |
-| Salesforce | workday | ✅ | 1 |
+| Salesforce | workday | ⚠️ failing (1 runs): HTTPError: HTTP 429 | 1 |
 | Oracle | oracle | ✅ | 0 |
 | Adobe | phenom | ✅ | 0 |
 | Workday | workday | ✅ | 0 |

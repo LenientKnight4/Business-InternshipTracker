@@ -2126,8 +2126,8 @@
  "sources": {
   "Accenture": {
    "alerted": false,
-   "error": "",
-   "failures": 0,
+   "error": "HTTPError: HTTP 429",
+   "failures": 1,
    "seeded": true
   },
   "Adobe": {
@@ -2240,8 +2240,8 @@
   },
   "Cornerstone Research": {
    "alerted": false,
-   "error": "",
-   "failures": 0,
+   "error": "HTTPError: HTTP 429",
+   "failures": 1,
    "seeded": true
   },
   "Datadog": {
@@ -2456,8 +2456,8 @@
   },
   "Salesforce": {
    "alerted": false,
-   "error": "",
-   "failures": 0,
+   "error": "HTTPError: HTTP 429",
+   "failures": 1,
    "seeded": true
   },
   "SeatGeek": {
@@ -2510,8 +2510,8 @@
   },
   "Tapestry (Coach / Kate Spade)": {
    "alerted": false,
-   "error": "",
-   "failures": 0,
+   "error": "HTTPError: HTTP 429",
+   "failures": 1,
    "seeded": true
   },
   "The New York Times": {
@@ -2534,8 +2534,8 @@
   },
   "Trinity Life Sciences": {
    "alerted": false,
-   "error": "",
-   "failures": 0,
+   "error": "HTTPError: HTTP 429",
+   "failures": 1,
    "seeded": true
   },
   "Twilio": {
