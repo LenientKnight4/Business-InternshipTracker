@@ -160,11 +160,6 @@
    "source": "Coinbase",
    "why": "no class year listed; check eligibility"
   },
-  "gh:datadog:8052118": {
-   "ok": true,
-   "source": "Datadog",
-   "why": "no class year listed; check eligibility"
-  },
   "gh:figma:6143238004": {
    "ok": false,
    "source": "Figma",
@@ -280,17 +275,7 @@
    "source": "Stripe",
    "why": "for class of 2027/2028"
   },
-  "gh:thenewyorktimes:4748228005": {
-   "ok": true,
-   "source": "The New York Times",
-   "why": "no class year listed; check eligibility"
-  },
   "gh:thenewyorktimes:4748297005": {
-   "ok": true,
-   "source": "The New York Times",
-   "why": "no class year listed; check eligibility"
-  },
-  "gh:thenewyorktimes:4748461005": {
    "ok": true,
    "source": "The New York Times",
    "why": "no class year listed; check eligibility"
@@ -330,16 +315,6 @@
    "source": "The New York Times",
    "why": "no class year listed; check eligibility"
   },
-  "gh:thenewyorktimes:4749836005": {
-   "ok": true,
-   "source": "The New York Times",
-   "why": "no class year listed; check eligibility"
-  },
-  "gh:thenewyorktimes:4750496005": {
-   "ok": true,
-   "source": "The New York Times",
-   "why": "no class year listed; check eligibility"
-  },
   "gh:thenewyorktimes:4750498005": {
    "ok": true,
    "source": "The New York Times",
@@ -370,16 +345,6 @@
    "source": "The New York Times",
    "why": "no class year listed; check eligibility"
   },
-  "gh:thenewyorktimes:4751907005": {
-   "ok": true,
-   "source": "The New York Times",
-   "why": "no class year listed; check eligibility"
-  },
-  "gh:thenewyorktimes:4751909005": {
-   "ok": true,
-   "source": "The New York Times",
-   "why": "no class year listed; check eligibility"
-  },
   "gh:thenewyorktimes:4751917005": {
    "ok": true,
    "source": "The New York Times",
@@ -390,22 +355,7 @@
    "source": "The New York Times",
    "why": "no class year listed; check eligibility"
   },
-  "gh:thenewyorktimes:4751973005": {
-   "ok": true,
-   "source": "The New York Times",
-   "why": "no class year listed; check eligibility"
-  },
-  "gh:thenewyorktimes:4752926005": {
-   "ok": true,
-   "source": "The New York Times",
-   "why": "no class year listed; check eligibility"
-  },
   "gh:thenewyorktimes:4752928005": {
-   "ok": true,
-   "source": "The New York Times",
-   "why": "no class year listed; check eligibility"
-  },
-  "gh:thenewyorktimes:4752930005": {
    "ok": true,
    "source": "The New York Times",
    "why": "no class year listed; check eligibility"
@@ -476,11 +426,6 @@
    "why": "for class of 2027"
   },
   "sr:NBCUniversal3:744000160646119": {
-   "ok": false,
-   "source": "NBCUniversal",
-   "why": "for class of 2027"
-  },
-  "sr:NBCUniversal3:744000160646989": {
    "ok": false,
    "source": "NBCUniversal",
    "why": "for class of 2027"
@@ -625,10 +570,25 @@
    "source": "NBCUniversal",
    "why": "for class of 2027"
   },
+  "sr:NBCUniversal3:744000161878709": {
+   "ok": false,
+   "source": "NBCUniversal",
+   "why": "for class of 2027"
+  },
+  "sr:NBCUniversal3:744000161897114": {
+   "ok": false,
+   "source": "NBCUniversal",
+   "why": "for class of 2027"
+  },
   "tal:L.E.K. Consulting:4139": {
    "ok": false,
    "source": "L.E.K. Consulting",
    "why": "summer 2027, no sign sophomores can apply"
+  },
+  "tal:L.E.K. Consulting:4140": {
+   "ok": false,
+   "source": "L.E.K. Consulting",
+   "why": "not in NYC / Boston"
   },
   "tal:L.E.K. Consulting:4152": {
    "ok": false,
@@ -1485,12 +1445,12 @@
    "url": "https://www.coinbase.com/careers/positions/8376084?gh_jid=8376084"
   },
   "gh:datadog:8052118": {
-   "closed": null,
+   "closed": "2026-11-16T19:48:40+00:00",
    "firm": "Datadog",
    "fit": "no class year listed; check eligibility",
    "found": "2026-11-08T09:26:28+00:00",
    "location": "Boston, Massachusetts, USA; New York, New York, USA",
-   "open": true,
+   "open": false,
    "posted": "2026-09-08",
    "priority": "low",
    "source": "Datadog",
@@ -1524,12 +1484,12 @@
    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140217"
   },
   "gh:thenewyorktimes:4748228005": {
-   "closed": null,
+   "closed": "2026-11-16T19:48:40+00:00",
    "firm": "The New York Times",
    "fit": "no class year listed; check eligibility",
    "found": "2026-11-08T09:26:28+00:00",
    "location": "New York, NY",
-   "open": true,
+   "open": false,
    "posted": "2026-10-30",
    "priority": "medium",
    "source": "The New York Times",
@@ -1563,12 +1523,12 @@
    "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748297005"
   },
   "gh:thenewyorktimes:4748461005": {
-   "closed": null,
+   "closed": "2026-11-16T19:48:40+00:00",
    "firm": "The New York Times",
    "fit": "no class year listed; check eligibility",
    "found": "2026-11-08T09:26:28+00:00",
    "location": "New York, NY",
-   "open": true,
+   "open": false,
    "posted": "2026-10-30",
    "priority": "low",
    "source": "The New York Times",
@@ -1680,12 +1640,12 @@
    "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748518005"
   },
   "gh:thenewyorktimes:4749836005": {
-   "closed": null,
+   "closed": "2026-11-16T19:48:40+00:00",
    "firm": "The New York Times",
    "fit": "no class year listed; check eligibility",
    "found": "2026-11-08T09:26:28+00:00",
    "location": "New York, NY",
-   "open": true,
+   "open": false,
    "posted": "2026-11-02",
    "priority": "high",
    "source": "The New York Times",
@@ -1693,12 +1653,12 @@
    "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4749836005"
   },
   "gh:thenewyorktimes:4750496005": {
-   "closed": null,
+   "closed": "2026-11-16T19:48:40+00:00",
    "firm": "The New York Times",
    "fit": "no class year listed; check eligibility",
    "found": "2026-11-08T09:26:28+00:00",
    "location": "New York, NY",
-   "open": true,
+   "open": false,
    "posted": "2026-11-03",
    "priority": "high",
    "source": "The New York Times",
@@ -1784,12 +1744,12 @@
    "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751790005"
   },
   "gh:thenewyorktimes:4751907005": {
-   "closed": null,
+   "closed": "2026-11-16T19:48:40+00:00",
    "firm": "The New York Times",
    "fit": "no class year listed; check eligibility",
    "found": "2026-11-08T09:26:28+00:00",
    "location": "New York, NY",
-   "open": true,
+   "open": false,
    "posted": "2026-11-06",
    "priority": "low",
    "source": "The New York Times",
@@ -1797,12 +1757,12 @@
    "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751907005"
   },
   "gh:thenewyorktimes:4751909005": {
-   "closed": null,
+   "closed": "2026-11-16T19:48:40+00:00",
    "firm": "The New York Times",
    "fit": "no class year listed; check eligibility",
    "found": "2026-11-08T09:26:28+00:00",
    "location": "New York, NY",
-   "open": true,
+   "open": false,
    "posted": "2026-11-06",
    "priority": "low",
    "source": "The New York Times",
@@ -1836,12 +1796,12 @@
    "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751919005"
   },
   "gh:thenewyorktimes:4751973005": {
-   "closed": null,
+   "closed": "2026-11-16T19:48:40+00:00",
    "firm": "The New York Times",
    "fit": "no class year listed; check eligibility",
    "found": "2026-11-08T09:26:28+00:00",
    "location": "New York, NY",
-   "open": true,
+   "open": false,
    "posted": "2026-11-06",
    "priority": "low",
    "source": "The New York Times",
@@ -1849,12 +1809,12 @@
    "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751973005"
   },
   "gh:thenewyorktimes:4752926005": {
-   "closed": null,
+   "closed": "2026-11-16T19:48:40+00:00",
    "firm": "The New York Times",
    "fit": "no class year listed; check eligibility",
    "found": "2026-11-10T02:00:00+00:00",
    "location": "New York, NY",
-   "open": true,
+   "open": false,
    "posted": "2026-11-09",
    "priority": "low",
    "source": "The New York Times",
@@ -1875,12 +1835,12 @@
    "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4752928005"
   },
   "gh:thenewyorktimes:4752930005": {
-   "closed": null,
+   "closed": "2026-11-16T19:48:40+00:00",
    "firm": "The New York Times",
    "fit": "no class year listed; check eligibility",
    "found": "2026-11-10T02:00:00+00:00",
    "location": "New York, NY",
-   "open": true,
+   "open": false,
    "posted": "2026-11-09",
    "priority": "low",
    "source": "The New York Times",
@@ -2125,9 +2085,9 @@
  "last_heartbeat": "2026-11-15T09:52:40+00:00",
  "sources": {
   "Accenture": {
-   "alerted": false,
+   "alerted": true,
    "error": "HTTPError: HTTP 429",
-   "failures": 2,
+   "failures": 3,
    "seeded": true
   },
   "Adobe": {
@@ -2193,7 +2153,7 @@
   "Booz Allen": {
    "alerted": false,
    "error": "HTTPError: HTTP 429",
-   "failures": 1,
+   "failures": 2,
    "seeded": true
   },
   "Boston Beer": {
@@ -2240,8 +2200,8 @@
   },
   "Cornerstone Research": {
    "alerted": false,
-   "error": "HTTPError: HTTP 429",
-   "failures": 2,
+   "error": "",
+   "failures": 0,
    "seeded": true
   },
   "Datadog": {
@@ -2253,13 +2213,13 @@
   "Dentsu": {
    "alerted": false,
    "error": "HTTPError: HTTP 429",
-   "failures": 1,
+   "failures": 2,
    "seeded": true
   },
   "DraftKings": {
    "alerted": false,
    "error": "HTTPError: HTTP 429",
-   "failures": 1,
+   "failures": 2,
    "seeded": true
   },
   "Duolingo": {
@@ -2277,7 +2237,7 @@
   "Gartner": {
    "alerted": false,
    "error": "HTTPError: HTTP 429",
-   "failures": 1,
+   "failures": 2,
    "seeded": true
   },
   "Glossier": {
@@ -2295,7 +2255,7 @@
   "Guidehouse": {
    "alerted": false,
    "error": "HTTPError: HTTP 429",
-   "failures": 1,
+   "failures": 2,
    "seeded": true
   },
   "Hasbro": {
@@ -2319,13 +2279,13 @@
   "Huron": {
    "alerted": false,
    "error": "HTTPError: HTTP 429",
-   "failures": 1,
+   "failures": 2,
    "seeded": true
   },
   "Johnson & Johnson": {
    "alerted": false,
    "error": "HTTPError: HTTP 429",
-   "failures": 1,
+   "failures": 2,
    "seeded": true
   },
   "Klaviyo": {
@@ -2397,7 +2357,7 @@
   "Pfizer": {
    "alerted": false,
    "error": "HTTPError: HTTP 429",
-   "failures": 1,
+   "failures": 2,
    "seeded": true
   },
   "Pinterest": {
@@ -2415,7 +2375,7 @@
   "Protiviti": {
    "alerted": false,
    "error": "HTTPError: HTTP 429",
-   "failures": 1,
+   "failures": 2,
    "seeded": true
   },
   "Putnam / Inizio": {
@@ -2427,7 +2387,7 @@
   "PwC": {
    "alerted": false,
    "error": "HTTPError: HTTP 429",
-   "failures": 1,
+   "failures": 2,
    "seeded": true
   },
   "R/GA": {
@@ -2455,9 +2415,9 @@
    "seeded": true
   },
   "Salesforce": {
-   "alerted": false,
+   "alerted": true,
    "error": "HTTPError: HTTP 429",
-   "failures": 2,
+   "failures": 3,
    "seeded": true
   },
   "SeatGeek": {
@@ -2509,9 +2469,9 @@
    "seeded": true
   },
   "Tapestry (Coach / Kate Spade)": {
-   "alerted": false,
+   "alerted": true,
    "error": "HTTPError: HTTP 429",
-   "failures": 2,
+   "failures": 3,
    "seeded": true
   },
   "The New York Times": {
@@ -2533,9 +2493,9 @@
    "seeded": true
   },
   "Trinity Life Sciences": {
-   "alerted": false,
+   "alerted": true,
    "error": "HTTPError: HTTP 429",
-   "failures": 2,
+   "failures": 3,
    "seeded": true
   },
   "Twilio": {
@@ -2547,13 +2507,13 @@
   "Unilever": {
    "alerted": false,
    "error": "HTTPError: HTTP 429",
-   "failures": 1,
+   "failures": 2,
    "seeded": true
   },
   "Universal Music Group": {
    "alerted": false,
    "error": "HTTPError: HTTP 429",
-   "failures": 1,
+   "failures": 2,
    "seeded": true
   },
   "VaynerMedia": {
@@ -2577,7 +2537,7 @@
   "Workday": {
    "alerted": false,
    "error": "HTTPError: HTTP 429",
-   "failures": 1,
+   "failures": 2,
    "seeded": true
   },
   "Yext": {
