@@ -2127,7 +2127,7 @@
   "Accenture": {
    "alerted": false,
    "error": "HTTPError: HTTP 429",
-   "failures": 1,
+   "failures": 2,
    "seeded": true
   },
   "Adobe": {
@@ -2192,8 +2192,8 @@
   },
   "Booz Allen": {
    "alerted": false,
-   "error": "",
-   "failures": 0,
+   "error": "HTTPError: HTTP 429",
+   "failures": 1,
    "seeded": true
   },
   "Boston Beer": {
@@ -2241,7 +2241,7 @@
   "Cornerstone Research": {
    "alerted": false,
    "error": "HTTPError: HTTP 429",
-   "failures": 1,
+   "failures": 2,
    "seeded": true
   },
   "Datadog": {
@@ -2252,14 +2252,14 @@
   },
   "Dentsu": {
    "alerted": false,
-   "error": "",
-   "failures": 0,
+   "error": "HTTPError: HTTP 429",
+   "failures": 1,
    "seeded": true
   },
   "DraftKings": {
    "alerted": false,
-   "error": "",
-   "failures": 0,
+   "error": "HTTPError: HTTP 429",
+   "failures": 1,
    "seeded": true
   },
   "Duolingo": {
@@ -2276,8 +2276,8 @@
   },
   "Gartner": {
    "alerted": false,
-   "error": "",
-   "failures": 0,
+   "error": "HTTPError: HTTP 429",
+   "failures": 1,
    "seeded": true
   },
   "Glossier": {
@@ -2294,8 +2294,8 @@
   },
   "Guidehouse": {
    "alerted": false,
-   "error": "",
-   "failures": 0,
+   "error": "HTTPError: HTTP 429",
+   "failures": 1,
    "seeded": true
   },
   "Hasbro": {
@@ -2318,14 +2318,14 @@
   },
   "Huron": {
    "alerted": false,
-   "error": "",
-   "failures": 0,
+   "error": "HTTPError: HTTP 429",
+   "failures": 1,
    "seeded": true
   },
   "Johnson & Johnson": {
    "alerted": false,
-   "error": "",
-   "failures": 0,
+   "error": "HTTPError: HTTP 429",
+   "failures": 1,
    "seeded": true
   },
   "Klaviyo": {
@@ -2396,8 +2396,8 @@
   },
   "Pfizer": {
    "alerted": false,
-   "error": "",
-   "failures": 0,
+   "error": "HTTPError: HTTP 429",
+   "failures": 1,
    "seeded": true
   },
   "Pinterest": {
@@ -2414,8 +2414,8 @@
   },
   "Protiviti": {
    "alerted": false,
-   "error": "",
-   "failures": 0,
+   "error": "HTTPError: HTTP 429",
+   "failures": 1,
    "seeded": true
   },
   "Putnam / Inizio": {
@@ -2426,8 +2426,8 @@
   },
   "PwC": {
    "alerted": false,
-   "error": "",
-   "failures": 0,
+   "error": "HTTPError: HTTP 429",
+   "failures": 1,
    "seeded": true
   },
   "R/GA": {
@@ -2457,7 +2457,7 @@
   "Salesforce": {
    "alerted": false,
    "error": "HTTPError: HTTP 429",
-   "failures": 1,
+   "failures": 2,
    "seeded": true
   },
   "SeatGeek": {
@@ -2511,7 +2511,7 @@
   "Tapestry (Coach / Kate Spade)": {
    "alerted": false,
    "error": "HTTPError: HTTP 429",
-   "failures": 1,
+   "failures": 2,
    "seeded": true
   },
   "The New York Times": {
@@ -2535,7 +2535,7 @@
   "Trinity Life Sciences": {
    "alerted": false,
    "error": "HTTPError: HTTP 429",
-   "failures": 1,
+   "failures": 2,
    "seeded": true
   },
   "Twilio": {
@@ -2546,14 +2546,14 @@
   },
   "Unilever": {
    "alerted": false,
-   "error": "",
-   "failures": 0,
+   "error": "HTTPError: HTTP 429",
+   "failures": 1,
    "seeded": true
   },
   "Universal Music Group": {
    "alerted": false,
-   "error": "",
-   "failures": 0,
+   "error": "HTTPError: HTTP 429",
+   "failures": 1,
    "seeded": true
   },
   "VaynerMedia": {
@@ -2576,8 +2576,8 @@
   },
   "Workday": {
    "alerted": false,
-   "error": "",
-   "failures": 0,
+   "error": "HTTPError: HTTP 429",
+   "failures": 1,
    "seeded": true
   },
   "Yext": {

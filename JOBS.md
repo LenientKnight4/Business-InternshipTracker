@@ -1,6 +1,6 @@
 # Business internship tracker (marketing / sales / consulting / BD)
 
-_Updated 2026-11-16 01:54 UTC · watching 79 sources · ⚠️ 5 failing: Accenture, Cornerstone Research, Trinity Life Sciences, Tapestry (Coach / Kate Spade), Salesforce_
+_Updated 2026-11-16 09:30 UTC · watching 79 sources · ⚠️ 18 failing: Accenture, PwC, Booz Allen, Guidehouse, Huron, Protiviti, Cornerstone Research, Trinity Life Sciences, Gartner, Dentsu, Johnson & Johnson, Pfizer, Unilever, Tapestry (Coach / Kate Spade), Universal Music Group, Salesforce, Workday, DraftKings_
 
 ## 🎯 Marketing / sales / consulting / BD internships — open now (12)
 
@@ -95,30 +95,30 @@ _None right now._
 | Firm | System | Status | Matches open |
 |---|---|---|---|
 | BCG | eightfold | ✅ | 0 |
-| Accenture | workday | ⚠️ failing (1 runs): HTTPError: HTTP 429 | 0 |
-| PwC | workday | ✅ | 0 |
-| Booz Allen | workday | ✅ | 0 |
-| Guidehouse | workday | ✅ | 0 |
-| Huron | workday | ✅ | 0 |
-| Protiviti | workday | ✅ | 0 |
+| Accenture | workday | ⚠️ failing (2 runs): HTTPError: HTTP 429 | 0 |
+| PwC | workday | ⚠️ failing (1 runs): HTTPError: HTTP 429 | 0 |
+| Booz Allen | workday | ⚠️ failing (1 runs): HTTPError: HTTP 429 | 0 |
+| Guidehouse | workday | ⚠️ failing (1 runs): HTTPError: HTTP 429 | 0 |
+| Huron | workday | ⚠️ failing (1 runs): HTTPError: HTTP 429 | 0 |
+| Protiviti | workday | ⚠️ failing (1 runs): HTTPError: HTTP 429 | 0 |
 | Grant Thornton | oracle | ✅ | 0 |
-| Cornerstone Research | workday | ⚠️ failing (1 runs): HTTPError: HTTP 429 | 0 |
+| Cornerstone Research | workday | ⚠️ failing (2 runs): HTTPError: HTTP 429 | 0 |
 | Analysis Group | icims | ✅ | 0 |
-| Trinity Life Sciences | workday | ⚠️ failing (1 runs): HTTPError: HTTP 429 | 0 |
+| Trinity Life Sciences | workday | ⚠️ failing (2 runs): HTTPError: HTTP 429 | 0 |
 | Clearview Healthcare Partners | greenhouse | ✅ | 0 |
 | L.E.K. Consulting | oleeo | ✅ | 0 |
 | Oliver Wyman / Marsh McLennan | phenom | ✅ | 0 |
 | Putnam / Inizio | greenhouse | ✅ | 0 |
-| Gartner | workday | ✅ | 0 |
+| Gartner | workday | ⚠️ failing (1 runs): HTTPError: HTTP 429 | 0 |
 | WPP | greenhouse | ✅ | 0 |
-| Dentsu | workday | ✅ | 0 |
+| Dentsu | workday | ⚠️ failing (1 runs): HTTPError: HTTP 429 | 0 |
 | VaynerMedia | greenhouse | ✅ | 0 |
 | R/GA | greenhouse | ✅ | 0 |
 | P&G | phenom | ✅ | 1 |
-| Johnson & Johnson | workday | ✅ | 0 |
-| Pfizer | workday | ✅ | 0 |
-| Unilever | workday | ✅ | 0 |
-| Tapestry (Coach / Kate Spade) | workday | ⚠️ failing (1 runs): HTTPError: HTTP 429 | 9 |
+| Johnson & Johnson | workday | ⚠️ failing (1 runs): HTTPError: HTTP 429 | 0 |
+| Pfizer | workday | ⚠️ failing (1 runs): HTTPError: HTTP 429 | 0 |
+| Unilever | workday | ⚠️ failing (1 runs): HTTPError: HTTP 429 | 0 |
+| Tapestry (Coach / Kate Spade) | workday | ⚠️ failing (2 runs): HTTPError: HTTP 429 | 9 |
 | PVH (Calvin Klein / Tommy Hilfiger) | phenom | ✅ | 0 |
 | TJX | phenom | ✅ | 0 |
 | Boston Beer | oracle | ✅ | 1 |
@@ -130,15 +130,15 @@ _None right now._
 | SeatGeek | greenhouse | ✅ | 0 |
 | NBCUniversal | smartrecruiters | ✅ | 0 |
 | Warner Bros. Discovery | phenom | ✅ | 0 |
-| Universal Music Group | workday | ✅ | 0 |
+| Universal Music Group | workday | ⚠️ failing (1 runs): HTTPError: HTTP 429 | 0 |
 | Spotify | lever | ✅ | 0 |
 | The New York Times | greenhouse | ✅ | 27 |
 | Hearst | greenhouse | ✅ | 0 |
 | iHeartMedia | smartrecruiters | ✅ | 0 |
-| Salesforce | workday | ⚠️ failing (1 runs): HTTPError: HTTP 429 | 1 |
+| Salesforce | workday | ⚠️ failing (2 runs): HTTPError: HTTP 429 | 1 |
 | Oracle | oracle | ✅ | 0 |
 | Adobe | phenom | ✅ | 0 |
-| Workday | workday | ✅ | 0 |
+| Workday | workday | ⚠️ failing (1 runs): HTTPError: HTTP 429 | 0 |
 | ServiceNow | smartrecruiters | ✅ | 0 |
 | Amazon | amazon | ✅ | 0 |
 | HubSpot | greenhouse | ✅ | 0 |
@@ -147,7 +147,7 @@ _None right now._
 | Snowflake | ashby | ✅ | 0 |
 | Toast | greenhouse | ✅ | 0 |
 | Klaviyo | greenhouse | ✅ | 0 |
-| DraftKings | workday | ✅ | 0 |
+| DraftKings | workday | ⚠️ failing (1 runs): HTTPError: HTTP 429 | 0 |
 | ZoomInfo | greenhouse | ✅ | 0 |
 | Squarespace | greenhouse | ✅ | 0 |
 | Yext | greenhouse | ✅ | 0 |
