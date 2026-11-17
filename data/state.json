@@ -180,22 +180,12 @@
    "source": "Hasbro",
    "why": "summer 2027, no sign sophomores can apply"
   },
-  "gh:hasbro:4456744009": {
-   "ok": false,
-   "source": "Hasbro",
-   "why": "summer 2027, no sign sophomores can apply"
-  },
   "gh:hasbro:4468121009": {
    "ok": false,
    "source": "Hasbro",
    "why": "summer 2027, no sign sophomores can apply"
   },
   "gh:hasbro:4470038009": {
-   "ok": false,
-   "source": "Hasbro",
-   "why": "summer 2027, no sign sophomores can apply"
-  },
-  "gh:hasbro:4472128009": {
    "ok": false,
    "source": "Hasbro",
    "why": "summer 2027, no sign sophomores can apply"
@@ -2087,7 +2077,7 @@
   "Accenture": {
    "alerted": true,
    "error": "HTTPError: HTTP 429",
-   "failures": 3,
+   "failures": 4,
    "seeded": true
   },
   "Adobe": {
@@ -2151,9 +2141,9 @@
    "seeded": true
   },
   "Booz Allen": {
-   "alerted": false,
+   "alerted": true,
    "error": "HTTPError: HTTP 429",
-   "failures": 2,
+   "failures": 3,
    "seeded": true
   },
   "Boston Beer": {
@@ -2200,8 +2190,8 @@
   },
   "Cornerstone Research": {
    "alerted": false,
-   "error": "",
-   "failures": 0,
+   "error": "HTTPError: HTTP 429",
+   "failures": 1,
    "seeded": true
   },
   "Datadog": {
@@ -2211,15 +2201,15 @@
    "seeded": true
   },
   "Dentsu": {
-   "alerted": false,
+   "alerted": true,
    "error": "HTTPError: HTTP 429",
-   "failures": 2,
+   "failures": 3,
    "seeded": true
   },
   "DraftKings": {
-   "alerted": false,
+   "alerted": true,
    "error": "HTTPError: HTTP 429",
-   "failures": 2,
+   "failures": 3,
    "seeded": true
   },
   "Duolingo": {
@@ -2235,9 +2225,9 @@
    "seeded": true
   },
   "Gartner": {
-   "alerted": false,
+   "alerted": true,
    "error": "HTTPError: HTTP 429",
-   "failures": 2,
+   "failures": 3,
    "seeded": true
   },
   "Glossier": {
@@ -2253,9 +2243,9 @@
    "seeded": true
   },
   "Guidehouse": {
-   "alerted": false,
+   "alerted": true,
    "error": "HTTPError: HTTP 429",
-   "failures": 2,
+   "failures": 3,
    "seeded": true
   },
   "Hasbro": {
@@ -2277,15 +2267,15 @@
    "seeded": true
   },
   "Huron": {
-   "alerted": false,
+   "alerted": true,
    "error": "HTTPError: HTTP 429",
-   "failures": 2,
+   "failures": 3,
    "seeded": true
   },
   "Johnson & Johnson": {
-   "alerted": false,
+   "alerted": true,
    "error": "HTTPError: HTTP 429",
-   "failures": 2,
+   "failures": 3,
    "seeded": true
   },
   "Klaviyo": {
@@ -2355,9 +2345,9 @@
    "seeded": true
   },
   "Pfizer": {
-   "alerted": false,
+   "alerted": true,
    "error": "HTTPError: HTTP 429",
-   "failures": 2,
+   "failures": 3,
    "seeded": true
   },
   "Pinterest": {
@@ -2373,9 +2363,9 @@
    "seeded": true
   },
   "Protiviti": {
-   "alerted": false,
+   "alerted": true,
    "error": "HTTPError: HTTP 429",
-   "failures": 2,
+   "failures": 3,
    "seeded": true
   },
   "Putnam / Inizio": {
@@ -2385,9 +2375,9 @@
    "seeded": true
   },
   "PwC": {
-   "alerted": false,
+   "alerted": true,
    "error": "HTTPError: HTTP 429",
-   "failures": 2,
+   "failures": 3,
    "seeded": true
   },
   "R/GA": {
@@ -2417,7 +2407,7 @@
   "Salesforce": {
    "alerted": true,
    "error": "HTTPError: HTTP 429",
-   "failures": 3,
+   "failures": 4,
    "seeded": true
   },
   "SeatGeek": {
@@ -2471,7 +2461,7 @@
   "Tapestry (Coach / Kate Spade)": {
    "alerted": true,
    "error": "HTTPError: HTTP 429",
-   "failures": 3,
+   "failures": 4,
    "seeded": true
   },
   "The New York Times": {
@@ -2495,7 +2485,7 @@
   "Trinity Life Sciences": {
    "alerted": true,
    "error": "HTTPError: HTTP 429",
-   "failures": 3,
+   "failures": 4,
    "seeded": true
   },
   "Twilio": {
@@ -2505,15 +2495,15 @@
    "seeded": true
   },
   "Unilever": {
-   "alerted": false,
+   "alerted": true,
    "error": "HTTPError: HTTP 429",
-   "failures": 2,
+   "failures": 3,
    "seeded": true
   },
   "Universal Music Group": {
-   "alerted": false,
+   "alerted": true,
    "error": "HTTPError: HTTP 429",
-   "failures": 2,
+   "failures": 3,
    "seeded": true
   },
   "VaynerMedia": {
@@ -2535,9 +2525,9 @@
    "seeded": true
   },
   "Workday": {
-   "alerted": false,
+   "alerted": true,
    "error": "HTTPError: HTTP 429",
-   "failures": 2,
+   "failures": 3,
    "seeded": true
   },
   "Yext": {
