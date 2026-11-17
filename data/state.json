@@ -120,11 +120,6 @@
    "source": "Coinbase",
    "why": "no class year listed; check eligibility"
   },
-  "gh:coinbase:8175514": {
-   "ok": true,
-   "source": "Coinbase",
-   "why": "no class year listed; check eligibility"
-  },
   "gh:coinbase:8175517": {
    "ok": true,
    "source": "Coinbase",
@@ -540,17 +535,7 @@
    "source": "NBCUniversal",
    "why": "for class of 2027"
   },
-  "sr:NBCUniversal3:744000161093625": {
-   "ok": false,
-   "source": "NBCUniversal",
-   "why": "for class of 2027"
-  },
   "sr:NBCUniversal3:744000161096049": {
-   "ok": false,
-   "source": "NBCUniversal",
-   "why": "for class of 2027"
-  },
-  "sr:NBCUniversal3:744000161096298": {
    "ok": false,
    "source": "NBCUniversal",
    "why": "for class of 2027"
@@ -566,6 +551,16 @@
    "why": "for class of 2027"
   },
   "sr:NBCUniversal3:744000161897114": {
+   "ok": false,
+   "source": "NBCUniversal",
+   "why": "for class of 2027"
+  },
+  "sr:NBCUniversal3:744000162090202": {
+   "ok": false,
+   "source": "NBCUniversal",
+   "why": "for class of 2027"
+  },
+  "sr:NBCUniversal3:744000162090679": {
    "ok": false,
    "source": "NBCUniversal",
    "why": "for class of 2027"
@@ -1344,12 +1339,12 @@
    "url": "https://www.coinbase.com/careers/positions/8175510?gh_jid=8175510"
   },
   "gh:coinbase:8175514": {
-   "closed": null,
+   "closed": "2026-11-17T20:47:53+00:00",
    "firm": "Coinbase",
    "fit": "no class year listed; check eligibility",
    "found": "2026-11-08T09:26:28+00:00",
    "location": "Hybrid - New York, NY",
-   "open": true,
+   "open": false,
    "posted": "2026-09-08",
    "priority": "low",
    "source": "Coinbase",
@@ -2077,7 +2072,7 @@
   "Accenture": {
    "alerted": true,
    "error": "HTTPError: HTTP 429",
-   "failures": 5,
+   "failures": 6,
    "seeded": true
   },
   "Adobe": {
@@ -2143,7 +2138,7 @@
   "Booz Allen": {
    "alerted": true,
    "error": "HTTPError: HTTP 429",
-   "failures": 4,
+   "failures": 5,
    "seeded": true
   },
   "Boston Beer": {
@@ -2209,7 +2204,7 @@
   "DraftKings": {
    "alerted": true,
    "error": "HTTPError: HTTP 429",
-   "failures": 4,
+   "failures": 5,
    "seeded": true
   },
   "Duolingo": {
@@ -2227,7 +2222,7 @@
   "Gartner": {
    "alerted": true,
    "error": "HTTPError: HTTP 429",
-   "failures": 4,
+   "failures": 5,
    "seeded": true
   },
   "Glossier": {
@@ -2245,7 +2240,7 @@
   "Guidehouse": {
    "alerted": true,
    "error": "HTTPError: HTTP 429",
-   "failures": 4,
+   "failures": 5,
    "seeded": true
   },
   "Hasbro": {
@@ -2269,13 +2264,13 @@
   "Huron": {
    "alerted": true,
    "error": "HTTPError: HTTP 429",
-   "failures": 4,
+   "failures": 5,
    "seeded": true
   },
   "Johnson & Johnson": {
    "alerted": true,
    "error": "HTTPError: HTTP 429",
-   "failures": 4,
+   "failures": 5,
    "seeded": true
   },
   "Klaviyo": {
@@ -2347,7 +2342,7 @@
   "Pfizer": {
    "alerted": true,
    "error": "HTTPError: HTTP 429",
-   "failures": 4,
+   "failures": 5,
    "seeded": true
   },
   "Pinterest": {
@@ -2365,7 +2360,7 @@
   "Protiviti": {
    "alerted": true,
    "error": "HTTPError: HTTP 429",
-   "failures": 4,
+   "failures": 5,
    "seeded": true
   },
   "Putnam / Inizio": {
@@ -2377,7 +2372,7 @@
   "PwC": {
    "alerted": true,
    "error": "HTTPError: HTTP 429",
-   "failures": 4,
+   "failures": 5,
    "seeded": true
   },
   "R/GA": {
@@ -2407,7 +2402,7 @@
   "Salesforce": {
    "alerted": true,
    "error": "HTTPError: HTTP 429",
-   "failures": 5,
+   "failures": 6,
    "seeded": true
   },
   "SeatGeek": {
@@ -2430,8 +2425,8 @@
   },
   "Spotify": {
    "alerted": false,
-   "error": "HTTPError: HTTP 500",
-   "failures": 1,
+   "error": "",
+   "failures": 0,
    "seeded": true
   },
   "Squarespace": {
@@ -2461,7 +2456,7 @@
   "Tapestry (Coach / Kate Spade)": {
    "alerted": true,
    "error": "HTTPError: HTTP 429",
-   "failures": 5,
+   "failures": 6,
    "seeded": true
   },
   "The New York Times": {
@@ -2485,7 +2480,7 @@
   "Trinity Life Sciences": {
    "alerted": true,
    "error": "HTTPError: HTTP 429",
-   "failures": 5,
+   "failures": 6,
    "seeded": true
   },
   "Twilio": {
@@ -2497,13 +2492,13 @@
   "Unilever": {
    "alerted": true,
    "error": "HTTPError: HTTP 429",
-   "failures": 4,
+   "failures": 5,
    "seeded": true
   },
   "Universal Music Group": {
    "alerted": true,
    "error": "HTTPError: HTTP 429",
-   "failures": 4,
+   "failures": 5,
    "seeded": true
   },
   "VaynerMedia": {
@@ -2527,7 +2522,7 @@
   "Workday": {
    "alerted": true,
    "error": "HTTPError: HTTP 429",
-   "failures": 4,
+   "failures": 5,
    "seeded": true
   },
   "Yext": {
