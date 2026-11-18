@@ -28,6 +28,7 @@ FAIL_ALERT_AFTER = 3          # consecutive failed runs before you get a "source
 MAX_SINGLE_PUSHES = 8         # more new matches than this in one run -> one combined push
 RANK = {"low": 0, "medium": 1, "high": 2}
 HEARTBEAT_EVERY = timedelta(days=7)
+RUN_DEADLINE = 11 * 60         # seconds; sites still not done by then are skipped so GitHub's 15-minute limit isn't hit
 
 
 def load_yaml(name):
@@ -124,8 +125,12 @@ def main():
     newly_seeded = []          # (source name, jobs) for sources checked for the first time
     failing_alerts, recoveries = [], []
 
-    with cf.ThreadPoolExecutor(max_workers=16) as ex:
-        results = list(ex.map(lambda s: fetch(s, terms, matcher, dict(known)), todo))
+    ex = cf.ThreadPoolExecutor(max_workers=16)
+    futures = {ex.submit(fetch, s, terms, matcher, dict(known)): s for s in todo}
+    done, _ = cf.wait(futures, timeout=RUN_DEADLINE)
+    results = [f.result() if f in done else (s, None, f"didn't finish within {RUN_DEADLINE // 60} minutes")
+               for f, s in futures.items()]
+    ex.shutdown(wait=False, cancel_futures=True)
 
     for src, found, err in results:
         name = src["name"]
@@ -242,9 +247,13 @@ def main():
             push(f"Tracker can't check {name}",
                  f"Failed {FAIL_ALERT_AFTER} runs in a row: {err}\nCheck that firm by hand until it recovers.",
                  priority=3, url=dash, tags=["warning"], dry_run=args.dry_run)
-    for name in recoveries:
-        push(f"{name} is back", "The tracker can check this firm again.", priority=2, tags=["white_check_mark"],
-             dry_run=args.dry_run)
+    if len(recoveries) > 3:
+        push(f"{len(recoveries)} firms are back", "The tracker can check these again: " + ", ".join(recoveries),
+             priority=2, tags=["white_check_mark"], dry_run=args.dry_run)
+    else:
+        for name in recoveries:
+            push(f"{name} is back", "The tracker can check this firm again.", priority=2, tags=["white_check_mark"],
+                 dry_run=args.dry_run)
 
     last_hb = state.get("last_heartbeat")
     if last_hb and now_dt - datetime.fromisoformat(last_hb) >= HEARTBEAT_EVERY:
@@ -277,4 +286,6 @@ def main():
 
 
 if __name__ == "__main__":
-    sys.exit(main())
+    code = main()
+    sys.stdout.flush()
+    os._exit(code or 0)  # exit now even if a site never answered (its thread would otherwise keep us waiting)

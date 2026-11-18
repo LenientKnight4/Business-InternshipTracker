@@ -10,6 +10,7 @@ class years can apply.
 import html
 import json
 import re
+import threading
 import time
 from dataclasses import dataclass
 from urllib.parse import quote, urljoin
@@ -74,6 +75,51 @@ def _json(r):
         raise SourceError("response was not JSON (site format may have changed)") from None
 
 
+class _Throttle:
+    """Workday limits how many requests it accepts from GitHub's shared servers, so all
+    Workday requests go one at a time, spaced out. A 429 ("too many requests") pauses
+    every Workday request for a while; if Workday keeps refusing, the rest of this run's
+    Workday checks fail fast instead of waiting forever."""
+
+    def __init__(self, interval, pauses=(30, 60, 120)):
+        self.lock = threading.Lock()
+        self.interval = interval
+        self.pauses = pauses
+        self.next_ok = 0.0
+        self.blocked = False
+
+    def request(self, s, method, url, **kw):
+        for attempt in range(len(self.pauses) + 1):
+            with self.lock:  # held while pausing, so a 429 pauses every Workday check at once
+                if self.blocked:
+                    raise SourceError("HTTP 429: Workday is refusing requests from this server right now")
+                time.sleep(max(0.0, self.next_ok - time.time()))
+                started = time.time()  # space requests by start time, so slow responses don't add up
+                try:
+                    r = s.request(method, url, timeout=TIMEOUT, **kw)
+                except requests.RequestException as e:
+                    self.next_ok = started + self.interval
+                    if attempt == len(self.pauses):
+                        raise SourceError(f"{type(e).__name__}: {e}"[:200]) from None
+                    continue
+                if r.status_code != 429:
+                    self.next_ok = started + self.interval
+                    break
+                if attempt == len(self.pauses):
+                    self.blocked = True
+                    raise SourceError("HTTP 429: Workday is refusing requests from this server right now")
+                retry_after = r.headers.get("Retry-After", "")
+                pause = min(max(self.pauses[attempt], int(retry_after) if retry_after.isdigit() else 0), 120)
+                print(f"Workday said too many requests; pausing all Workday checks {pause}s ({url.split('/')[2]})", flush=True)
+                self.next_ok = time.time() + pause
+        if r.status_code >= 400:
+            raise SourceError(f"HTTP {r.status_code} from Workday")
+        return r
+
+
+WORKDAY = _Throttle(interval=1.5)
+
+
 # --- Workday (most asset managers and many banks) ---------------------------
 
 def workday(src, terms):
@@ -82,11 +128,12 @@ def workday(src, terms):
     api = f"{base}/wday/cxs/{t}/{site}/jobs"
     s = _session()
     jobs = {}
-    for q in terms:
+    # Year searches ("2027") never found anything extra on Workday, so skip them to stay under its limit
+    for q in [t for t in terms if not t.isdigit()] or terms:
         offset, total = 0, None
         while True:
             body = {"appliedFacets": {}, "limit": 20, "offset": offset, "searchText": q}
-            data = _json(_request(s, "POST", api, json=body))
+            data = _json(WORKDAY.request(s, "POST", api, json=body))
             if "jobPostings" not in data:
                 raise SourceError("unexpected Workday response")
             if total is None:  # Workday only reports the total on the first page
@@ -104,7 +151,6 @@ def workday(src, terms):
             offset += 20
             if not posts or offset >= min(total, MAX_RESULTS_PER_QUERY):
                 break
-            time.sleep(0.3)
     return list(jobs.values())
 
 
@@ -408,7 +454,7 @@ def describe(src, job):
     t = src["type"]
     s = _session()
     if t == "workday" and job.detail:
-        info = _json(_request(s, "GET", job.detail)).get("jobPostingInfo") or {}
+        info = _json(WORKDAY.request(s, "GET", job.detail)).get("jobPostingInfo") or {}
         return _text(info.get("jobDescription"))
     if t == "oracle" and job.detail:
         items = _json(_request(s, "GET", job.detail)).get("items") or [{}]
