@@ -45,16 +45,6 @@
    "source": "Ramp",
    "why": "for class of 2027"
   },
-  "ef:bcg.com:790318711565": {
-   "ok": false,
-   "source": "BCG",
-   "why": "for class of 2027/2028"
-  },
-  "ef:bcg.com:790318711566": {
-   "ok": false,
-   "source": "BCG",
-   "why": "for class of 2027/2028"
-  },
   "gh:braze:8301086": {
    "ok": true,
    "source": "Braze",
@@ -344,11 +334,6 @@
    "ok": true,
    "source": "The New York Times",
    "why": "no class year listed; check eligibility"
-  },
-  "oracle:eeho.fa.us2.oraclecloud.com:334366": {
-   "ok": false,
-   "source": "Oracle",
-   "why": "not in NYC / Boston"
   },
   "oracle:eeho.fa.us2.oraclecloud.com:334371": {
    "ok": false,
@@ -1149,16 +1134,6 @@
    "ok": true,
    "source": "Tapestry (Coach / Kate Spade)",
    "why": "no class year listed; check eligibility"
-  },
-  "wd:trinitylifesciences:JR100879": {
-   "ok": false,
-   "source": "Trinity Life Sciences",
-   "why": "for rising seniors"
-  },
-  "wd:trinitylifesciences:JR100881": {
-   "ok": false,
-   "source": "Trinity Life Sciences",
-   "why": "for rising seniors"
   }
  },
  "fit_grad": "2029",
@@ -2067,7 +2042,7 @@
   "Accenture": {
    "alerted": true,
    "error": "HTTPError: HTTP 429",
-   "failures": 7,
+   "failures": 8,
    "seeded": true
   },
   "Adobe": {
@@ -2133,7 +2108,7 @@
   "Booz Allen": {
    "alerted": true,
    "error": "HTTPError: HTTP 429",
-   "failures": 6,
+   "failures": 7,
    "seeded": true
   },
   "Boston Beer": {
@@ -2193,13 +2168,13 @@
   "Dentsu": {
    "alerted": false,
    "error": "HTTPError: HTTP 429",
-   "failures": 1,
+   "failures": 2,
    "seeded": true
   },
   "DraftKings": {
-   "alerted": true,
-   "error": "HTTPError: HTTP 429",
-   "failures": 6,
+   "alerted": false,
+   "error": "",
+   "failures": 0,
    "seeded": true
   },
   "Duolingo": {
@@ -2217,7 +2192,7 @@
   "Gartner": {
    "alerted": true,
    "error": "HTTPError: HTTP 429",
-   "failures": 6,
+   "failures": 7,
    "seeded": true
   },
   "Glossier": {
@@ -2235,7 +2210,7 @@
   "Guidehouse": {
    "alerted": true,
    "error": "HTTPError: HTTP 429",
-   "failures": 6,
+   "failures": 7,
    "seeded": true
   },
   "Hasbro": {
@@ -2259,13 +2234,13 @@
   "Huron": {
    "alerted": true,
    "error": "HTTPError: HTTP 429",
-   "failures": 6,
+   "failures": 7,
    "seeded": true
   },
   "Johnson & Johnson": {
    "alerted": true,
    "error": "HTTPError: HTTP 429",
-   "failures": 6,
+   "failures": 7,
    "seeded": true
   },
   "Klaviyo": {
@@ -2337,7 +2312,7 @@
   "Pfizer": {
    "alerted": true,
    "error": "HTTPError: HTTP 429",
-   "failures": 6,
+   "failures": 7,
    "seeded": true
   },
   "Pinterest": {
@@ -2355,7 +2330,7 @@
   "Protiviti": {
    "alerted": true,
    "error": "HTTPError: HTTP 429",
-   "failures": 6,
+   "failures": 7,
    "seeded": true
   },
   "Putnam / Inizio": {
@@ -2367,7 +2342,7 @@
   "PwC": {
    "alerted": true,
    "error": "HTTPError: HTTP 429",
-   "failures": 6,
+   "failures": 7,
    "seeded": true
   },
   "R/GA": {
@@ -2397,7 +2372,7 @@
   "Salesforce": {
    "alerted": true,
    "error": "HTTPError: HTTP 429",
-   "failures": 7,
+   "failures": 8,
    "seeded": true
   },
   "SeatGeek": {
@@ -2450,8 +2425,8 @@
   },
   "Tapestry (Coach / Kate Spade)": {
    "alerted": false,
-   "error": "",
-   "failures": 0,
+   "error": "HTTPError: HTTP 429",
+   "failures": 1,
    "seeded": true
   },
   "The New York Times": {
@@ -2473,9 +2448,9 @@
    "seeded": true
   },
   "Trinity Life Sciences": {
-   "alerted": true,
-   "error": "HTTPError: HTTP 429",
-   "failures": 7,
+   "alerted": false,
+   "error": "",
+   "failures": 0,
    "seeded": true
   },
   "Twilio": {
@@ -2487,13 +2462,13 @@
   "Unilever": {
    "alerted": true,
    "error": "HTTPError: HTTP 429",
-   "failures": 6,
+   "failures": 7,
    "seeded": true
   },
   "Universal Music Group": {
    "alerted": false,
-   "error": "",
-   "failures": 0,
+   "error": "HTTPError: HTTP 429",
+   "failures": 1,
    "seeded": true
   },
   "VaynerMedia": {
@@ -2517,7 +2492,7 @@
   "Workday": {
    "alerted": true,
    "error": "HTTPError: HTTP 429",
-   "failures": 6,
+   "failures": 7,
    "seeded": true
   },
   "Yext": {
