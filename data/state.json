@@ -55,11 +55,6 @@
    "source": "BCG",
    "why": "for class of 2027/2028"
   },
-  "gh:airbnb:8380007": {
-   "ok": false,
-   "source": "Airbnb",
-   "why": "not in NYC / Boston"
-  },
   "gh:braze:8301086": {
    "ok": true,
    "source": "Braze",
@@ -1956,7 +1951,7 @@
    "found": "2026-11-13T18:43:04+00:00",
    "location": "New York, New York, USA (Corporate Headquarters)",
    "open": true,
-   "posted": "Posted 2 Days Ago",
+   "posted": "Posted 4 Days Ago",
    "priority": "low",
    "source": "Tapestry (Coach / Kate Spade)",
    "title": "Summer Buying & Planning Internship",
@@ -1969,7 +1964,7 @@
    "found": "2026-11-13T18:43:04+00:00",
    "location": "New York, New York, USA (Corporate Headquarters)",
    "open": true,
-   "posted": "Posted 2 Days Ago",
+   "posted": "Posted 4 Days Ago",
    "priority": "low",
    "source": "Tapestry (Coach / Kate Spade)",
    "title": "Summer Corporate Communications, Talent Acquisition, & Human Resources Internship",
@@ -1982,7 +1977,7 @@
    "found": "2026-11-13T18:43:04+00:00",
    "location": "New York, New York, USA (Corporate Headquarters)",
    "open": true,
-   "posted": "Posted 2 Days Ago",
+   "posted": "Posted 4 Days Ago",
    "priority": "medium",
    "source": "Tapestry (Coach / Kate Spade)",
    "title": "Summer eCommerce & Digital Internship",
@@ -1995,7 +1990,7 @@
    "found": "2026-11-13T18:43:04+00:00",
    "location": "New York, New York, USA (Corporate Headquarters)",
    "open": true,
-   "posted": "Posted 2 Days Ago",
+   "posted": "Posted 4 Days Ago",
    "priority": "low",
    "source": "Tapestry (Coach / Kate Spade)",
    "title": "Summer ESG, Sustainability, & Trade Compliance Internship",
@@ -2008,7 +2003,7 @@
    "found": "2026-11-13T18:43:04+00:00",
    "location": "New York, New York, USA (Corporate Headquarters)",
    "open": true,
-   "posted": "Posted 2 Days Ago",
+   "posted": "Posted 4 Days Ago",
    "priority": "low",
    "source": "Tapestry (Coach / Kate Spade)",
    "title": "Summer Finance Internship",
@@ -2021,7 +2016,7 @@
    "found": "2026-11-13T18:43:04+00:00",
    "location": "New York, New York, USA (Corporate Headquarters)",
    "open": true,
-   "posted": "Posted 2 Days Ago",
+   "posted": "Posted 4 Days Ago",
    "priority": "low",
    "source": "Tapestry (Coach / Kate Spade)",
    "title": "Summer Global Supply Chain and Product Development Operations Internship",
@@ -2034,7 +2029,7 @@
    "found": "2026-11-13T18:43:04+00:00",
    "location": "New York, New York, USA (Corporate Headquarters)",
    "open": true,
-   "posted": "Posted 2 Days Ago",
+   "posted": "Posted 4 Days Ago",
    "priority": "low",
    "source": "Tapestry (Coach / Kate Spade)",
    "title": "Summer IT, Digital & Data Analytics Internship",
@@ -2047,7 +2042,7 @@
    "found": "2026-11-13T18:43:04+00:00",
    "location": "New York, New York, USA (Corporate Headquarters)",
    "open": true,
-   "posted": "Posted 2 Days Ago",
+   "posted": "Posted 4 Days Ago",
    "priority": "high",
    "source": "Tapestry (Coach / Kate Spade)",
    "title": "Summer Marketing Internship",
@@ -2060,7 +2055,7 @@
    "found": "2026-11-13T18:43:04+00:00",
    "location": "New York, New York, USA (Corporate Headquarters)",
    "open": true,
-   "posted": "Posted 2 Days Ago",
+   "posted": "Posted 4 Days Ago",
    "priority": "medium",
    "source": "Tapestry (Coach / Kate Spade)",
    "title": "Summer Wholesale & Merchandising Internship",
@@ -2072,7 +2067,7 @@
   "Accenture": {
    "alerted": true,
    "error": "HTTPError: HTTP 429",
-   "failures": 6,
+   "failures": 7,
    "seeded": true
   },
   "Adobe": {
@@ -2138,7 +2133,7 @@
   "Booz Allen": {
    "alerted": true,
    "error": "HTTPError: HTTP 429",
-   "failures": 5,
+   "failures": 6,
    "seeded": true
   },
   "Boston Beer": {
@@ -2197,14 +2192,14 @@
   },
   "Dentsu": {
    "alerted": false,
-   "error": "",
-   "failures": 0,
+   "error": "HTTPError: HTTP 429",
+   "failures": 1,
    "seeded": true
   },
   "DraftKings": {
    "alerted": true,
    "error": "HTTPError: HTTP 429",
-   "failures": 5,
+   "failures": 6,
    "seeded": true
   },
   "Duolingo": {
@@ -2222,7 +2217,7 @@
   "Gartner": {
    "alerted": true,
    "error": "HTTPError: HTTP 429",
-   "failures": 5,
+   "failures": 6,
    "seeded": true
   },
   "Glossier": {
@@ -2240,7 +2235,7 @@
   "Guidehouse": {
    "alerted": true,
    "error": "HTTPError: HTTP 429",
-   "failures": 5,
+   "failures": 6,
    "seeded": true
   },
   "Hasbro": {
@@ -2264,13 +2259,13 @@
   "Huron": {
    "alerted": true,
    "error": "HTTPError: HTTP 429",
-   "failures": 5,
+   "failures": 6,
    "seeded": true
   },
   "Johnson & Johnson": {
    "alerted": true,
    "error": "HTTPError: HTTP 429",
-   "failures": 5,
+   "failures": 6,
    "seeded": true
   },
   "Klaviyo": {
@@ -2342,7 +2337,7 @@
   "Pfizer": {
    "alerted": true,
    "error": "HTTPError: HTTP 429",
-   "failures": 5,
+   "failures": 6,
    "seeded": true
   },
   "Pinterest": {
@@ -2360,7 +2355,7 @@
   "Protiviti": {
    "alerted": true,
    "error": "HTTPError: HTTP 429",
-   "failures": 5,
+   "failures": 6,
    "seeded": true
   },
   "Putnam / Inizio": {
@@ -2372,7 +2367,7 @@
   "PwC": {
    "alerted": true,
    "error": "HTTPError: HTTP 429",
-   "failures": 5,
+   "failures": 6,
    "seeded": true
   },
   "R/GA": {
@@ -2402,7 +2397,7 @@
   "Salesforce": {
    "alerted": true,
    "error": "HTTPError: HTTP 429",
-   "failures": 6,
+   "failures": 7,
    "seeded": true
   },
   "SeatGeek": {
@@ -2454,9 +2449,9 @@
    "seeded": true
   },
   "Tapestry (Coach / Kate Spade)": {
-   "alerted": true,
-   "error": "HTTPError: HTTP 429",
-   "failures": 6,
+   "alerted": false,
+   "error": "",
+   "failures": 0,
    "seeded": true
   },
   "The New York Times": {
@@ -2480,7 +2475,7 @@
   "Trinity Life Sciences": {
    "alerted": true,
    "error": "HTTPError: HTTP 429",
-   "failures": 6,
+   "failures": 7,
    "seeded": true
   },
   "Twilio": {
@@ -2492,13 +2487,13 @@
   "Unilever": {
    "alerted": true,
    "error": "HTTPError: HTTP 429",
-   "failures": 5,
+   "failures": 6,
    "seeded": true
   },
   "Universal Music Group": {
-   "alerted": true,
-   "error": "HTTPError: HTTP 429",
-   "failures": 5,
+   "alerted": false,
+   "error": "",
+   "failures": 0,
    "seeded": true
   },
   "VaynerMedia": {
@@ -2522,7 +2517,7 @@
   "Workday": {
    "alerted": true,
    "error": "HTTPError: HTTP 429",
-   "failures": 5,
+   "failures": 6,
    "seeded": true
   },
   "Yext": {
