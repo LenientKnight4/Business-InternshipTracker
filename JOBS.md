@@ -1,35 +1,25 @@
 # Business internship tracker (marketing / sales / consulting / BD)
 
-_Updated 2026-11-18 11:29 UTC · watching 79 sources · ⚠️ 15 failing: Accenture, PwC, Booz Allen, Guidehouse, Huron, Protiviti, Gartner, Dentsu, Johnson & Johnson, Pfizer, Unilever, Tapestry (Coach / Kate Spade), Universal Music Group, Salesforce, Workday_
+_Updated 2026-11-18 19:33 UTC · watching 79 sources · ⚠️ 16 failing: Accenture, PwC, Booz Allen, Guidehouse, Huron, Protiviti, Trinity Life Sciences, Gartner, Dentsu, Johnson & Johnson, Unilever, Tapestry (Coach / Kate Spade), Universal Music Group, Salesforce, Workday, DraftKings_
 
-## 🎯 Marketing / sales / consulting / BD internships — open now (10)
+## 🎯 Marketing / sales / consulting / BD internships — open now (3)
 
 | Found | Firm | Role | Location | Who can apply |
 |---|---|---|---|---|
 | 2026-11-14 | Salesforce | [Summer 2027 Intern - Sales Immersion, Financial Services](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/New-York---New-York/Summer-2027-Intern---Sales-Immersion--Financial-Services_JR368293-1) | New York - New York | open to sophomores |
 | 2026-11-13 | Tapestry (Coach / Kate Spade) | [Summer Marketing Internship](https://tapestry.wd108.myworkdayjobs.com/Tapestry_Careers/job/New-York-New-York-USA-Corporate-Headquarters/Summer-Marketing-Internship_JR20970) | New York, New York, USA (Corporate Headquarters) | no class year listed; check eligibility |
-| 2026-11-12 | The New York Times | [B2B Subscriptions, Marketing Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4753228005) | New York, NY | no class year listed; check eligibility |
-| 2026-11-08 | The New York Times | [Marketing Intern, Wirecutter](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748485005) | New York, NY | no class year listed; check eligibility |
-| 2026-11-08 | The New York Times | [Advertising Business Operations & Enablement Operations Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748487005) | New York, NY | no class year listed; check eligibility |
-| 2026-11-08 | The New York Times | [Advertising Revenue Operations Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748489005) | New York, NY | no class year listed; check eligibility |
-| 2026-11-08 | The New York Times | [Advertising Marketing Measurement Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4750498005) | New York, NY | no class year listed; check eligibility |
 | 2026-11-08 | The New York Times | [Copywriter, TBrand Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4750883005) | New York, NY | no class year listed; check eligibility |
-| 2026-11-08 | The New York Times | [Advertising Marketing Design Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751089005) | New York, NY | open to sophomores |
-| 2026-11-08 | The New York Times | [Advertising Events & Socials Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751091005) | New York, NY | no class year listed; check eligibility |
 
-## Related internships (comms, PR, media, client roles) — open now (7)
+## Related internships (comms, PR, media, client roles) — open now (4)
 
 | Found | Firm | Role | Location | Who can apply |
 |---|---|---|---|---|
 | 2026-11-13 | Tapestry (Coach / Kate Spade) | [Summer eCommerce & Digital Internship](https://tapestry.wd108.myworkdayjobs.com/Tapestry_Careers/job/New-York-New-York-USA-Corporate-Headquarters/Summer-eCommerce---Digital-Internship_JR20960) | New York, New York, USA (Corporate Headquarters) | no class year listed; check eligibility |
 | 2026-11-13 | Tapestry (Coach / Kate Spade) | [Summer Wholesale & Merchandising Internship](https://tapestry.wd108.myworkdayjobs.com/Tapestry_Careers/job/New-York-New-York-USA-Corporate-Headquarters/Summer-Wholesale---Merchandising-Internship_JR20971) | New York, New York, USA (Corporate Headquarters) | no class year listed; check eligibility |
-| 2026-11-10 | The New York Times | [Audience Insights Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4752928005) | New York, NY | no class year listed; check eligibility |
-| 2026-11-08 | The New York Times | [Creative Development Intern, Wirecutter](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748297005) | New York, NY | no class year listed; check eligibility |
 | 2026-11-08 | The New York Times | [Editorial Projects Intern, Wirecutter](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748499005) | New York, NY | no class year listed; check eligibility |
 | 2026-11-08 | The New York Times | [Audience Team Intern, Wirecutter](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748501005) | New York, NY | no class year listed; check eligibility |
-| 2026-11-08 | The New York Times | [Creative Production, TBrand Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4750885005) | New York, NY | no class year listed; check eligibility |
 
-<details><summary><b>Lower priority (tech, finance, ops, events) — open now (33)</b></summary>
+<details><summary><b>Lower priority (tech, finance, ops, events) — open now (30)</b></summary>
 
 
 | Found | Firm | Role | Location | Who can apply |
@@ -62,23 +52,30 @@ _Updated 2026-11-18 11:29 UTC · watching 79 sources · ⚠️ 15 failing: Accen
 | 2026-11-08 | Pinterest | [UX Quantitative Research Intern (USA)](https://www.pinterestcareers.com/jobs/?gh_jid=8140217) | Remote, US; San Francisco, CA, US; Seattle, WA, US; New York | no class year listed; check eligibility |
 | 2026-11-08 | The New York Times | [Kitchen Team Intern, Wirecutter](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748503005) | New York, NY | no class year listed; check eligibility |
 | 2026-11-08 | The New York Times | [Editorial Design Intern, Wirecutter](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748518005) | New York, NY | no class year listed; check eligibility |
-| 2026-11-08 | The New York Times | [Interactive News Engineering Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751790005) | New York, NY | no class year listed; check eligibility |
-| 2026-11-08 | The New York Times | [Android Engineering Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751917005) | New York, NY | no class year listed; check eligibility |
-| 2026-11-08 | The New York Times | [iOS Engineering Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751919005) | New York, NY | no class year listed; check eligibility |
 | 2026-11-08 | Boston Beer | [Sensory R&D Co-op](https://hcrb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/17404) | Boston, MA, United States | no class year listed; check eligibility |
 | 2026-11-08 | P&G | [Engineering Internship, Summer 2027](https://www.pgcareers.com/global/en/job/R000157841) | BOSTON, Massachusetts, United States of America | open to class of 2029 |
 
 
 </details>
 
-<details><summary><b>Closed in the last 30 days (3)</b></summary>
+<details><summary><b>Closed in the last 30 days (13)</b></summary>
 
 
 | Found | Firm | Role | Location | Who can apply | Closed |
 |---|---|---|---|---|---|
+| 2026-11-12 | The New York Times | [B2B Subscriptions, Marketing Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4753228005) | New York, NY | no class year listed; check eligibility | 2026-11-18 |
+| 2026-11-10 | The New York Times | [Audience Insights Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4752928005) | New York, NY | no class year listed; check eligibility | 2026-11-18 |
 | 2026-11-08 | The New York Times | [Communications Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748228005) | New York, NY | no class year listed; check eligibility | 2026-11-16 |
+| 2026-11-08 | The New York Times | [Creative Development Intern, Wirecutter](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748297005) | New York, NY | no class year listed; check eligibility | 2026-11-18 |
+| 2026-11-08 | The New York Times | [Marketing Intern, Wirecutter](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748485005) | New York, NY | no class year listed; check eligibility | 2026-11-18 |
+| 2026-11-08 | The New York Times | [Advertising Business Operations & Enablement Operations Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748487005) | New York, NY | no class year listed; check eligibility | 2026-11-18 |
+| 2026-11-08 | The New York Times | [Advertising Revenue Operations Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748489005) | New York, NY | no class year listed; check eligibility | 2026-11-18 |
 | 2026-11-08 | The New York Times | [Marketing Intern, Games](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4749836005) | New York, NY | no class year listed; check eligibility | 2026-11-16 |
 | 2026-11-08 | The New York Times | [Advertising Business Data Analyst Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4750496005) | New York, NY | no class year listed; check eligibility | 2026-11-16 |
+| 2026-11-08 | The New York Times | [Advertising Marketing Measurement Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4750498005) | New York, NY | no class year listed; check eligibility | 2026-11-18 |
+| 2026-11-08 | The New York Times | [Creative Production, TBrand Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4750885005) | New York, NY | no class year listed; check eligibility | 2026-11-18 |
+| 2026-11-08 | The New York Times | [Advertising Marketing Design Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751089005) | New York, NY | open to sophomores | 2026-11-18 |
+| 2026-11-08 | The New York Times | [Advertising Events & Socials Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751091005) | New York, NY | no class year listed; check eligibility | 2026-11-18 |
 
 
 </details>
@@ -88,30 +85,30 @@ _Updated 2026-11-18 11:29 UTC · watching 79 sources · ⚠️ 15 failing: Accen
 | Firm | System | Status | Matches open |
 |---|---|---|---|
 | BCG | eightfold | ✅ | 0 |
-| Accenture | workday | ⚠️ failing (8 runs): HTTPError: HTTP 429 | 0 |
-| PwC | workday | ⚠️ failing (7 runs): HTTPError: HTTP 429 | 0 |
-| Booz Allen | workday | ⚠️ failing (7 runs): HTTPError: HTTP 429 | 0 |
-| Guidehouse | workday | ⚠️ failing (7 runs): HTTPError: HTTP 429 | 0 |
-| Huron | workday | ⚠️ failing (7 runs): HTTPError: HTTP 429 | 0 |
-| Protiviti | workday | ⚠️ failing (7 runs): HTTPError: HTTP 429 | 0 |
+| Accenture | workday | ⚠️ failing (9 runs): HTTPError: HTTP 429 | 0 |
+| PwC | workday | ⚠️ failing (8 runs): HTTPError: HTTP 429 | 0 |
+| Booz Allen | workday | ⚠️ failing (8 runs): HTTPError: HTTP 429 | 0 |
+| Guidehouse | workday | ⚠️ failing (8 runs): HTTPError: HTTP 429 | 0 |
+| Huron | workday | ⚠️ failing (8 runs): HTTPError: HTTP 429 | 0 |
+| Protiviti | workday | ⚠️ failing (8 runs): HTTPError: HTTP 429 | 0 |
 | Grant Thornton | oracle | ✅ | 0 |
 | Cornerstone Research | workday | ✅ | 0 |
 | Analysis Group | icims | ✅ | 0 |
-| Trinity Life Sciences | workday | ✅ | 0 |
+| Trinity Life Sciences | workday | ⚠️ failing (1 runs): HTTPError: HTTP 429 | 0 |
 | Clearview Healthcare Partners | greenhouse | ✅ | 0 |
 | L.E.K. Consulting | oleeo | ✅ | 0 |
 | Oliver Wyman / Marsh McLennan | phenom | ✅ | 0 |
 | Putnam / Inizio | greenhouse | ✅ | 0 |
-| Gartner | workday | ⚠️ failing (7 runs): HTTPError: HTTP 429 | 0 |
+| Gartner | workday | ⚠️ failing (8 runs): HTTPError: HTTP 429 | 0 |
 | WPP | greenhouse | ✅ | 0 |
-| Dentsu | workday | ⚠️ failing (2 runs): HTTPError: HTTP 429 | 0 |
+| Dentsu | workday | ⚠️ failing (3 runs): HTTPError: HTTP 429 | 0 |
 | VaynerMedia | greenhouse | ✅ | 0 |
 | R/GA | greenhouse | ✅ | 0 |
 | P&G | phenom | ✅ | 1 |
-| Johnson & Johnson | workday | ⚠️ failing (7 runs): HTTPError: HTTP 429 | 0 |
-| Pfizer | workday | ⚠️ failing (7 runs): HTTPError: HTTP 429 | 0 |
-| Unilever | workday | ⚠️ failing (7 runs): HTTPError: HTTP 429 | 0 |
-| Tapestry (Coach / Kate Spade) | workday | ⚠️ failing (1 runs): HTTPError: HTTP 429 | 9 |
+| Johnson & Johnson | workday | ⚠️ failing (8 runs): HTTPError: HTTP 429 | 0 |
+| Pfizer | workday | ✅ | 0 |
+| Unilever | workday | ⚠️ failing (8 runs): HTTPError: HTTP 429 | 0 |
+| Tapestry (Coach / Kate Spade) | workday | ⚠️ failing (2 runs): HTTPError: HTTP 429 | 9 |
 | PVH (Calvin Klein / Tommy Hilfiger) | phenom | ✅ | 0 |
 | TJX | phenom | ✅ | 0 |
 | Boston Beer | oracle | ✅ | 1 |
@@ -123,15 +120,15 @@ _Updated 2026-11-18 11:29 UTC · watching 79 sources · ⚠️ 15 failing: Accen
 | SeatGeek | greenhouse | ✅ | 0 |
 | NBCUniversal | smartrecruiters | ✅ | 0 |
 | Warner Bros. Discovery | phenom | ✅ | 0 |
-| Universal Music Group | workday | ⚠️ failing (1 runs): HTTPError: HTTP 429 | 0 |
+| Universal Music Group | workday | ⚠️ failing (2 runs): HTTPError: HTTP 429 | 0 |
 | Spotify | lever | ✅ | 0 |
-| The New York Times | greenhouse | ✅ | 18 |
+| The New York Times | greenhouse | ✅ | 5 |
 | Hearst | greenhouse | ✅ | 0 |
 | iHeartMedia | smartrecruiters | ✅ | 0 |
-| Salesforce | workday | ⚠️ failing (8 runs): HTTPError: HTTP 429 | 1 |
+| Salesforce | workday | ⚠️ failing (9 runs): HTTPError: HTTP 429 | 1 |
 | Oracle | oracle | ✅ | 0 |
 | Adobe | phenom | ✅ | 0 |
-| Workday | workday | ⚠️ failing (7 runs): HTTPError: HTTP 429 | 0 |
+| Workday | workday | ⚠️ failing (8 runs): HTTPError: HTTP 429 | 0 |
 | ServiceNow | smartrecruiters | ✅ | 0 |
 | Amazon | amazon | ✅ | 0 |
 | HubSpot | greenhouse | ✅ | 0 |
@@ -140,7 +137,7 @@ _Updated 2026-11-18 11:29 UTC · watching 79 sources · ⚠️ 15 failing: Accen
 | Snowflake | ashby | ✅ | 0 |
 | Toast | greenhouse | ✅ | 0 |
 | Klaviyo | greenhouse | ✅ | 0 |
-| DraftKings | workday | ✅ | 0 |
+| DraftKings | workday | ⚠️ failing (1 runs): HTTPError: HTTP 429 | 0 |
 | ZoomInfo | greenhouse | ✅ | 0 |
 | Squarespace | greenhouse | ✅ | 0 |
 | Yext | greenhouse | ✅ | 0 |
