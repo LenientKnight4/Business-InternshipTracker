@@ -1,6 +1,6 @@
 # Business internship tracker (marketing / sales / consulting / BD)
 
-_Updated 2026-11-21 21:04 UTC · watching 79 sources · ⚠️ 18 failing: Accenture, PwC, Booz Allen, Guidehouse, Huron, Protiviti, Cornerstone Research, Trinity Life Sciences, Gartner, Dentsu, Johnson & Johnson, Pfizer, Unilever, Tapestry (Coach / Kate Spade), Universal Music Group, Salesforce, Workday, DraftKings_
+_Updated 2026-11-22 01:12 UTC · watching 79 sources · ⚠️ 18 failing: Accenture, PwC, Booz Allen, Guidehouse, Huron, Protiviti, Cornerstone Research, Trinity Life Sciences, Gartner, Dentsu, Johnson & Johnson, Pfizer, Unilever, Tapestry (Coach / Kate Spade), Universal Music Group, Salesforce, Workday, DraftKings_
 
 ## 🎯 Marketing / sales / consulting / BD internships — open now (3)
 
@@ -84,30 +84,30 @@ _Updated 2026-11-21 21:04 UTC · watching 79 sources · ⚠️ 18 failing: Accen
 | Firm | System | Status | Matches open |
 |---|---|---|---|
 | BCG | eightfold | ✅ | 0 |
-| Accenture | workday | ⚠️ failing (19 runs): HTTP 429: Workday is refusing requests from this server right now | 0 |
-| PwC | workday | ⚠️ failing (18 runs): HTTP 429: Workday is refusing requests from this server right now | 0 |
-| Booz Allen | workday | ⚠️ failing (18 runs): HTTP 429: Workday is refusing requests from this server right now | 0 |
-| Guidehouse | workday | ⚠️ failing (18 runs): HTTP 429: Workday is refusing requests from this server right now | 0 |
-| Huron | workday | ⚠️ failing (18 runs): HTTP 429: Workday is refusing requests from this server right now | 0 |
-| Protiviti | workday | ⚠️ failing (18 runs): HTTP 429: Workday is refusing requests from this server right now | 0 |
+| Accenture | workday | ⚠️ failing (20 runs): HTTP 429: Workday is refusing requests from this server right now | 0 |
+| PwC | workday | ⚠️ failing (19 runs): HTTP 429: Workday is refusing requests from this server right now | 0 |
+| Booz Allen | workday | ⚠️ failing (19 runs): HTTP 429: Workday is refusing requests from this server right now | 0 |
+| Guidehouse | workday | ⚠️ failing (19 runs): HTTP 429: Workday is refusing requests from this server right now | 0 |
+| Huron | workday | ⚠️ failing (19 runs): HTTP 429: Workday is refusing requests from this server right now | 0 |
+| Protiviti | workday | ⚠️ failing (19 runs): HTTP 429: Workday is refusing requests from this server right now | 0 |
 | Grant Thornton | oracle | ✅ | 0 |
-| Cornerstone Research | workday | ⚠️ failing (10 runs): HTTP 429: Workday is refusing requests from this server right now | 0 |
+| Cornerstone Research | workday | ⚠️ failing (11 runs): HTTP 429: Workday is refusing requests from this server right now | 0 |
 | Analysis Group | icims | ✅ | 0 |
-| Trinity Life Sciences | workday | ⚠️ failing (11 runs): HTTP 429: Workday is refusing requests from this server right now | 0 |
+| Trinity Life Sciences | workday | ⚠️ failing (12 runs): HTTP 429: Workday is refusing requests from this server right now | 0 |
 | Clearview Healthcare Partners | greenhouse | ✅ | 0 |
 | L.E.K. Consulting | oleeo | ✅ | 0 |
 | Oliver Wyman / Marsh McLennan | phenom | ✅ | 0 |
 | Putnam / Inizio | greenhouse | ✅ | 0 |
-| Gartner | workday | ⚠️ failing (18 runs): HTTP 429: Workday is refusing requests from this server right now | 0 |
+| Gartner | workday | ⚠️ failing (19 runs): HTTP 429: Workday is refusing requests from this server right now | 0 |
 | WPP | greenhouse | ✅ | 0 |
-| Dentsu | workday | ⚠️ failing (13 runs): HTTP 429: Workday is refusing requests from this server right now | 0 |
+| Dentsu | workday | ⚠️ failing (14 runs): HTTP 429: Workday is refusing requests from this server right now | 0 |
 | VaynerMedia | greenhouse | ✅ | 0 |
 | R/GA | greenhouse | ✅ | 0 |
 | P&G | phenom | ✅ | 1 |
-| Johnson & Johnson | workday | ⚠️ failing (18 runs): HTTP 429: Workday is refusing requests from this server right now | 0 |
-| Pfizer | workday | ⚠️ failing (10 runs): HTTP 429: Workday is refusing requests from this server right now | 0 |
-| Unilever | workday | ⚠️ failing (18 runs): HTTP 429: Workday is refusing requests from this server right now | 0 |
-| Tapestry (Coach / Kate Spade) | workday | ⚠️ failing (12 runs): HTTP 429: Workday is refusing requests from this server right now | 9 |
+| Johnson & Johnson | workday | ⚠️ failing (19 runs): HTTP 429: Workday is refusing requests from this server right now | 0 |
+| Pfizer | workday | ⚠️ failing (11 runs): HTTP 429: Workday is refusing requests from this server right now | 0 |
+| Unilever | workday | ⚠️ failing (19 runs): HTTP 429: Workday is refusing requests from this server right now | 0 |
+| Tapestry (Coach / Kate Spade) | workday | ⚠️ failing (13 runs): HTTP 429: Workday is refusing requests from this server right now | 9 |
 | PVH (Calvin Klein / Tommy Hilfiger) | phenom | ✅ | 0 |
 | TJX | phenom | ✅ | 0 |
 | Boston Beer | oracle | ✅ | 0 |
@@ -119,15 +119,15 @@ _Updated 2026-11-21 21:04 UTC · watching 79 sources · ⚠️ 18 failing: Accen
 | SeatGeek | greenhouse | ✅ | 0 |
 | NBCUniversal | smartrecruiters | ✅ | 0 |
 | Warner Bros. Discovery | phenom | ✅ | 0 |
-| Universal Music Group | workday | ⚠️ failing (12 runs): HTTP 429: Workday is refusing requests from this server right now | 0 |
+| Universal Music Group | workday | ⚠️ failing (13 runs): HTTP 429: Workday is refusing requests from this server right now | 0 |
 | Spotify | lever | ✅ | 0 |
 | The New York Times | greenhouse | ✅ | 3 |
 | Hearst | greenhouse | ✅ | 0 |
 | iHeartMedia | smartrecruiters | ✅ | 0 |
-| Salesforce | workday | ⚠️ failing (19 runs): HTTP 429: Workday is refusing requests from this server right now | 1 |
+| Salesforce | workday | ⚠️ failing (20 runs): HTTP 429: Workday is refusing requests from this server right now | 1 |
 | Oracle | oracle | ✅ | 0 |
 | Adobe | phenom | ✅ | 0 |
-| Workday | workday | ⚠️ failing (18 runs): HTTP 429: Workday is refusing requests from this server right now | 0 |
+| Workday | workday | ⚠️ failing (19 runs): HTTP 429: Workday is refusing requests from this server right now | 0 |
 | ServiceNow | smartrecruiters | ✅ | 0 |
 | Amazon | amazon | ✅ | 0 |
 | HubSpot | greenhouse | ✅ | 0 |
@@ -136,7 +136,7 @@ _Updated 2026-11-21 21:04 UTC · watching 79 sources · ⚠️ 18 failing: Accen
 | Snowflake | ashby | ✅ | 0 |
 | Toast | greenhouse | ✅ | 0 |
 | Klaviyo | greenhouse | ✅ | 0 |
-| DraftKings | workday | ⚠️ failing (11 runs): HTTP 429: Workday is refusing requests from this server right now | 0 |
+| DraftKings | workday | ⚠️ failing (12 runs): HTTP 429: Workday is refusing requests from this server right now | 0 |
 | ZoomInfo | greenhouse | ✅ | 0 |
 | Squarespace | greenhouse | ✅ | 0 |
 | Yext | greenhouse | ✅ | 0 |
