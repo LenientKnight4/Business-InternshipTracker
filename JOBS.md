@@ -1,6 +1,6 @@
 # Business internship tracker (marketing / sales / consulting / BD)
 
-_Updated 2026-11-25 14:14 UTC · watching 79 sources · ⚠️ 18 failing: Accenture, PwC, Booz Allen, Guidehouse, Huron, Protiviti, Cornerstone Research, Trinity Life Sciences, Gartner, Dentsu, Johnson & Johnson, Pfizer, Unilever, Tapestry (Coach / Kate Spade), Universal Music Group, Salesforce, Workday, DraftKings_
+_Updated 2026-11-25 23:16 UTC · watching 79 sources · ⚠️ 18 failing: Accenture, PwC, Booz Allen, Guidehouse, Huron, Protiviti, Cornerstone Research, Trinity Life Sciences, Gartner, Dentsu, Johnson & Johnson, Pfizer, Unilever, Tapestry (Coach / Kate Spade), Universal Music Group, Salesforce, Workday, DraftKings_
 
 ## 🎯 Marketing / sales / consulting / BD internships — open now (2)
 
@@ -21,6 +21,7 @@ _Updated 2026-11-25 14:14 UTC · watching 79 sources · ⚠️ 18 failing: Accen
 
 | Found | Firm | Role | Location | Who can apply |
 |---|---|---|---|---|
+| 2026-11-25 | Coinbase | [Security Engineer Intern](https://www.coinbase.com/careers/positions/8415869?gh_jid=8415869) | Hybrid - New York, NY | no class year listed; check eligibility |
 | 2026-11-13 | Tapestry (Coach / Kate Spade) | [Summer Buying & Planning Internship](https://tapestry.wd108.myworkdayjobs.com/Tapestry_Careers/job/New-York-New-York-USA-Corporate-Headquarters/Summer-Buying---Planning-Internship_JR20945) | New York, New York, USA (Corporate Headquarters) | no class year listed; check eligibility |
 | 2026-11-13 | Tapestry (Coach / Kate Spade) | [Summer Corporate Communications, Talent Acquisition, & Human Resources Internship](https://tapestry.wd108.myworkdayjobs.com/Tapestry_Careers/job/New-York-New-York-USA-Corporate-Headquarters/Summer-Corporate-Communications--Talent-Acquisition---Human-Resources-Internship_JR20955) | New York, New York, USA (Corporate Headquarters) | no class year listed; check eligibility |
 | 2026-11-13 | Tapestry (Coach / Kate Spade) | [Summer ESG, Sustainability, & Trade Compliance Internship](https://tapestry.wd108.myworkdayjobs.com/Tapestry_Careers/job/New-York-New-York-USA-Corporate-Headquarters/Summer-ESG--Sustainability----Trade-Compliance--Internship_JR20961) | New York, New York, USA (Corporate Headquarters) | no class year listed; check eligibility |
@@ -38,7 +39,6 @@ _Updated 2026-11-25 14:14 UTC · watching 79 sources · ⚠️ 18 failing: Accen
 | 2026-11-08 | Coinbase | [Payment Risk Intern](https://www.coinbase.com/careers/positions/8175447?gh_jid=8175447) | Hybrid - New York, NY | no class year listed; check eligibility |
 | 2026-11-08 | Coinbase | [Tax Operations Intern](https://www.coinbase.com/careers/positions/8175453?gh_jid=8175453) | Hybrid - New York, NY | no class year listed; check eligibility |
 | 2026-11-08 | Coinbase | [Analytics Engineer Intern](https://www.coinbase.com/careers/positions/8175471?gh_jid=8175471) | Hybrid - New York, NY | no class year listed; check eligibility |
-| 2026-11-08 | Coinbase | [Real Estate & Builds Intern](https://www.coinbase.com/careers/positions/8175507?gh_jid=8175507) | Hybrid - New York, NY | no class year listed; check eligibility |
 | 2026-11-08 | Coinbase | [Forward Deployed Engineer Intern (HR Technology)](https://www.coinbase.com/careers/positions/8175510?gh_jid=8175510) | Hybrid - New York, NY | no class year listed; check eligibility |
 | 2026-11-08 | Coinbase | [People Analytics Intern](https://www.coinbase.com/careers/positions/8175517?gh_jid=8175517) | Hybrid - New York, NY | no class year listed; check eligibility |
 | 2026-11-08 | Coinbase | [Policy Intern](https://www.coinbase.com/careers/positions/8175556?gh_jid=8175556) | Hybrid - New York, NY | no class year listed; check eligibility |
@@ -82,30 +82,30 @@ _Updated 2026-11-25 14:14 UTC · watching 79 sources · ⚠️ 18 failing: Accen
 | Firm | System | Status | Matches open |
 |---|---|---|---|
 | BCG | eightfold | ✅ | 0 |
-| Accenture | workday | ⚠️ failing (30 runs): HTTP 429: Workday is refusing requests from this server right now | 0 |
-| PwC | workday | ⚠️ failing (29 runs): HTTP 429: Workday is refusing requests from this server right now | 0 |
-| Booz Allen | workday | ⚠️ failing (29 runs): HTTP 429: Workday is refusing requests from this server right now | 0 |
-| Guidehouse | workday | ⚠️ failing (29 runs): HTTP 429: Workday is refusing requests from this server right now | 0 |
-| Huron | workday | ⚠️ failing (29 runs): HTTP 429: Workday is refusing requests from this server right now | 0 |
-| Protiviti | workday | ⚠️ failing (29 runs): HTTP 429: Workday is refusing requests from this server right now | 0 |
+| Accenture | workday | ⚠️ failing (31 runs): HTTP 429: Workday is refusing requests from this server right now | 0 |
+| PwC | workday | ⚠️ failing (30 runs): HTTP 429: Workday is refusing requests from this server right now | 0 |
+| Booz Allen | workday | ⚠️ failing (30 runs): HTTP 429: Workday is refusing requests from this server right now | 0 |
+| Guidehouse | workday | ⚠️ failing (30 runs): HTTP 429: Workday is refusing requests from this server right now | 0 |
+| Huron | workday | ⚠️ failing (30 runs): HTTP 429: Workday is refusing requests from this server right now | 0 |
+| Protiviti | workday | ⚠️ failing (30 runs): HTTP 429: Workday is refusing requests from this server right now | 0 |
 | Grant Thornton | oracle | ✅ | 0 |
-| Cornerstone Research | workday | ⚠️ failing (21 runs): HTTP 429: Workday is refusing requests from this server right now | 0 |
+| Cornerstone Research | workday | ⚠️ failing (22 runs): HTTP 429: Workday is refusing requests from this server right now | 0 |
 | Analysis Group | icims | ✅ | 0 |
-| Trinity Life Sciences | workday | ⚠️ failing (22 runs): HTTP 429: Workday is refusing requests from this server right now | 0 |
+| Trinity Life Sciences | workday | ⚠️ failing (23 runs): HTTP 429: Workday is refusing requests from this server right now | 0 |
 | Clearview Healthcare Partners | greenhouse | ✅ | 0 |
 | L.E.K. Consulting | oleeo | ✅ | 0 |
 | Oliver Wyman / Marsh McLennan | phenom | ✅ | 0 |
 | Putnam / Inizio | greenhouse | ✅ | 0 |
-| Gartner | workday | ⚠️ failing (29 runs): HTTP 429: Workday is refusing requests from this server right now | 0 |
+| Gartner | workday | ⚠️ failing (30 runs): HTTP 429: Workday is refusing requests from this server right now | 0 |
 | WPP | greenhouse | ✅ | 0 |
-| Dentsu | workday | ⚠️ failing (24 runs): HTTP 429: Workday is refusing requests from this server right now | 0 |
+| Dentsu | workday | ⚠️ failing (25 runs): HTTP 429: Workday is refusing requests from this server right now | 0 |
 | VaynerMedia | greenhouse | ✅ | 0 |
 | R/GA | greenhouse | ✅ | 0 |
 | P&G | phenom | ✅ | 1 |
-| Johnson & Johnson | workday | ⚠️ failing (29 runs): HTTP 429: Workday is refusing requests from this server right now | 0 |
-| Pfizer | workday | ⚠️ failing (21 runs): HTTP 429: Workday is refusing requests from this server right now | 0 |
-| Unilever | workday | ⚠️ failing (29 runs): HTTP 429: Workday is refusing requests from this server right now | 0 |
-| Tapestry (Coach / Kate Spade) | workday | ⚠️ failing (23 runs): HTTP 429: Workday is refusing requests from this server right now | 9 |
+| Johnson & Johnson | workday | ⚠️ failing (30 runs): HTTP 429: Workday is refusing requests from this server right now | 0 |
+| Pfizer | workday | ⚠️ failing (22 runs): HTTP 429: Workday is refusing requests from this server right now | 0 |
+| Unilever | workday | ⚠️ failing (30 runs): HTTP 429: Workday is refusing requests from this server right now | 0 |
+| Tapestry (Coach / Kate Spade) | workday | ⚠️ failing (24 runs): HTTP 429: Workday is refusing requests from this server right now | 9 |
 | PVH (Calvin Klein / Tommy Hilfiger) | phenom | ✅ | 0 |
 | TJX | phenom | ✅ | 0 |
 | Boston Beer | oracle | ✅ | 0 |
@@ -117,15 +117,15 @@ _Updated 2026-11-25 14:14 UTC · watching 79 sources · ⚠️ 18 failing: Accen
 | SeatGeek | greenhouse | ✅ | 0 |
 | NBCUniversal | smartrecruiters | ✅ | 0 |
 | Warner Bros. Discovery | phenom | ✅ | 0 |
-| Universal Music Group | workday | ⚠️ failing (23 runs): HTTP 429: Workday is refusing requests from this server right now | 0 |
+| Universal Music Group | workday | ⚠️ failing (24 runs): HTTP 429: Workday is refusing requests from this server right now | 0 |
 | Spotify | lever | ✅ | 0 |
 | The New York Times | greenhouse | ✅ | 0 |
 | Hearst | greenhouse | ✅ | 0 |
 | iHeartMedia | smartrecruiters | ✅ | 0 |
-| Salesforce | workday | ⚠️ failing (30 runs): HTTP 429: Workday is refusing requests from this server right now | 1 |
+| Salesforce | workday | ⚠️ failing (31 runs): HTTP 429: Workday is refusing requests from this server right now | 1 |
 | Oracle | oracle | ✅ | 0 |
 | Adobe | phenom | ✅ | 0 |
-| Workday | workday | ⚠️ failing (29 runs): HTTP 429: Workday is refusing requests from this server right now | 0 |
+| Workday | workday | ⚠️ failing (30 runs): HTTP 429: Workday is refusing requests from this server right now | 0 |
 | ServiceNow | smartrecruiters | ✅ | 0 |
 | Amazon | amazon | ✅ | 0 |
 | HubSpot | greenhouse | ✅ | 0 |
@@ -134,7 +134,7 @@ _Updated 2026-11-25 14:14 UTC · watching 79 sources · ⚠️ 18 failing: Accen
 | Snowflake | ashby | ✅ | 0 |
 | Toast | greenhouse | ✅ | 0 |
 | Klaviyo | greenhouse | ✅ | 0 |
-| DraftKings | workday | ⚠️ failing (22 runs): HTTP 429: Workday is refusing requests from this server right now | 0 |
+| DraftKings | workday | ⚠️ failing (23 runs): HTTP 429: Workday is refusing requests from this server right now | 0 |
 | ZoomInfo | greenhouse | ✅ | 0 |
 | Squarespace | greenhouse | ✅ | 0 |
 | Yext | greenhouse | ✅ | 0 |

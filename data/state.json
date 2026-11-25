@@ -95,11 +95,6 @@
    "source": "Coinbase",
    "why": "no class year listed; check eligibility"
   },
-  "gh:coinbase:8175507": {
-   "ok": true,
-   "source": "Coinbase",
-   "why": "no class year listed; check eligibility"
-  },
   "gh:coinbase:8175510": {
    "ok": true,
    "source": "Coinbase",
@@ -136,6 +131,11 @@
    "why": "no class year listed; check eligibility"
   },
   "gh:coinbase:8376084": {
+   "ok": true,
+   "source": "Coinbase",
+   "why": "no class year listed; check eligibility"
+  },
+  "gh:coinbase:8415869": {
    "ok": true,
    "source": "Coinbase",
    "why": "no class year listed; check eligibility"
@@ -446,6 +446,16 @@
    "why": "not in NYC / Boston"
   },
   "tal:L.E.K. Consulting:4152": {
+   "ok": false,
+   "source": "L.E.K. Consulting",
+   "why": "summer 2027, no sign sophomores can apply"
+  },
+  "tal:L.E.K. Consulting:4181": {
+   "ok": false,
+   "source": "L.E.K. Consulting",
+   "why": "summer 2027, no sign sophomores can apply"
+  },
+  "tal:L.E.K. Consulting:4183": {
    "ok": false,
    "source": "L.E.K. Consulting",
    "why": "summer 2027, no sign sophomores can apply"
@@ -1173,12 +1183,12 @@
    "url": "https://www.coinbase.com/careers/positions/8175471?gh_jid=8175471"
   },
   "gh:coinbase:8175507": {
-   "closed": null,
+   "closed": "2026-11-25T23:16:09+00:00",
    "firm": "Coinbase",
    "fit": "no class year listed; check eligibility",
    "found": "2026-11-08T09:26:28+00:00",
    "location": "Hybrid - New York, NY",
-   "open": true,
+   "open": false,
    "posted": "2026-09-08",
    "priority": "low",
    "source": "Coinbase",
@@ -1288,6 +1298,19 @@
    "source": "Coinbase",
    "title": "Strategic Sourcing Intern",
    "url": "https://www.coinbase.com/careers/positions/8376084?gh_jid=8376084"
+  },
+  "gh:coinbase:8415869": {
+   "closed": null,
+   "firm": "Coinbase",
+   "fit": "no class year listed; check eligibility",
+   "found": "2026-11-25T23:16:09+00:00",
+   "location": "Hybrid - New York, NY",
+   "open": true,
+   "posted": "2026-11-25",
+   "priority": "low",
+   "source": "Coinbase",
+   "title": "Security Engineer Intern",
+   "url": "https://www.coinbase.com/careers/positions/8415869?gh_jid=8415869"
   },
   "gh:datadog:8052118": {
    "closed": "2026-11-16T19:48:40+00:00",
@@ -1932,7 +1955,7 @@
   "Accenture": {
    "alerted": true,
    "error": "HTTP 429: Workday is refusing requests from this server right now",
-   "failures": 30,
+   "failures": 31,
    "seeded": true
   },
   "Adobe": {
@@ -1998,7 +2021,7 @@
   "Booz Allen": {
    "alerted": true,
    "error": "HTTP 429: Workday is refusing requests from this server right now",
-   "failures": 29,
+   "failures": 30,
    "seeded": true
   },
   "Boston Beer": {
@@ -2046,7 +2069,7 @@
   "Cornerstone Research": {
    "alerted": true,
    "error": "HTTP 429: Workday is refusing requests from this server right now",
-   "failures": 21,
+   "failures": 22,
    "seeded": true
   },
   "Datadog": {
@@ -2058,13 +2081,13 @@
   "Dentsu": {
    "alerted": true,
    "error": "HTTP 429: Workday is refusing requests from this server right now",
-   "failures": 24,
+   "failures": 25,
    "seeded": true
   },
   "DraftKings": {
    "alerted": true,
    "error": "HTTP 429: Workday is refusing requests from this server right now",
-   "failures": 22,
+   "failures": 23,
    "seeded": true
   },
   "Duolingo": {
@@ -2082,7 +2105,7 @@
   "Gartner": {
    "alerted": true,
    "error": "HTTP 429: Workday is refusing requests from this server right now",
-   "failures": 29,
+   "failures": 30,
    "seeded": true
   },
   "Glossier": {
@@ -2100,7 +2123,7 @@
   "Guidehouse": {
    "alerted": true,
    "error": "HTTP 429: Workday is refusing requests from this server right now",
-   "failures": 29,
+   "failures": 30,
    "seeded": true
   },
   "Hasbro": {
@@ -2124,13 +2147,13 @@
   "Huron": {
    "alerted": true,
    "error": "HTTP 429: Workday is refusing requests from this server right now",
-   "failures": 29,
+   "failures": 30,
    "seeded": true
   },
   "Johnson & Johnson": {
    "alerted": true,
    "error": "HTTP 429: Workday is refusing requests from this server right now",
-   "failures": 29,
+   "failures": 30,
    "seeded": true
   },
   "Klaviyo": {
@@ -2202,7 +2225,7 @@
   "Pfizer": {
    "alerted": true,
    "error": "HTTP 429: Workday is refusing requests from this server right now",
-   "failures": 21,
+   "failures": 22,
    "seeded": true
   },
   "Pinterest": {
@@ -2220,7 +2243,7 @@
   "Protiviti": {
    "alerted": true,
    "error": "HTTP 429: Workday is refusing requests from this server right now",
-   "failures": 29,
+   "failures": 30,
    "seeded": true
   },
   "Putnam / Inizio": {
@@ -2232,7 +2255,7 @@
   "PwC": {
    "alerted": true,
    "error": "HTTP 429: Workday is refusing requests from this server right now",
-   "failures": 29,
+   "failures": 30,
    "seeded": true
   },
   "R/GA": {
@@ -2262,7 +2285,7 @@
   "Salesforce": {
    "alerted": true,
    "error": "HTTP 429: Workday is refusing requests from this server right now",
-   "failures": 30,
+   "failures": 31,
    "seeded": true
   },
   "SeatGeek": {
@@ -2316,7 +2339,7 @@
   "Tapestry (Coach / Kate Spade)": {
    "alerted": true,
    "error": "HTTP 429: Workday is refusing requests from this server right now",
-   "failures": 23,
+   "failures": 24,
    "seeded": true
   },
   "The New York Times": {
@@ -2340,7 +2363,7 @@
   "Trinity Life Sciences": {
    "alerted": true,
    "error": "HTTP 429: Workday is refusing requests from this server right now",
-   "failures": 22,
+   "failures": 23,
    "seeded": true
   },
   "Twilio": {
@@ -2352,13 +2375,13 @@
   "Unilever": {
    "alerted": true,
    "error": "HTTP 429: Workday is refusing requests from this server right now",
-   "failures": 29,
+   "failures": 30,
    "seeded": true
   },
   "Universal Music Group": {
    "alerted": true,
    "error": "HTTP 429: Workday is refusing requests from this server right now",
-   "failures": 23,
+   "failures": 24,
    "seeded": true
   },
   "VaynerMedia": {
@@ -2382,7 +2405,7 @@
   "Workday": {
    "alerted": true,
    "error": "HTTP 429: Workday is refusing requests from this server right now",
-   "failures": 29,
+   "failures": 30,
    "seeded": true
   },
   "Yext": {
@@ -2406,7 +2429,7 @@
  },
  "week": {
   "high": 0,
-  "low": 0,
+  "low": 1,
   "medium": 0
  }
 }
