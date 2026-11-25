@@ -1932,7 +1932,7 @@
   "Accenture": {
    "alerted": true,
    "error": "HTTP 429: Workday is refusing requests from this server right now",
-   "failures": 29,
+   "failures": 30,
    "seeded": true
   },
   "Adobe": {
@@ -1998,7 +1998,7 @@
   "Booz Allen": {
    "alerted": true,
    "error": "HTTP 429: Workday is refusing requests from this server right now",
-   "failures": 28,
+   "failures": 29,
    "seeded": true
   },
   "Boston Beer": {
@@ -2046,7 +2046,7 @@
   "Cornerstone Research": {
    "alerted": true,
    "error": "HTTP 429: Workday is refusing requests from this server right now",
-   "failures": 20,
+   "failures": 21,
    "seeded": true
   },
   "Datadog": {
@@ -2058,13 +2058,13 @@
   "Dentsu": {
    "alerted": true,
    "error": "HTTP 429: Workday is refusing requests from this server right now",
-   "failures": 23,
+   "failures": 24,
    "seeded": true
   },
   "DraftKings": {
    "alerted": true,
    "error": "HTTP 429: Workday is refusing requests from this server right now",
-   "failures": 21,
+   "failures": 22,
    "seeded": true
   },
   "Duolingo": {
@@ -2082,7 +2082,7 @@
   "Gartner": {
    "alerted": true,
    "error": "HTTP 429: Workday is refusing requests from this server right now",
-   "failures": 28,
+   "failures": 29,
    "seeded": true
   },
   "Glossier": {
@@ -2100,7 +2100,7 @@
   "Guidehouse": {
    "alerted": true,
    "error": "HTTP 429: Workday is refusing requests from this server right now",
-   "failures": 28,
+   "failures": 29,
    "seeded": true
   },
   "Hasbro": {
@@ -2124,13 +2124,13 @@
   "Huron": {
    "alerted": true,
    "error": "HTTP 429: Workday is refusing requests from this server right now",
-   "failures": 28,
+   "failures": 29,
    "seeded": true
   },
   "Johnson & Johnson": {
    "alerted": true,
    "error": "HTTP 429: Workday is refusing requests from this server right now",
-   "failures": 28,
+   "failures": 29,
    "seeded": true
   },
   "Klaviyo": {
@@ -2202,7 +2202,7 @@
   "Pfizer": {
    "alerted": true,
    "error": "HTTP 429: Workday is refusing requests from this server right now",
-   "failures": 20,
+   "failures": 21,
    "seeded": true
   },
   "Pinterest": {
@@ -2220,7 +2220,7 @@
   "Protiviti": {
    "alerted": true,
    "error": "HTTP 429: Workday is refusing requests from this server right now",
-   "failures": 28,
+   "failures": 29,
    "seeded": true
   },
   "Putnam / Inizio": {
@@ -2232,7 +2232,7 @@
   "PwC": {
    "alerted": true,
    "error": "HTTP 429: Workday is refusing requests from this server right now",
-   "failures": 28,
+   "failures": 29,
    "seeded": true
   },
   "R/GA": {
@@ -2262,7 +2262,7 @@
   "Salesforce": {
    "alerted": true,
    "error": "HTTP 429: Workday is refusing requests from this server right now",
-   "failures": 29,
+   "failures": 30,
    "seeded": true
   },
   "SeatGeek": {
@@ -2316,7 +2316,7 @@
   "Tapestry (Coach / Kate Spade)": {
    "alerted": true,
    "error": "HTTP 429: Workday is refusing requests from this server right now",
-   "failures": 22,
+   "failures": 23,
    "seeded": true
   },
   "The New York Times": {
@@ -2340,7 +2340,7 @@
   "Trinity Life Sciences": {
    "alerted": true,
    "error": "HTTP 429: Workday is refusing requests from this server right now",
-   "failures": 21,
+   "failures": 22,
    "seeded": true
   },
   "Twilio": {
@@ -2352,13 +2352,13 @@
   "Unilever": {
    "alerted": true,
    "error": "HTTP 429: Workday is refusing requests from this server right now",
-   "failures": 28,
+   "failures": 29,
    "seeded": true
   },
   "Universal Music Group": {
    "alerted": true,
    "error": "HTTP 429: Workday is refusing requests from this server right now",
-   "failures": 22,
+   "failures": 23,
    "seeded": true
   },
   "VaynerMedia": {
@@ -2382,7 +2382,7 @@
   "Workday": {
    "alerted": true,
    "error": "HTTP 429: Workday is refusing requests from this server right now",
-   "failures": 28,
+   "failures": 29,
    "seeded": true
   },
   "Yext": {
